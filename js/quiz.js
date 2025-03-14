@@ -83,7 +83,6 @@ fetch(dataFile)
                 'wrongQuestions': wrongQuestions
             }));
             localStorage.setItem("lessonId", JSON.stringify(lessonId));
-            console.log(lessonId);
 
             window.location.href = `details.html?courseId=${courseId}&lessonId=${lessonId}`;
         }
