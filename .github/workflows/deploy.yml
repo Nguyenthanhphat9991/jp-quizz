@@ -1,0 +1,20 @@
+name: Deploy Static Website
+
+on:
+  push:
+    branches:
+      - main  # Tự động chạy khi có thay đổi trên nhánh main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: main  # Đẩy file lên branch main
+          folder: .  # Copy toàn bộ file trong repo
