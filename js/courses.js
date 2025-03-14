@@ -2,11 +2,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const urlParams = new URLSearchParams(window.location.search);
     const courseId = urlParams.get("courseId");
 
-    if (courseId == 2) {
-        window.location.href = `quiz.html?courseId=${courseId}`;
-        return;
-    }
-
     fetch('./data/courses.json')
         .then(response => response.json())
         .then(data => {
@@ -26,21 +21,22 @@ document.addEventListener("DOMContentLoaded", () => {
                 <i class="fa fa-book"></i> <a href="./index.html">Khóa học</a><span>/</span><a href="#"> ${course.title}</a>
             `;
 
-            course.lessons.forEach(lesson => {
-                const lessonCol = document.createElement("div");
-                lessonCol.classList.add("col-md-3", "mb-4");
+            course.categorys.forEach(category => {
+                const categoryCol = document.createElement("div");
+                categoryCol.classList.add("col-md-3", "mb-4");
 
-                lessonCol.innerHTML = `
+                categoryCol.innerHTML = `
                     <div class="lesson-card">
-                        <p>${lesson.title}</p>
+                        <p>${category.title}</p>
+                        <span>${category.description}</span>
                     </div>
                 `;
 
-                lessonCol.addEventListener("click", () => {
-                    window.location.href = `quiz.html?courseId=${courseId}&lessonId=${lesson.id}`;
+                categoryCol.addEventListener("click", () => {
+                    window.location.href = `category.html?courseId=${courseId}&categoryId=${category.id}`;
                 });
 
-                courseContainer.appendChild(lessonCol);
+                courseContainer.appendChild(categoryCol);
             });
         })
         .catch(error => console.error('Lỗi khi tải dữ liệu:', error));
