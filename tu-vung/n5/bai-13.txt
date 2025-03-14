@@ -1,0 +1,34 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Tính từ đuôi い,からい (karai),辛い (karai),Cay
+Tính từ đuôi い,おおい (ooi),多い (ooi),Đông, nhiều
+Tính từ đuôi な,ひま (hima),,Rảnh
+Tính từ đuôi な,ふべん (fuben),不便 (fuben),Bất tiện
+Tính từ đuôi な,ふくざつ (fukuzatsu),複雑 (fukuzatsu),Phức tạp
+Danh từ,おはなみ (ohanami),お花見 (ohanami),Ngắm hoa
+Danh từ,しあい (shiai),試合 (shiai),Trận đấu
+Danh từ,しゅうまつ (shuumatsu),週末 (shuumatsu),Cuối tuần
+Danh từ,はじめて (hajimete),初めて (hajimete),Lần đầu tiên
+Danh từ,さっき (sakki),,Vừa nãy
+Danh từ,はれ (hare),晴れ (hare),Nắng
+Danh từ,くもり (kumori),曇り (kumori),Âm u, nhiều mây
+Danh từ,アルバイト (arubaito),,Việc làm thêm
+Danh từ,はなびたいかい (hanabi taikai),花火大会 (hanabi taikai),Lễ hội pháo hoa
+Danh từ,イベント (ibento),,Sự kiện
+Danh từ,うみ (umi),海 (umi),Biển
+Danh từ,プール (puuru),,Hồ bơi
+Động từ,つかれます (tsukaremasu),疲れます (tsukaremasu),Mệt
+Động từ,でかけます (dekakemasu),出かけます (dekakemasu),Đi ra ngoài
+Động từ,のぼります (noborimasu),登ります (noborimasu),Leo
+Động từ,あいます (aimasu),会います (aimasu),Gặp
+Động từ,りょこうします (ryokou shimasu),旅行します (ryokou shimasu),Du lịch
+Động từ,およぎます (oyogimasu),泳ぎます (oyogimasu),Bơi
+Khác,なにか (nanika),何か (nanika),Cái gì đó
+Khác,どこか (dokoka),,Đâu đó
+Khác,いっしょに (issho ni),,Cùng nhau -
+Hội thoại,(place)で(event)があります ((place) de (event) ga arimasu),,Có (sự kiện/ sự việc) ở (địa điểm)
+Hội thoại,みにいきます (mi ni ikimasu),見に行きます (mi ni ikimasu),Đi xem
+Hội thoại,またこんど (mata kondo),また今度 (mata kondo),Hẹn lần sau
+Hội thoại,ざんねん (zannen),,Đáng tiếc
+Hội thoại,ちょっと... (chotto...),,Không được rồi... (từ chối)
+Hội thoại,だめ (dame),,Không được
+Hội thoại,たぶん だいじょうぶです (tabun daijoubu desu),多分大丈夫です (tabun daijoubu desu),Có lẽ là ổn.

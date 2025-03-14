@@ -1,0 +1,39 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Tính từ,おそい (osoi),遅い (osoi),Muộn, chậm
+Tính từ,はやい (hayai),早い (hayai),Nhanh, lẹ
+Tính từ,たいせつ (taisetsu),大切 (taisetsu),Quan trọng
+Tính từ,ながい (nagai),長い (nagai),Dài
+Tính từ,みじかい (mijikai),短い (mijikai),Ngắn
+Bộ phận cơ thể,あたま (atama),頭 (atama),Đầu
+Bộ phận cơ thể,かみ (kami),髪 (kami),Tóc
+Bộ phận cơ thể,くち (kuchi),口 (kuchi),Miệng
+Bộ phận cơ thể,はな (hana),鼻 (hana),Mũi
+Bộ phận cơ thể,みみ (mimi),耳 (mimi),Tai
+Bộ phận cơ thể,あし (ashi),足 (ashi),Chân
+Bộ phận cơ thể,て (te),手 (te),Tay
+Bộ phận cơ thể,せ (se),背 (se),Lưng
+Mùa,きせつ (kisetsu),季節 (kisetsu),Mùa
+Mùa,はる (haru),春 (haru),Mùa xuân
+Mùa,なつ (natsu),夏 (natsu),Mùa hè
+Mùa,あき (aki),秋 (aki),Mùa thu
+Mùa,ふゆ (fuyu),冬 (fuyu),Mùa đông
+Động vật,サル (saru),猿 (saru),Khỉ
+Động vật,ゾウ (zou),象 (zou),Voi
+Địa điểm,やま (yama),山 (yama),Núi
+Địa điểm,エベレスト (eberesuto),,Đỉnh Everest
+Danh từ,ことば (kotoba),言葉 (kotoba),Từ vựng
+Danh từ,がいこく (gaikoku),外国 (gaikoku),Nước ngoài
+Danh từ,もの (mono),物 (mono),Đồ vật
+Danh từ,みょうじ (myouji),名字 (myouji),Họ
+Danh từ,いちばん (ichiban),一番 (ichiban),Thứ nhất
+Danh từ,くうき (kuuki),空気 (kuuki),Không khí
+Danh từ,ぎゅうにく (gyuuniku),牛肉 (gyuuniku),Thịt bò
+Danh từ,とりにく (toriniku),鶏肉 (toriniku),Thịt gà
+Danh từ,せかい (sekai),世界 (sekai),Thế giới
+Danh từ,つごう (tsugou),都合 (tsugou),Sự thuận tiện
+Danh từ,ねだん (nedan),値段 (nedan),Giá cả
+Danh từ,ぶっか (bukka),物価 (bukka),Vật giá
+Danh từ,ふく (fuku),服 (fuku),Quần áo
+Danh từ,いろいろ(な) (iroiro (na)),,Nhiều, đa dạng
+Danh từ,ずっと (zutto),,Suốt hẳn
+Danh từ,どちら (dochira),,Cái nào

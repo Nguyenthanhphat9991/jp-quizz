@@ -1,0 +1,39 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Động từ,たべます (tabemasu),食べます (tabemasu),Ăn
+Động từ,のみます (nomimasu),飲みます (nomimasu),Uống
+Động từ,みます (mimasu),見ます (mimasu),Nhìn
+Động từ,ききます (kikimasu),聞きます (kikimasu),Nghe
+Động từ,よみます (yomimasu),読みます (yomimasu),Đọc
+Động từ,かきます (kakimasu),書きます (kakimasu),Viết
+Động từ,かいます (kaimasu),買います (kaimasu),Mua
+Động từ,きります (kirimasu),切ります (kirimasu),Cắt
+Động từ,とります (torimasu),撮ります (torimasu),Chụp (ảnh)
+Động từ,だします (dashimasu),出します (dashimasu),Nộp (bài), đổ (rác)
+Động từ,わけます (wakemasu),分けます (wakemasu),Phân loại, phân chia
+Động từ,します (shimasu),,Làm
+Đồ ăn,さかな (sakana),魚 (sakana),Cá
+Đồ ăn,たまご (tamago),卵 (tamago),Trứng
+Đồ ăn,ごはん (gohan)/(あさごはん (asagohan)/ひるごはん (hirugohan)/ばんごはん (bangohan)),ご飯 (gohan)/(朝ご飯 (asagohan)/昼ご飯 (hirugohan)/晩ご飯 (bangohan)),Cơm (cơm sáng/cơm trưa/cơm tối)
+Đồ ăn,にく (niku),肉 (niku),Thịt
+Đồ ăn,くだもの (kudamono),果物 (kudamono),Trái cây, hoa quả
+Đồ ăn,やさい (yasai),野菜 (yasai),Rau
+Đồ uống,おちゃ (ocha),お茶 (ocha),Trà
+Đồ uống,ぎゅうにゅう (gyuunyuu)/(ミルク (miruku)),牛乳 (gyuunyuu),Sữa
+Đồ uống,ジュース (juusu),,Nước ép
+Đồ uống,ビール (biiru),,Bia
+Đồ uống,みず (mizu),水 (mizu),Nước
+Giải trí,âm nhạc (ongaku),音楽 (ongaku),Âm nhạc
+Giải trí,しゃしん (shashin),写真 (shashin),Ảnh
+Giải trí,サッカー (sakkaa),,Bóng đá
+Giải trí,テレビ (terebi),,TV
+Truyền thông,メール (meeru),,Mail
+Truyền thông,メッセージ (messeji),,Tin nhắn
+Khác,かみ (kami),紙 (kami),Giấy
+Khác,しゅくだい (shukudai),宿題 (shukudai),Bài tập
+Khác,ゴミ (gomi),,Rác
+Khác,パーティー (paatii),,Buổi tiệc
+Khác,レポート (repooto),,Báo cáo
+Công cụ,ナイフ (naifu),,Dao
+Công cụ,スプーン (supuun),,Thìa, muỗng
+Công cụ,はし (hashi),,Đũa
+Công cụ,はさみ (hasami),鋏 (hasami),Kéo

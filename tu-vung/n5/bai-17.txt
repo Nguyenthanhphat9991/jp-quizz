@@ -1,0 +1,31 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Động từ,いれます (iremasu),入れます (iremasu),Cho vào
+Động từ,おきます (okimasu),置きます (okimasu),Đặt, để
+Động từ,かいます (kaimasu),飼います (kaimasu),Nuôi
+Động từ,てつだいます (tetsudaimasu),手伝います (tetsudaimasu),Giúp
+Động từ,うんてんします (unten shimasu),運転します (unten shimasu),Lái
+Động từ,さわります (sawarimasu),触ります (sawarimasu),Chạm
+Động từ,いそぎます (isogimasu),急ぎます (isogimasu),Vội
+Động từ,はいります (hairimasu),入ります (hairimasu),Vào
+Động từ,でます (demasu),出ます (demasu),Ra
+Động từ,はしります (hashirimasu),走ります (hashirimasu),Chạy
+Động từ,まがります (magarimasu),曲がります (magarimasu),Quẹo, rẽ
+Động từ,とめます (tomemasu),止めます (tomemasu),Dừng lại
+Động từ,とります (torimasu),取ります (torimasu),Lấy
+Động từ,あけます (akemasu),開けます (akemasu),Mở
+Động từ,しめます (shimemasu),閉めます (shimemasu),Đóng
+Động từ,けします (keshimasu),消します (keshimasu),Tắt, xóa
+Động từ,つけます (tsukemasu),つけます (tsukemasu),Bật
+Danh từ,びょうき (byouki),病気 (byouki),Bệnh, ốm
+Danh từ,でんき (denki),電気 (denki),Điện
+Danh từ,しお (shio),塩 (shio),Muối
+Danh từ,さとう (satou),砂糖 (satou),Đường
+Danh từ,びじゅつかん (bijutsukan),美術館 (bijutsukan),Bảo tàng mỹ thuật
+Danh từ,フリー (furii),,Miễn phí
+Danh từ,にもつ (nimotsu),荷物 (nimotsu),Hàng hóa
+Danh từ,かわ (kawa),川 (kawa),Sông
+Danh từ,こえ (koe),声 (koe),Giọng nói
+Danh từ,アパート (apaato),,Căn hộ
+Danh từ,しんごう (shingou),信号 (shingou),Đèn tín hiệu
+Danh từ,だめ (dame),,Không được
+Danh từ,あぶない (abunai),危ない (abunai),Nguy hiểm

@@ -1,0 +1,51 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Tính từ đuôi い,あつい (atsui),暑い (atsui),Nóng (thời tiết)
+Tính từ đuôi い,さむい (samui),寒い (samui),Lạnh (thời tiết)
+Tính từ đuôi い,つめたい (tsumetai),冷たい (tsumetai),Lạnh (đồ ăn/uống/cảm giác)
+Tính từ đuôi い,おもい (omoi),重い (omoi),Nặng
+Tính từ đuôi い,たのしい (tanoshii),楽しい (tanoshii),Vui vẻ (bầu không khí, tính chất)
+Tính từ đuôi い,うれしい (ureshii),嬉しい (ureshii),Vui vẻ (tâm trạng)
+Tính từ đuôi い,いそがしい (isogashii),忙しい (isogashii),Bận rộn
+Tính từ đuôi い,おいしい (oishii),美味しい (oishii),Ngon
+Tính từ đuôi い,まずい (mazui),不味い (mazui),Tệ, kinh khủng
+Tính từ đuôi い,たかい (takai),高い (takai),Đắt đỏ/cao
+Tính từ đuôi い,やすい (yasui),安い (yasui),Rẻ
+Tính từ đuôi い,ひくい (hikui),低い (hikui),Thấp
+Tính từ đuôi い,おおきい (ookii),大きい (ookii),To
+Tính từ đuôi い,ちいさい (chiisai),小さい (chiisai),Nhỏ
+Tính từ đuôi い,あたらしい (atarashii),新しい (atarashii),Mới
+Tính từ đuôi い,ふるい (furui),古い (furui),Cũ
+Tính từ đuôi い,いい (ii),良い (ii),Tốt
+Tính từ đuôi い,わるい (warui),悪い (warui),Xấu
+Tính từ đuôi い,おもしろい (omoshiroi),面白い (omoshiroi),Thú vị
+Tính từ đuôi い,すくない (sukunai),少ない (sukunai),Ít
+Tính từ đuôi い,やさしい (yasashii),優しい (yasashii),Tốt bụng/dễ
+Tính từ đuôi い,むずかしい (muzukashii),難しい (muzukashii),Khó
+Tính từ đuôi い,ちかい (chikai),近い (chikai),Gần
+Tính từ đuôi い,とおい (tooi),遠い (tooi),Xa
+Tính từ đuôi い,ひろい (hiroi),広い (hiroi),Rộng
+Tính từ đuôi い,せまい (semai),狭い (semai),Chật, hẹp
+Tính từ đuôi い,あおい (aoi),青い (aoi),Xanh
+Tính từ đuôi い,あかい (akai),赤い (akai),Đỏ
+Tính từ đuôi い,くろい (kuroi),黒い (kuroi),Đen
+Tính từ đuôi い,しろい (shiroi),白い (shiroi),Trắng
+Tính từ đuôi な,きれい (na),綺麗 (na),Đẹp, sạch sẽ
+Tính từ đuôi な,しんせつ (na),親切 (na),Tốt bụng, thân thiện
+Tính từ đuôi な,げんき (na),元気 (na),Khỏe mạnh
+Tính từ đuôi な,ゆうめい (na),有名 (na),Nổi tiếng
+Tính từ đuôi な,しずか (na),静か (na),Yên tĩnh
+Tính từ đuôi な,にぎやか (na),賑やか (na),Náo nhiệt
+Tính từ đuôi な,たいへん (na),大変 (na),Vất vả, cực khổ
+Tính từ đuôi な,べんり (na),便利 (na),Tiện lợi
+Tính từ đuôi な,かんたん (na),簡単 (na),Đơn giản
+Tính từ đuôi な,あまり (~ない) (amari (~nai)),,Không ~ lắm
+Tính từ đuôi な,どんな・どう (donna/dou),,Như thế nào
+Từ để hỏi,とても (totemo),,Rất
+Từ để hỏi,ところ (tokoro),所 (tokoro),Nơi, chỗ
+Từ để hỏi,そして (soshite),,Và
+Từ để hỏi,~が (~ga),,~ nhưng
+Danh từ,てんき (tenki),天気 (tenki),Thời tiết
+Danh từ,あめ (ame),雨 (ame),Mưa
+Hội thoại,ちょっと〜 (chotto~),,Hơi, có chút
+Hội thoại,まあ〜 (maa~),,À, thôi thì... có lẽ là
+Hội thoại,ぜひ来てください (zehi kite kudasai),,Nhất định phải đến nhé!

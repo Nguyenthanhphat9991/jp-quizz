@@ -1,0 +1,41 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Động từ,いきます (ikimasu),行き (iki),Đi
+Động từ,きます (kimasu),来 (ki),Đến
+Động từ,かえります (kaerimasu),帰り (kaeri),Trở về
+Tần suất,いつも (itsumo),,Luôn luôn, lúc nào cũng
+Tần suất,よく (yoku),,Thường, hay
+Tần suất,ときどき (tokidoki),,Thỉnh thoảng
+Địa điểm,えき (eki),駅 (eki),Nhà ga
+Địa điểm,いなか (inaka),田舎 (inaka),Vùng ngoại ô, nông thôn
+Địa điểm,こうえん (kouen),公園 (kouen),Công viên
+Địa điểm,やおや (yaoya),八百屋 (yaoya),Cửa hàng rau
+Địa điểm,うち/いえ (uchi/ie),家 (ie),Nhà
+Địa điểm,~や (ya)/(ほんや (honya), はなや (hanaya), ...),屋 (ya)/(本屋 (honya), 花屋 (hanaya), ...),Cửa hàng (sách, hoa,...)
+Địa điểm,デパート (depaato),,Trung tâm thương mại
+Địa điểm,レストラン (resutoran),,Nhà hàng
+Phương tiện,あるいて (aruite),,Đi bộ
+Phương tiện,しんかんせん (shinkansen),新幹線 (shinkansen),Tàu siêu tốc
+Phương tiện,ちかてつ (chikatetsu),地下鉄 (chikatetsu),Tàu điện ngầm
+Phương tiện,じてんしゃ (jitensha),自転車 (jitensha),Xe đạp
+Phương tiện,でんしゃ (densha),電車 (densha),Xe điện
+Phương tiện,ひこうき (hikouki),飛行機 (hikouki),Máy bay
+Phương tiện,タクシー (takushii),,Taxi
+Phương tiện,バイク (baiku),,Xe máy
+Phương tiện,バス (basu),,Xe buýt
+Mối quan hệ,かぞく (kazoku),家族 (kazoku),Gia đình
+Mối quan hệ,ともだち (tomodachi),友達 (tomodachi),Bạn bè
+Mối quan hệ,どうりょう (douryou),同僚 (douryou),Đồng nghiệp
+Mối quan hệ,こいびと (koibito),恋人 (koibito),Người yêu
+Mối quan hệ,ひとりで (hitori de),一人で (hitori de),Một mình
+Thời gian,せんしゅう (senshuu),先週 (senshuu),Tuần trước
+Thời gian,こんしゅう (konshuu),今週 (konshuu),Tuần này
+Thời gian,らいしゅう (raishuu),来週 (raishuu),Tuần sau
+Thời gian,まいしゅう (maishuu),毎週 (maishuu),Mỗi tuần
+Thời gian,せんげつ (sengetsu),先月 (sengetsu),Tháng trước
+Thời gian,こんげつ (kongetsu),今月 (kongetsu),Tháng này
+Thời gian,らいげつ (raigetsu),来月 (raigetsu),Tháng sau
+Thời gian,まいつき (maitsuki),毎月 (maitsuki),Mỗi tháng
+Thời gian,きょねん (kyonen),去年 (kyonen),Năm trước
+Thời gian,ことし (kotoshi),今年 (kotoshi),Năm nay
+Thời gian,らいねん (rainen),来年 (rainen),Năm sau
+Thời gian,まいとし/まいねん (maitoshi/mainen),毎年 (maitoshi)/毎年 (mainen),Mỗi năm

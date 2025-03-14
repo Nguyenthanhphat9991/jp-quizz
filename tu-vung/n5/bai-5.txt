@@ -1,0 +1,34 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Thời gian,おととい (ototoi),,Hôm kia
+Thời gian,きのう (kinou),昨日 (kinou),Hôm qua
+Thời gian,きょう (kyou),今日 (kyou),Hôm nay
+Thời gian,まいにち (mainichi),毎日 (mainichi),Mỗi ngày
+Thời gian,けさ (kesa),今朝 (kesa),Sáng nay
+Thời gian,まいあさ (maiasa),毎朝 (maiasa),Mỗi sáng
+Thời gian,ひる (hiru),昼 (hiru),Trưa
+Thời gian,ばん/よる (ban/yoru),晩/夜 (ban/yoru),Tối
+Thời gian,こんばん (konban),今晩 (konban),Tối nay
+Thời gian,まいばん (maiban),毎晩 (maiban),Mỗi tối
+Thời gian,じかん (jikan),時間 (jikan),Thời gian
+Thời gian,どのぐらい (donogurai)/どのくらい (donokurai),,Khoảng bao lâu
+Động từ,おきます (okimasu),起き (oki),Thức dậy
+Động từ,ねます (nemasu),寝 (ne),Ngủ
+Động từ,おわります (owarimasu),終わ (owa),Kết thúc
+Động từ,かいものします (kaimonoshimasu),買い物 (kaimono),Mua sắm
+Động từ,さんぽします (sanposhimasu),散歩 (sanpo),Đi dạo, tản bộ
+Động từ,せんたくします (sentakushimasu),洗濯 (sentaku),Giặt giũ
+Động từ,そうじします (soujishimasu),掃除 (souji),Dọn dẹp, vệ sinh
+Động từ,はたらきます (hatarakimasu),働き (hataraki),Làm việc
+Động từ,べんきょうします (benkyoushimasu),勉強 (benkyou),Học
+Động từ,やすみます (yasumimasu),休み (yasumi),Nghỉ
+Động từ,おまつり (omatsuri),お祭り (omatsuri),Lễ hội
+Danh từ,おまつり (omatsuri),お祭り (omatsuri),Lễ hội
+Danh từ,コンサート (konsaato),,Buổi hòa nhạc
+Danh từ,えいが (eiga),映画 (eiga),Phim
+Câu giao tiếp,はやいですね (hayai desu ne),,Sớm nhỉ.
+Câu giao tiếp,ええ (ee),,Vâng.
+Câu giao tiếp,そうですか (sou desu ka),,Thế à.
+Câu giao tiếp,それから (sore kara),,Sau đó, ...
+Bài tập ôn tập,ひる (hiru),昼 (hiru),Buổi trưa
+Bài tập ôn tập,よる (yoru),夜 (yoru),Buổi tối
+Bài tập ôn tập,あさ (asa),朝 (asa),Buổi sáng

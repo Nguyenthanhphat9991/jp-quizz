@@ -1,0 +1,23 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Thời gian,いま (ima),今 (ima),Bây giờ
+Thời gian,ゴールデンウィーク (gooruden wiiku),,Tuần lễ vàng
+Thời gian,ごぜん (gozen),午前 (gozen),Buổi sáng
+Thời gian,ごご (gogo),午後 (gogo),Buổi chiều
+Thời gian,たんじょうび (tanjoubi),誕生日 (tanjoubi),Sinh nhật
+Thời gian,~のひ (~no hi),日 (hi),Ngày ~
+Thời gian,もう〜 (mou~),,Đã ~
+Địa điểm,ぎんこう (ginkou),銀行 (ginkou),Ngân hàng
+Địa điểm,としょかん (toshokan),図書館 (toshokan),Thư viện
+Địa điểm,どうぶつえん (doubutsuen),動物園 (doubutsuen),Sở thú
+Địa điểm,ゆうびんきょく (yuubinkyoku),郵便局 (yuubinkyoku),Bưu điện
+Địa điểm,びよういん (biyouin),美容院 (biyouin),Thẩm mỹ viện, tiệm làm đẹp
+Khác,かいぎ (kaigi),会議 (kaigi),Cuộc họp
+Khác,しけん (shiken),試験 (shiken),Kỳ thi
+Khác,やすみ (yasumi),休み (yasumi),Nghỉ, ngày nghỉ
+Cách đọc (thứ) (ngày) [tháng],にちようび (nichiyoubi),日曜日 (nichiyoubi),Chủ nhật
+Cách đọc (thứ) (ngày) [tháng],げつようび (getsuyoubi),月曜日 (getsuyoubi),Thứ 2
+Cách đọc (thứ) (ngày) [tháng],かようび (kayoubi),火曜日 (kayoubi),Thứ 3
+Cách đọc (thứ) (ngày) [tháng],すいようび (suiyoubi),水曜日 (suiyoubi),Thứ 4
+Cách đọc (thứ) (ngày) [tháng],もくようび (mokuyoubi),木曜日 (mokuyoubi),Thứ 5
+Cách đọc (thứ) (ngày) [tháng],きんようび (kinyoubi),金曜日 (kinyoubi),Thứ 6
+Cách đọc (thứ) (ngày) [tháng],どようび (doyoubi),土曜日 (doyoubi),Thứ 7

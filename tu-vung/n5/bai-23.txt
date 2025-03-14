@@ -1,0 +1,27 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Động từ,ききます (kikimasu),聞きます (kikimasu),Hỏi
+Động từ,つきます (tsukimasu),着きます (tsukimasu),Đến (nơi)
+Động từ,とまります (tomarimasu),泊まります (tomarimasu),Trú, ở
+Động từ,あるきます (arukimasu),歩きます (arukimasu),Đi bộ
+Động từ,(めがねを)かけます ((megane o) kakemasu),(眼鏡を)かけます ((megane o) kakemasu),Đeo (mắt kính)
+Động từ,けんがくします (kengaku shimasu),見学します (kengaku shimasu),Tham quan
+Danh từ,めがね (megane),眼鏡 (megane),Kính
+Danh từ,いご (igo),囲碁 (igo),Cờ vây
+Danh từ,うま (uma),馬 (uma),Ngựa
+Danh từ,おてら (otera),お寺 (otera),Chùa
+Danh từ,おんせん (onsen),温泉 (onsen),Suối nước nóng
+Danh từ,きんかくじ (kinkakuji),金閣寺 (kinkakuji),Chùa Vàng
+Danh từ,きんじょ (kinjo),近所 (kinjo),Hàng xóm
+Danh từ,せんぱい (senpai),先輩 (senpai),Tiền bối
+Danh từ,なっとう (nattou),納豆 (nattou),Đậu tương lên men
+Danh từ,ふじさん (fujisan),富士山 (fujisan),Núi Phú Sĩ
+Danh từ,マンション (manshon),,Chung cư
+Tính từ,さびしい (sabishii),寂しい (sabishii),Buồn
+Phó từ,ちょうど (choudo),,Vừa đúng, vừa đủ
+Phó từ,いちど (ichido),一度 (ichido),Một lần
+Phó từ,もういちど (mou ichido),もう一度 (mou ichido),Thêm một lần nữa
+Phó từ,いちども (ichido mo),一度も (ichido mo),Một lần cũng
+Phó từ,ぜひ (zehi),,Nhất định
+Hội thoại,いいなあ (ii naa),,Thật tuyệt.
+Hội thoại,おもいで (omoide),思い出 (omoide),Kỷ niệm.
+Hội thoại,いいおもいでがたくさんできました (ii omoide ga takusan dekimashita),良い思い出がたくさんできました (ii omoide ga takusan dekimashita),Tôi đã có nhiều kỷ niệm đẹp.

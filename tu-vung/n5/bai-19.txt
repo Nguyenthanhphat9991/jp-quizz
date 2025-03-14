@@ -1,0 +1,28 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Động từ,(かいしゃを)やめます ((kaisha o) yamemasu),(会社を)辞めます ((kaisha o) yamemasu),Nghĩ (việc)
+Động từ,(はなが)さきます ((hana ga) sakimasu),(花が)咲きます ((hana ga) sakimasu),(Hoa) nở
+Động từ,じゅんびします (junbi shimasu),準備します (junbi shimasu),Chuẩn bị
+Động từ,れんしゅうします (renshuu shimasu),練習します (renshuu shimasu),Luyện tập
+Động từ,そつぎょうします (sotsugyou shimasu),卒業します (sotsugyou shimasu),Tốt nghiệp
+Động từ,うんどうします (undou shimasu),運動します (undou shimasu),Vận động
+Động từ,もってきます (motte kimasu),持って来ます (motte kimasu),Mang đến
+Động từ,もっていきます (motte ikimasu),持って行きます (motte ikimasu),Mang đi
+Động từ,はじめます (hajimemasu),始めます (hajimemasu),Bắt đầu
+Động từ,なります (narimasu),なります (narimasu),Trở nên, trở thành
+Danh từ,~ねんせい (~nensei),~年生 (~nensei),(Học sinh, sinh viên) năm -
+Danh từ,~ごろ (~goro),~頃 (~goro),Khi -, vào khoảng -
+Danh từ,しょうらい (shourai),将来 (shourai),Tương lai
+Danh từ,まんてん (manten),満点 (manten),Điểm tối đa
+Danh từ,みち (michi),道 (michi),Con đường
+Danh từ,こうよう (kouyou),紅葉 (kouyou),Lá đỏ
+Danh từ,くすり (kusuri),薬 (kusuri),Thuốc
+Phó từ,だんだん (dandan),,Dần dần
+Phó từ,もうすぐ (mousugu),,Sắp
+Phó từ,ずいぶん (zuibun),,Khá là
+Tính từ,なかがいい (naka ga ii),仲がいい (naka ga ii),Quan hệ tốt
+Tính từ,あたたかい (atatakai),暖かい (atatakai),Ấm áp
+Tính từ,すずしい (suzushii),涼しい (suzushii),Mát mẻ
+Tính từ,ねむい (nemui),眠い (nemui),Buồn ngủ
+Tính từ,いたい (itai),痛い (itai),Đau
+Danh từ,じぶん (jibun),自分 (jibun),Bản thân
+Hội thoại,きもちをこくはくしたい (kimochi o kokuhaku shitai),気持ちを告白したい (kimochi o kokuhaku shitai),Tôi muốn thổ lộ tình cảm

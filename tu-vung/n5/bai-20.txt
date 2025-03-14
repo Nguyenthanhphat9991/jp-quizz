@@ -1,0 +1,29 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Động từ,(きってを)あつめます ((kitte o) atsumemasu),(切手を)集めます ((kitte o) atsumemasu),Sưu tập, thu thập
+Động từ,(うたを)うたいます ((uta o) utaimasu),(歌を)歌います ((uta o) utaimasu),Hát
+Động từ,(おりがみを)おります ((origami o) orimasu),(折り紙を)折ります ((origami o) orimasu),Bẻ, gấp
+Động từ,さんかします (sanka shimasu),参加します (sanka shimasu),Tham gia
+Động từ,(インターネットで)しらべます ((intaanetto de) shirabemasu),(インターネットで)調べます ((intaanetto de) shirabemasu),Tìm kiếm, tra cứu
+Động từ,でんわします (denwa shimasu),電話します (denwa shimasu),Gọi điện thoại
+Động từ,できます (dekimasu),出来ます (dekimasu),Có thể
+Danh từ,おりがみ (origami),折り紙 (origami),Nghệ thuật gấp giấy
+Danh từ,ブラジル (burajiru),,Brazil
+Danh từ,がいこくご (gaikokugo),外国語 (gaikokugo),Tiếng nước ngoài
+Danh từ,インターネット (intaanetto),,Internet
+Danh từ,かんじ (kanji),漢字 (kanji),Chữ Hán
+Danh từ,がっき (gakki),楽器 (gakki),Nhạc cụ
+Danh từ,きって (kitte),切手 (kitte),Tem
+Danh từ,きもの (kimono),着物 (kimono),Áo kimono
+Danh từ,ギター (gitaa),,Đàn ghi-ta
+Danh từ,じこ (jiko),事故 (jiko),Sự cố, tai nạn
+Danh từ,じしん (jishin),地震 (jishin),Động đất
+Danh từ,しゅみ (shumi),趣味 (shumi),Sở thích
+Danh từ,つる (tsuru),鶴 (tsuru),Con sếu
+Danh từ,りれきしょ (rirekisho),履歴書 (rirekisho),Bản lý lịch
+Danh từ,ホテル (hoteru),,Khách sạn
+Danh từ,どくしょ (dokusho),読書 (dokusho),Đọc sách
+Danh từ,メートル (meetoru),,Mét
+Danh từ,とくに (tokuni),特に (tokuni),Đặc biệt
+Hội thoại,もちろんです (mochiron desu),,Tất nhiên rồi
+Hội thoại,がんばります (ganbarimasu),頑張ります (ganbarimasu),Tôi sẽ cố gắng hết mình.
+Hội thoại,よければ、~ (yokereba, ~),,Nếu được, ~

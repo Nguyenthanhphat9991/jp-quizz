@@ -1,0 +1,33 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Động từ,うります (urimasu),売ります (urimasu),Bán
+Động từ,おもいます (omoimasu),思います (omoimasu),Nghĩ
+Động từ,きをつけます (ki o tsukemasu),気を付けます (ki o tsukemasu),Để ý, chú ý
+Động từ,たのみます (tanomimasu),頼みます (tanomimasu),Nhờ
+Danh từ,あかちゃん (akachan),赤ちゃん (akachan),Em bé
+Danh từ,かちょう (kachou),課長 (kachou),Trưởng nhóm
+Danh từ,ぶちょう (buchou),部長 (buchou),Trưởng phòng
+Danh từ,しゃちょう (shachou),社長 (shachou),Giám đốc
+Danh từ,けいけん (keiken),経験 (keiken),Kinh nghiệm
+Danh từ,こうこうせい (koukousei),高校生 (koukousei),Học sinh cấp ba
+Danh từ,こうつう (koutsuu),交通 (koutsuu),Giao thông
+Danh từ,じゆう (jiyuu),自由 (jiyuu),Tự do
+Danh từ,スカート (sukaato),,Váy
+Danh từ,デザイン (dezain),,Thiết kế
+Danh từ,ほうそう (housou),放送 (housou),Phát thanh
+Danh từ,プロポーズ (puropoozu),,Cầu hôn
+Danh từ,ゆびわ (yubiwa),指輪 (yubiwa),Nhẫn
+Danh từ,よてい (yotei),予定 (yotei),Dự định
+Danh từ,ひとりぐらし (hitorigurashi),一人暮らし (hitorigurashi),Sống một mình
+Khác,このあいだ (kono aida),この間 (kono aida),Gần đây, vừa rồi, hôm nọ
+Khác,きっと (kitto),,Chắc chắn
+Khác,そんなに (sonna ni),,Không ~ như vậy đâu
+Khác,たぶん (tabun),多分 (tabun),Có lẽ là
+Khác,~について (~ ni tsuite),,Về ~
+Khác,ほんとう (hontou)/ほんとうに (hontou ni),本当 (hontou)/本当に (hontou ni),Thật sự là
+Khác,もう〜ました (mou ~ mashita),,Đã ~
+Khác,もっと (motto),,Hơn nữa
+Giao tiếp,いってきます (itte kimasu),行ってきます (itte kimasu),Tôi đi nhé
+Giao tiếp,おやすみなさい (oyasuminasai),お休みなさい (oyasuminasai),Chúc ngủ ngon
+Giao tiếp,ごちそうさまでした (gochisousama deshita),御馳走様でした (gochisousama deshita),Xin cảm ơn đã chiêu đãi
+Giao tiếp,そうおもいます (sou omoimasu),そう思います (sou omoimasu),Tôi cũng nghĩ vậy
+Giao tiếp,ただいま (tadaima),ただいま (tadaima),Tôi đã về đây

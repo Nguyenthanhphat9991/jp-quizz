@@ -1,0 +1,42 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Đại từ chỉ vật,これ (kore),,Cái này
+Đại từ chỉ vật,それ (sore),,Cái đó
+Đại từ chỉ vật,あれ (are),,Cái kia
+Đại từ chỉ vật,どれ (dore),,Cái nào
+Đồ ăn, uống,コーヒー (koohii),,Cà phê
+Đồ ăn, uống,おさけ (osake)/さけ (sake),お酒 (osake),Rượu
+Đồ ăn, uống,チョコレート (chokoreeto),,Sô cô la
+Đồ vật thông dụng,えんぴつ (enpitsu),,Bút chì
+Đồ vật thông dụng,シャーペン (shaapen)/シャープペン (shaapupen),,Bút chì kim
+Đồ vật thông dụng,ボールペン (boorupen),,Bút bi
+Đồ vật thông dụng,けしゴム (keshigomu),消しゴム (keshigomu),Cục tẩy
+Đồ vật thông dụng,ノート (nooto),,Vở
+Đồ vật thông dụng,じしょ (jisho),辞書 (jisho),Từ điển
+Đồ vật thông dụng,ほん (hon),本 (hon),Quyển sách
+Đồ vật thông dụng,マンガ (manga),,Truyện tranh
+Đồ vật thông dụng,ざっし (zasshi),雑誌 (zasshi),Tạp chí
+Đồ vật thông dụng,しんぶん (shinbun),新聞 (shinbun),Báo
+Đồ vật thông dụng,めいし (meishi),名刺 (meishi),Danh thiếp
+Đồ vật thông dụng,カード (kaado),,Thẻ
+Đồ vật,つくえ (tsukue),机 (tsukue),Cái bàn
+Đồ vật,いす (isu),,Cái ghế
+Đồ vật,スマホ (sumaho)/でんわ (denwa)/(ケータイ・電話) (keitai/denwa),,Điện thoại
+Đồ vật,パソコン (pasokon),,Máy tính xách tay
+Đồ vật,コンピューター (konpyuutaa),,Máy tính
+Đồ vật,かばん (kaban),,Cái cặp
+Đồ vật,かさ (kasa),傘 (kasa),Cái ô
+Đồ vật,かぎ (kagi),,Chìa khóa
+Đồ vật,ふでばこ (fudebako),,Hộp bút
+Đồ vật,くるま (kuruma),車 (kuruma),Xe hơi, ô tô
+Đồ vật,とけい (tokei),時計 (tokei),Đồng hồ
+Đồ vật,なん (nan),何 (nan),Cái gì
+Ngôn ngữ,えいご (eigo),英語 (eigo),Tiếng Anh
+Ngôn ngữ,にほんご (nihongo),日本語 (nihongo),Tiếng Nhật
+Ngôn ngữ,~ご (~go),語 (go),Tiếng -
+Câu giao tiếp,つまらないものですが、~ (tsumaranai mono desu ga,~),,Chỉ là chút quà nhỏ
+Câu giao tiếp,これから〜 (kore kara~),,Từ bây giờ trở đi...
+Câu giao tiếp,おせわになります (osewa ni narimasu),,Mong anh/chị giúp đỡ
+Câu giao tiếp,どうぞ (douzo),,Xin mời
+Câu giao tiếp,(どうも) ありがとうございます,,(doumo) arigatou gozaimasu,Chân thành cảm ơn
+Câu giao tiếp,こちら〜,kochira~,,Đây là ...
+Câu giao tiếp,あのー,ano-,,À... (kéo dài thời gian trong khi nghĩ nên nói gì)

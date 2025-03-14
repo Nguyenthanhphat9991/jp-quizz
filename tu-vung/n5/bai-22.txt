@@ -1,0 +1,25 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Động từ,てんげんをきります (tengen o kirimasu),電源を切ります (tengen o kirimasu),Ngắt, tắt (nguồn điện)
+Động từ,みせます (misemasu),見せます (misemasu),Cho xem
+Động từ,のせます (nosemasu),載せます (nosemasu),Chất lên (xe)
+Động từ,ぬぎます (nugimasu),脱ぎます (nugimasu),Cởi
+Động từ,ざんぎょうします (zangyou shimasu),残業します (zangyou shimasu),Làm thêm giờ
+Động từ,しゅっちょうします (shucchou shimasu),出張します (shucchou shimasu),Đi công tác
+Động từ,わたします (watashimasu),渡します (watashimasu),Trao, đưa
+Động từ,かえします (kaeshimasu),返します (kaeshimasu),Trả lại
+Động từ,(シートベルトを)しめます ((shiito beruto o) shimemasu),(シートベルトを)締めます ((shiito beruto o) shimemasu),Thắt dây an toàn
+Danh từ,あみだな (amidana),網棚 (amidana),Giá để hành lý (trên xe ô tô, tàu...)
+Danh từ,チップ (chippu),,Tiền boa, tiền tip
+Danh từ,てんげん (tengen),電源 (tengen),Nguồn điện
+Danh từ,ロボット (robotto),,Robot
+Danh từ,しょうたいじょう (shoutaijou),招待状 (shoutaijou),Thiệp mời
+Danh từ,せいふく (seifuku),制服 (seifuku),Đồng phục
+Danh từ,シャツ (shatsu),,Áo sơ mi
+Danh từ,したぎ (shitagi),下着 (shitagi),Đồ lót
+Danh từ,シートベルト (shiito beruto),,Dây an toàn (xe ô tô)
+Danh từ,スーツ (suutsu),,Đồ vest
+Khác,~までに (~made ni),,Trước (thời hạn~)
+Khác,あとで (ato de),後で (ato de),Sau đó
+Hội thoại,しょうしょうおまちください (shoushou omachi kudasai),少々お待ちください (shoushou omachi kudasai),Xin hãy đợi một chút ạ.
+Hội thoại,いくらかな (ikura kana),,Bao nhiêu thì được nhỉ?
+Hội thoại,すきやばしじろう (sukiyabashi jirou),すきやばし次郎 (sukiyabashi jirou),Tên quán sushi ở Nhật

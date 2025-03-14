@@ -1,0 +1,37 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Đại từ nhân xưng,あなた (anata),,Bạn
+Đại từ nhân xưng,わたし (watashi),私 (watashi),Tôi
+Đại từ nhân xưng,かのじょ (kanojo),彼女 (kanojo),Cô ấy
+Đại từ nhân xưng,かれ (kare),彼 (kare),Anh ấy
+Đại từ nhân xưng,あのひと (ano hito)/あのかた (ano kata),人 (hito)/方 (kata),Người kia
+Đại từ nhân xưng,~さん (~san),,~(hậu tố đặt sau tên)
+Đại từ nhân xưng,だれ (dare)/どなた (donata),誰 (dare),Ai
+Nghề nghiệp,いしゃ (isha),医者 (isha),Bác sĩ
+Nghề nghiệp,かしゅ (kashu),歌手 (kashu),Ca sĩ
+Nghề nghiệp,がくせい (gakusei),学生 (gakusei),Học sinh
+Nghề nghiệp,せんせい (sensei),先生 (sensei),Giáo viên (xưng hô)
+Nghề nghiệp,きょうし (kyoushi),教師 (kyoushi),Giáo viên
+Nghề nghiệp,ぎんこういん (ginkouin),銀行員 (ginkouin),Nhân viên ngân hàng
+Nghề nghiệp,けいさつかん (keisatsukan),警察官 (keisatsukan),Cảnh sát
+Nghề nghiệp,かいしゃいん (kaishain),会社員 (kaishain),Nhân viên công ty
+Nghề nghiệp,~のしゃいん (~no shain),社員 (shain),Nhân viên ~ (công ty)
+Nghề nghiệp,りゅうがくせい (ryuugakusei),留学生 (ryuugakusei),Du học sinh
+Nghề nghiệp,ベトナム (betonamu),,Việt Nam
+Nghề nghiệp,にほん (nihon),日本 (nihon),Nhật Bản
+Đất nước,ちゅうごく (chuugoku),中国 (chuugoku),Trung Quốc
+Đất nước,かんこく (kankoku),韓国 (kankoku),Hàn Quốc
+Đất nước,アメリカ (amerika),,Mỹ
+Đất nước,くに (kuni),国 (kuni),Đất nước
+Đất nước,~じん (~jin),人 (jin),Người nước ~
+Địa điểm,かいしゃ (kaisha),会社 (kaisha),Công ty
+Địa điểm,がっこう (gakkou),学校 (gakkou),Trường
+Địa điểm,だいがく (daigaku),大学 (daigaku),Đại học
+Địa điểm,びょういん (byouin),病院 (byouin),Bệnh viện
+Hội thoại,はじめまして (hajimemashite),,Rất vui được gặp anh (chị)
+Hội thoại,~からきました (~kara kimashita),,Tôi đến từ ...
+Hội thoại,(どうぞ) よろしくおねがいします ((douzo) yoroshiku onegaishimasu),,Rất mong được anh (chị) giúp đỡ.
+Hội thoại,しつれいですが、･･･ (shitsurei desu ga,...),,Xin lỗi anh (chị) / Làm phiền anh (chị)
+Hội thoại,おなまえは (onamae wa),,Tên anh (chị) là?
+Hội thoại,おしごとは (oshigoto wa),,Nghề nghiệp anh (chị) là?
+Hội thoại,はい、そうです (hai, sou desu),,Vâng, đúng vậy.
+Hội thoại,いいえ、ちがいます (iie, chigaimasu),,Không, không phải.

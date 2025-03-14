@@ -1,0 +1,33 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Chỉ sự tồn tại,います (imasu),,Có (người/động vật)
+Chỉ sự tồn tại,あります (arimasu),,Có (thực vật/đồ vật)
+Chỉ sự tồn tại,やー(など) (ya- (nado)),,Và... (vân vân)
+Địa điểm,きょうしつ (kyoushitsu),教室 (kyoushitsu),Lớp học
+Địa điểm,バスてい (basutei),バス停 (basutei),Trạm xe buýt
+Địa điểm,まち (machi),,Phố, thành phố
+Địa điểm,ビル (biru),,Tòa nhà
+Địa điểm,へや (heya),部屋 (heya),Căn phòng
+Vị trí,うえ (ue),上 (ue),Trên
+Vị trí,あいだ (aida),間 (aida),Ở giữa
+Vị trí,ひだり (hidari),左 (hidari),Bên trái
+Vị trí,みぎ (migi),右 (migi),Bên phải
+Vị trí,した (shita),下 (shita),Dưới
+Vị trí,うしろ (ushiro),後ろ (ushiro),Sau
+Vị trí,ちかく (chikaku),近く (chikaku),Gần
+Vị trí,となり (tonari),隣 (tonari),Bên cạnh
+Vị trí,まえ (mae),前 (mae),Trước
+Vị trí,なか (naka),中 (naka),Trong
+Vị trí,そと (soto),外 (soto),Bên ngoài
+Đồ vật,いんかん (inkan),印鑑 (inkan),Con dấu
+Đồ vật,クレジットカード (kurejitto kaado),,Thẻ tín dụng
+Đồ vật,かね/おかね (kane/okane),お金 (okane),Tiền
+Đồ vật,たべもの (tabemono),食べ物 (tabemono),Đồ ăn
+Đồ vật,のみもの (nomimono),飲み物 (nomimono),Đồ uống
+Đồ vật,はこ (hako),箱 (hako),Hộp
+Đồ vật,パスポート (pasupooto),,Hộ chiếu
+Đồ vật,れいぞうこ (reizouko),冷蔵庫 (reizouko),Tủ lạnh
+Đồ vật,ベッド (beddo),,Giường
+Đồ vật,たな (tana),棚 (tana),Kệ, giá
+Sinh vật,いぬ (inu),犬 (inu),Chó
+Sinh vật,ねこ (neko),猫 (neko),Mèo
+Sinh vật,き (ki),木 (ki),Cây

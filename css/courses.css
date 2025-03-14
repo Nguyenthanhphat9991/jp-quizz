@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 20px;
+    text-align: center;
+}
+
+.breadcrumb {
+    text-align: left;
+    font-size: 18px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.breadcrumb a {
+    text-decoration: none;
+    color: #d43f3f;
+    transition: color 0.3s ease-in-out;
+}
+
+.breadcrumb a:hover {
+    color: #b52e2e;
+}
+
+.breadcrumb i {
+    margin-right: 8px;
+    color: #333;
+}
+
+.breadcrumb span {
+    color: #666;
+    margin: 0 8px;
+    font-weight: normal;
+}
+
+.lesson-card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.lesson-card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}

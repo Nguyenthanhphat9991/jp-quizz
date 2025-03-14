@@ -1,0 +1,39 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Tính từ,すき (suki),好き (suki),Thích
+Tính từ,きらい (kirai),嫌い (kirai),Ghét
+Tính từ,すてき (suteki),素敵 (suteki),Tuyệt vời
+Tính từ,じょうず (jouzu),上手 (jouzu),Giỏi
+Tính từ,へた (heta),下手 (heta),Kém
+Tính từ,とくい (tokui),得意 (tokui),Giỏi, điểm mạnh
+Tính từ,にがて (nigate),苦手 (nigate),Kém, điểm yếu
+Danh từ,あまいもの (amai mono),甘い物 (amai mono),Đồ ngọt
+Danh từ,おにぎらず (onigirazu),おにぎらず (onigirazu),Cơm cuộn
+Danh từ,しょくじ (shokuji),食事 (shokuji),Bữa ăn, dùng bữa
+Danh từ,え (e),絵 (e),Tranh, hội họa
+Danh từ,うた (uta),歌 (uta),Bài hát
+Danh từ,ダンス (dansu),,Nhảy
+Danh từ,すうがく (suugaku),数学 (suugaku),Số học, toán
+Danh từ,りょこう (ryokou),旅行 (ryokou),Du lịch
+Danh từ,スポーツ (supootsu),,Thể thao
+Danh từ,すいえい (suiei),水泳 (suiei),Bơi lội
+Danh từ,すもう (sumou),,Sumo
+Danh từ,やきゅう (yakyuu),野球 (yakyuu),Bóng chày
+Động từ,おくれます (okuremasu),遅れます (okuremasu),Đến muộn
+Động từ,つくります (tsukurimasu),作ります (tsukurimasu),Làm, nấu...
+Động từ,わかります (wakarimasu),分かります (wakarimasu),Hiểu, biết
+Động từ,~かた (~kata)/(よみかた (yomikata), つくりかた (tsukurikata)),方 (kata)/(読み方 (yomikata), 作り方 (tsukurikata)),Cách - (cách đọc, cách làm)
+Phó từ,よく (yoku),,Rõ, kỹ
+Phó từ,だいたい (daitai),,Đại khái
+Phó từ,すこし (sukoshi),少し (sukoshi),Một chút, hơi
+Phó từ,ぜんぜん (~ない) (zenzen (~nai)),全然 (~ない) (zenzen (~nai)),Hoàn toàn (không)
+Phó từ,だいたい (daitai),,Đại khái
+Khác,やくそく (yakusoku),約束 (yakusoku),Lời hứa
+Khác,ようじ (youji),用事 (youji),Việc bận
+Khác,チケット (chiketto),,Vé
+Khác,どうして (doushite),,Tại sao
+Khác,~から (~kara),,Vì...
+Khác,どんな (donna),,Loại nào, kiểu nào
+Hội thoại,えっと〜 (etto~),,Um... (kéo dài thời gian suy nghĩ)
+Hội thoại,いつか (itsuka),,Lúc nào đó
+Hội thoại,おまたせしました (omatase shimashita),,Đã để quý khách chờ lâu.
+Hội thoại,それはよかったです (sore wa yokatta desu),,Thật tốt.

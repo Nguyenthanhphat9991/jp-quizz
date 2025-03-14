@@ -1,0 +1,38 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Đại từ phương hướng,ここ (koko),,Ở đây, chỗ này
+Đại từ phương hướng,そこ (soko),,Ở đó, chỗ đó
+Đại từ phương hướng,あそこ (asoko),,Ở kia, chỗ kia
+Đại từ phương hướng,どこ (doko),,Ở đâu?
+Địa điểm,うけつけ (uketsuke),受付 (uketsuke),Lễ tân
+Địa điểm,かいぎしつ (kaigishitsu),会議室 (kaigishitsu),Phòng họp
+Địa điểm,きっさてん (kissaten),喫茶店 (kissaten),Quán nước
+Địa điểm,じどうはんばいき (jidouhanbaiki)/じはんき (jihanki),自動販売機 (jidouhanbaiki)/自販機 (jihanki),Máy bán hàng tự động
+Địa điểm,じむしょ (jimusho),事務所 (jimusho),Văn phòng
+Địa điểm,ATM (エーティーエム) (ATM (e-tii-emu)),,ATM
+Địa điểm,エスカレーター (esukareetaa),,Thang cuốn
+Địa điểm,エレベーター (erebeetaa),,Thang máy
+Địa điểm,コンビニ (konbini),,Cửa hàng tiện lợi
+Địa điểm,トイレ (toire)/(おてあらい (otearai)),,Nhà vệ sinh
+Địa điểm,ロビー (robii),,Sảnh
+Địa điểm,スーパー (suupaa),,Siêu thị
+Địa điểm,ちか (chika),地下 (chika),Tầng hầm
+Địa điểm,しょくどう (shokudou),食堂 (shokudou),Nhà ăn
+Đồ vật,くつ (kutsu),靴 (kutsu),Giày
+Đồ vật,ネクタイ (nekutai),,Cà vạt
+Đồ vật,からあげ (karaage),,Gà rán
+Đồ ăn,こうちゃ (koucha),紅茶 (koucha),Hồng trà
+Đồ ăn,べんとう (bentou)/(お)べんとう ((o)bentou),弁当 (bentou),Cơm hộp
+Đồ ăn,カレー (karee),,Cà ri
+Đồ ăn,サンドイッチ (sandoitchi),,Sandwich
+Đồ ăn,ケーキ (keeki),,Bánh ngọt
+Đồ ăn,パン (pan),,Bánh mì
+Đồ ăn,ライス (raisu),,Cơm
+Đồ ăn,ワイン (wain),,Rượu vang
+Khác,いくら (ikura),,Bao nhiêu tiền?
+Khác,~えん (~en),~円 (~en),~ yên
+Câu giao tiếp,いらっしゃいませ (irasshaimase),,Chào mừng quý khách!
+Câu giao tiếp,すみません (sumimasen),,Xin lỗi!
+Câu giao tiếp,ちゅうもん、おねがいします (chuumon, onegaishimasu),注文 (chuumon),Cho tôi đặt món
+Câu giao tiếp,どうぞ (douzo),,Xin mời!
+Câu giao tiếp,おかいけいは~です (okaikei wa ~ desu),会計 (kaikei),Của quý khách hết ... (tiền)
+Câu giao tiếp,~でおねがいします (~de onegaishimasu),願い (negai),Cho tôi gửi ... (tiền)

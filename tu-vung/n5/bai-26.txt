@@ -1,0 +1,30 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Động từ,うまれます (umaremasu),生まれます (umaremasu),Được sinh ra
+Động từ,かぶります (kaburimasu),,Đội (nón, mũ)
+Động từ,はきます (hakimasu),,Mặc (quần, váy...)/Đi (tất, giày...)
+Động từ,おろします (oroshimasu),下ろします (oroshimasu),Rút (tiền)
+Động từ,まなびます (manabimasu),学びます (manabimasu),Học
+Động từ,いります (irimasu),要ります (irimasu),Cần
+Động từ,やくにたちます (yaku ni tachimasu),役に立ちます (yaku ni tachimasu),Có ích
+Danh từ,こうこう (koukou),高校 (koukou),Trường cấp 3
+Danh từ,スタッフ (sutaffu),,Nhân viên
+Danh từ,しゅじん/おっと (shujin/otto),主人/夫 (shujin/otto),Chồng
+Danh từ,ひきだし (hikidashi),引き出し (hikidashi),Ngăn kéo
+Danh từ,ばしょ (basho),場所 (basho),Nơi, địa điểm, chỗ
+Danh từ,カタログ (katarogu),,Cuốn tranh ảnh giới thiệu sản phẩm
+Danh từ,アプリ (apuri),,Ứng dụng
+Danh từ,おもちゃ (omocha),,Đồ chơi
+Danh từ,しょうひん (shouhin),商品 (shouhin),Sản phẩm
+Danh từ,きねんび (kinenbi),記念日 (kinenbi),Ngày kỉ niệm
+Danh từ,もくひょう (mokuhyou),目標 (mokuhyou),Mục tiêu
+Danh từ,むりょう (muryou),無料 (muryou),Miễn phí
+Danh từ,セーター (seetaa),,Áo len
+Phó từ,いつでも (itsudemo),,Bất cứ khi nào
+Phó từ,どこでも (dokodemo),,Bất kỳ đâu
+Hội thoại,~ともうします (~ to moushimasu),,Tên tôi là ...
+Hội thoại,ああ (aa),,À, a
+Hội thoại,えーと (eeto),,Ừm, xem nào (câu đệm)
+Hội thoại,わがしゃ (wagasha),我が社 (wagasha),Công ty chúng tôi
+Hội thoại,げんざいのしじょう (genzai no shijou),現在の市場 (genzai no shijou),Thị trường hiện nay
+Hội thoại,にんきがあります (ninki ga arimasu),人気があります (ninki ga arimasu),Được yêu thích
+Hội thoại,しょうかいします (shoukai shimasu),紹介します (shoukai shimasu),Giới thiệu

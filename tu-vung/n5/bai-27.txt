@@ -1,0 +1,20 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Động từ,あんないします (annai shimasu),案内します (annai shimasu),Hướng dẫn
+Động từ,しょうかいします (shoukai shimasu),紹介します (shoukai shimasu),Giới thiệu
+Động từ,かぜをひきます (kaze o hikimasu),風邪をひきます (kaze o hikimasu),Bị cảm
+Động từ,なおします (naoshimasu),直します (naoshimasu),Sửa chữa
+Động từ,せつめいします (setsumei shimasu),説明します (setsumei shimasu),Thuyết minh, giải thích
+Động từ,ひろいます (hiroimasu),拾います (hiroimasu),Lượm, nhặt
+Động từ,こまります (komarimasu),困ります (komarimasu),Bối rối, khó khăn
+Động từ,くれます (kuremasu),,Tặng, cho (người khác cho mình)
+Danh từ,すきやき (sukiyaki),すき焼き (sukiyaki),Lẩu thịt bò
+Danh từ,しょうがっこう (shougakkou),小学校 (shougakkou),Trường tiểu học
+Danh từ,ちゅうがっこう (chuugakkou),中学校 (chuugakkou),Trường trung học
+Danh từ,おちゃわん (ochawan),お茶碗 (ochawan),Chén, bát
+Danh từ,おさら (osara),お皿 (osara),Đĩa
+Danh từ,くうこう (kuukou),空港 (kuukou),Sân bay
+Danh từ,おまもり (omamori),お守り (omamori),Bùa
+Danh từ,にんぎょう (ningyou),人形 (ningyou),Búp bê
+Danh từ,オレンジ (orenji),,Trái cam
+Danh từ,ちょうし (choushi),調子 (choushi),Tình trạng (cơ thể, máy móc)
+Phó từ,ぜんぶ (zenbu),全部 (zenbu),Toàn bộ

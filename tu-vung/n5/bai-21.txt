@@ -1,0 +1,26 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Động từ,いいます (iimasu),言います (iimasu),Nói
+Động từ,しんぱいします (shinpai shimasu),心配します (shinpai shimasu),Lo lắng
+Động từ,すてます (sutemasu),捨てます (sutemasu),Vứt
+Động từ,なくします (nakushimasu),無くします (nakushimasu),Làm mất
+Động từ,さわぎます (sawagimasu),騒ぎます (sawagimasu),Làm ồn
+Động từ,わすれます (wasuremasu),忘れます (wasuremasu),Quên
+Danh từ,じ (ji),字 (ji),Chữ
+Danh từ,しりょう (shiryou),資料 (shiryou),Tài liệu
+Danh từ,へんじ (henji),返事 (henji),Hồi đáp
+Danh từ,かぜ (kaze),風邪 (kaze),Cảm
+Danh từ,アレルギー (arerugii),,Dị ứng
+Danh từ,きぶん (kibun),気分 (kibun),Tâm trạng, tình thần (tốt/xấu)
+Danh từ,ねつ (netsu)/(ねつがあります (netsu ga arimasu)),熱 (netsu)/(熱があります (netsu ga arimasu)),Sốt
+Danh từ,べんぴ (benpi)/(べんぴをします (benpi o shimasu)),便秘 (benpi)/(便秘をします (benpi o shimasu)),Táo bón
+Danh từ,せき (seki)/(せきがでます/をします (seki ga demasu/o shimasu)),咳 (seki)/(咳が出ます/をします (seki ga demasu/o shimasu)),Ho
+Danh từ,かゆい (kayui),痒い (kayui),Ngứa
+Danh từ,おなか (onaka),,Bụng
+Danh từ,のど (nodo),,Họng
+Phó từ,よるおそく (yoru osoku),夜遅く (yoru osoku),Tối khuya, tối muộn
+Phó từ,これから (kore kara),,Sau đây, từ giờ trở đi
+Phó từ,なかなか〜ない (nakanaka ~nai),,Mãi mà không -
+Phó từ,まだ (mada),,Chưa
+Hội thoại,どうしましたか (dou shimashita ka),,Cậu sao thế? (hỏi người khác)
+Hội thoại,どうしたのかな (dou shita no kana),,Có chuyện gì thế nhỉ? (tự hỏi)
+Hội thoại,おだいじに (odaiji ni),お大事に (odaiji ni),Chú ý giữ gìn sức khỏe

@@ -1,0 +1,16 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Động từ,しゅうりします (shuuri shimasu),修理します (shuuri shimasu),Sửa chữa
+Danh từ,きみ (kimi),君 (kimi),Em (gọi thân mật)
+Danh từ,ぼく (boku),僕 (boku),Tôi, tớ (con trai xưng hô)
+Danh từ,~くん (~kun),~君 (~kun),Cậu, bạn - (gọi con trai)
+Danh từ,~ちゃん (~chan),,Bạn, em - (gọi bé gái)
+Danh từ,ぎおんまつり (gion matsuri),祇園祭 (gion matsuri),Lễ hội Gion
+Danh từ,かぶき (kabuki),歌舞伎 (kabuki),Kịch Kabuki
+Danh từ,ドイツ (doitsu),,Đức
+Danh từ,ラーメン (raamen),,Mì ramen
+Danh từ,そば (soba),,Mỳ soba
+Tính từ,つまらない (tsumaranai),,Chán, nhàm chán
+Tính từ,うん (un),,Ừ, ừm
+Tính từ,ううん (uun),,Không
+Khác,それに (sore ni),,Thêm nữa, hơn nữa
+Khác,~けど (~kedo),,~ nhưng mà

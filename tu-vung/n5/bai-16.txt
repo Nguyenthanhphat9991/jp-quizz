@@ -1,0 +1,29 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Động từ,まちます (machimasu),待ちます (machimasu),Chờ đợi
+Động từ,すいます (suimasu),吸います (suimasu),Hút (thuốc)
+Động từ,もちます (mochimasu),持ちます (mochimasu),Mang, cầm
+Động từ,しります (shirimasu),知ります (shirimasu),Biết
+Động từ,すみます (sumimasu),住みます (sumimasu),Sống
+Động từ,ひきます (hikimasu),弾きます (hikimasu),Đánh (đàn)
+Động từ,ふります (furimasu)/(あめがふります (ame ga furimasu)),降ります (furimasu)/(雨が降ります (ame ga furimasu)),(Mưa) rơi
+Động từ,おります (orimasu),降ります (orimasu),Xuống (xe)
+Động từ,はなします (hanashimasu),話します (hanashimasu),Nói chuyện
+Động từ,コピーします (kopii shimasu),,Copy, phô tô
+Động từ,たちます (tachimasu),立ちます (tachimasu),Đứng
+Động từ,すわります (suwarimasu),座ります (suwarimasu),Ngồi
+Động từ,さがします (sagashimasu),探します (sagashimasu),Tìm
+Động từ,よびます (yobimasu),呼びます (yobimasu),Gọi, kêu
+Động từ,つかいます (tsukaimasu),使います (tsukaimasu),Sử dụng
+Danh từ,どくしん (dokushin),独身 (dokushin),Độc thân
+Danh từ,たばこ (tabako),,Thuốc lá
+Danh từ,ピアノ (piano),,Đàn piano
+Danh từ,ジョギング (jogingu),,Chạy bộ
+Danh từ,じゅうしょ (juusho),住所 (juusho),Địa chỉ
+Danh từ,クラブ (kurabu),,Câu lạc bộ
+Danh từ,りょうしん (ryoushin),両親 (ryoushin),Cha mẹ
+Danh từ,おにぎり (onigiri),,Cơm nắm
+Danh từ,しやくしょ (shiyakusho),市役所 (shiyakusho),Toà thị chính
+Danh từ,でんわばんごう (denwa bangou),電話番号 (denwa bangou),Số điện thoại
+Hội thoại,へいじつ (heijitsu),平日 (heijitsu),Ngày thường
+Hội thoại,ほか (hoka),他 (hoka),Khác
+Hội thoại,だいじょうぶですか (daijoubu desu ka),大丈夫ですか (daijoubu desu ka),Bạn có ổn không?

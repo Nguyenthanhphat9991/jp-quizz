@@ -1,0 +1,37 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Động từ,あらいます (araimasu),洗います (araimasu),Rửa
+Động từ,おします (oshimasu),押します (oshimasu),Ấn, nhấn
+Động từ,おふろにはいります (ofuro ni hairimasu),お風呂に入ります (ofuro ni hairimasu),Tắm bồn
+Động từ,きます (kimasu),着ます (kimasu),Mặc (đồ)
+Động từ,つれていきます (tsurete ikimasu),連れて行きます (tsurete ikimasu),Đưa đi
+Động từ,つれてきます (tsurete kimasu),連れて来ます (tsurete kimasu),Đưa đến
+Động từ,ならべます (narabemasu),並べます (narabemasu),Sắp xếp
+Động từ,のります (norimasu),乗ります (norimasu),Lên (xe)
+Động từ,はらいます (haraimasu),払います (haraimasu),Trả tiền
+Động từ,みがきます (migakimasu),磨きます (migakimasu),Đánh, chải
+Động từ,(みずが)でます ((mizu ga) demasu),(水が)出ます ((mizu ga) demasu),(Nước) ra, xuất hiện
+Động từ,よやくします (yoyaku shimasu),予約します (yoyaku shimasu),Đặt trước
+Động từ,わたります (watarimasu),渡ります (watarimasu),Băng qua
+Danh từ,あんしょうばんごう (anshou bangou),暗証番号 (anshou bangou),Mật khẩu
+Danh từ,かど (kado),角 (kado),Ngã rẽ
+Danh từ,きゅうりょう (kyuuryou),給料 (kyuuryou),Tiền lương
+Danh từ,ゲーム (geemu),,Game
+Danh từ,こうさてん (kousaten),交差点 (kousaten),Giao lộ
+Danh từ,りょう (ryou),寮 (ryou),Kí túc x
+Danh từ,ボタン (botan),,Nút
+Danh từ,きんがく (kingaku),金額 (kingaku),Số tiền
+Danh từ,こくばん (kokuban),黒板 (kokuban),Bảng
+Danh từ,かお (kao),顔 (kao),Khuôn mặt
+Danh từ,ボトル (botoru),,Chai
+Tính từ,かるい (karui),軽い (karui),Nhẹ
+Tính từ,あかるい (akarui),明るい (akarui),Tươi sáng, sáng sủa
+Tính từ,かっこいい (kakkoii),,Đẹp, ngầu
+Tính từ,わかい (wakai),若い (wakai),Trẻ
+Tính từ,かわいい (kawaii),可愛い (kawaii),Đáng yêu
+Tính từ,ねっしん (nesshin),熱心 (nesshin),Nhiệt tình
+Tính từ,まじめ (majime),真面目 (majime),Nghiêm túc, chăm chỉ
+Phó từ,まっすぐ (massugu),,Thẳng
+Phó từ,まず (mazu),,Đầu tiên
+Khác,どうやって (dou yatte),,Như thế nào?
+Khác,~め (~me),,~ thứ
+Hội thoại,~に いきたいんですが (~ni ikitain desu ga),,Tôi muốn đi đến ~

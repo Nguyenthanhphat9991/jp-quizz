@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.courses-container {
+    width: 80%; /* Hoặc chiều rộng cố định */
+    max-width: 960px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.courses-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.courses-header h1 {
+    margin-bottom: 5px;
+}
+
+.courses-header .message {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.courses-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Responsive grid */
+    grid-gap: 20px;
+    justify-items: center;
+}
+
+.course-item {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #333;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.course-item:hover {
+    transform: translateY(-5px);
+}
+
+.course-item img {
+    width: 100px;
+    margin-bottom: 10px;
+}
+
+.course-item p {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+/* Thêm màu nền cho từng khóa học */
+.course-item:nth-child(1) { background-color: #ffcccc; }
+.course-item:nth-child(2) { background-color: #ffe6cc; }
+.course-item:nth-child(3) { background-color: #e6e6fa; }
+.course-item:nth-child(4) { background-color: #cce0ff; }
+.course-item:nth-child(5) { background-color: #ccffe0; }
+.course-item:nth-child(6) { background-color: #e0ffcc; }

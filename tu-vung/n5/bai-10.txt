@@ -1,0 +1,28 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Hành động,あげます (agemasu),上げます (agemasu),Cho, tặng
+Hành động,もらいます (moraimasu),貰います (moraimasu),Nhận
+Hành động,おしえます (oshiemasu),教えます (oshiemasu),Chỉ, dạy
+Hành động,ならいます (naraimasu),習います (naraimasu),Học tập
+Hành động,でんわ (denwa)/(電話を)かけます (denwa o kakemasu),電話 (denwa),Gọi điện thoại
+Hành động,おくります (okurimasu),送ります (okurimasu),Gửi
+Hành động,かします (kashimasu),貸します (kashimasu),Cho vay, cho mượn
+Hành động,かります (karimasu),借ります (karimasu),Vay, mượn
+Đồ vật,おかし (okashi),お菓子 (okashi),Bánh kẹo
+Đồ vật,おとしだま (otoshidama),お年玉 (otoshidama),Tiền mừng tuổi
+Đồ vật,おみやげ (omiyage),お土産 (omiyage),Quà (đặc sản)
+Đồ vật,てがみ (tegami),手紙 (tegami),Thư
+Đồ vật,ボール (booru),,Bóng
+Đồ vật,はな (hana),花 (hana),Hoa
+Đồ vật,ぼうし (boushi),帽子 (boushi),Mũ
+Đồ vật,りょうり (ryouri),料理 (ryouri),Món ăn, sự nấu ăn
+Đồ vật,カメラ (kamera),,Máy ảnh
+Đồ vật,ネックレス (nekkuresu),,Dây chuyền
+Đồ vật,プレゼント (purezento),,Món quà
+Dịp,いわい (iwai),祝い (iwai),Chúc mừng, quà chúc mừng
+Dịp,おみまい (omimai),お見舞い (omimai),Thăm nom, thăm người ốm
+Dịp,おしょうがつ (oshougatsu),お正月 (oshougatsu),Tết dương lịch
+Dịp,けっこんしき (kekkonshiki),結婚式 (kekkonshiki),Lễ kết hôn
+Dịp,クリスマス (kurisumasu),,Giáng sinh
+Dịp,バレンタインデー (barentain dee),,Ngày Valentine
+Hội thoại,ゲームをしましょう (geemu o shimashou),,Cùng chơi trò chơi nào!
+Hội thoại,そうしましょう (sou shimashou),,Làm như vậy đi.

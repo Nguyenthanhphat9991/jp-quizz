@@ -1,0 +1,46 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Thành viên gia đình,あに (ani),兄 (ani),Anh trai
+Thành viên gia đình,おとうと (otouto),弟 (otouto),Em trai
+Thành viên gia đình,あね (ane),姉 (ane),Chị gái
+Thành viên gia đình,いもうと (imouto),妹 (imouto),Em gái
+Thành viên gia đình,きょうだい (kyoudai),兄弟 (kyoudai),Anh chị em
+Thành viên gia đình,そふ (sofu),祖父 (sofu),Ông
+Thành viên gia đình,そぼ (sobo),祖母 (sobo),Bà
+Thành viên gia đình,ちち (chichi),父 (chichi),Ba, bố
+Thành viên gia đình,はは (haha),母 (haha),Mẹ
+Thành viên gia đình,こども (kodomo),子ども (kodomo),Trẻ em, con nít
+Thành viên gia đình,おとこのこ (otokonoko),男の子 (otokonoko),Cậu bé, bé trai
+Thành viên gia đình,おんなのこ (onnanoko),女の子 (onnanoko),Cô bé, bé gái
+Thành viên gia đình,おとこのひと (otoko no hito),男の人 (otoko no hito),Người đàn ông
+Thành viên gia đình,おんなのひと (onna no hito),女の人 (onna no hito),Người phụ nữ
+Cửa hàng,おきゃくさん (okyakusan),お客さん (okyakusan),Khách hàng
+Cửa hàng,てんいん (ten'in),店員 (ten'in),Nhân viên cửa hàng
+Cửa hàng,みせ (mise),店 (mise),Cửa hàng
+Cửa hàng,てんない (tennai),店内 (tennai),Trong cửa hàng
+Cửa hàng,かびん (kabin),花瓶 (kabin),Bình hoa
+Cửa hàng,たんす (tansu),箪笥 (tansu),Cái tủ
+Cửa hàng,まど (mado),窓 (mado),Cửa sổ
+Cửa hàng,ドア (doa),,Cửa
+Cửa hàng,りんご (ringo),林檎 (ringo),Quả táo
+Cửa hàng,コップ (koppu),,Cái cốc
+Cửa hàng,エアコン (eakon),,Điều hòa
+Cách đếm số vật,ひとつ (hitotsu),,1 cái
+Cách đếm số vật,ふたつ (futatsu),,2 cái
+Cách đếm số vật,みっつ (mittsu),,3 cái
+Cách đếm số vật,よっつ (yottsu),,4 cái
+Cách đếm số vật,いつつ (itsutsu),,5 cái
+Cách đếm số vật,むっつ (muttsu),,6 cái
+Cách đếm số vật,ななつ (nanatsu),,7 cái
+Cách đếm số vật,やっつ (yattsu),,8 cái
+Cách đếm số vật,ここのつ (kokonotsu),,9 cái
+Cách đếm số vật,とお (too),,10 cái
+Cách đếm số vật,いくつ (ikutsu),,Bao nhiêu?
+Cách đếm số người,ひとり (hitori),一人 (hitori),1 người
+Cách đếm số người,ふたり (futari),二人 (futari),2 người
+Cách đếm số người,さんにん (sannin)/三人 (sannin),三人 (sannin),3 người
+Cách đếm số người,よにん (yonin)/四人 (yonin),四人 (yonin),4 người
+Cách đếm số người,~にん (~nin),人 (nin),~ người
+Cách đếm số người,なんにん (nannin)/何人 (nannin),何人 (nannin),Bao nhiêu người?
+Hội thoại,すごいひとですね (sugoi hito desu ne),,Đông người thật đấy!
+Hội thoại,じゃ... (ja...),,Thế thì, vậy thì...
+Hội thoại,いいですね (ii desu ne),,Được đấy nhỉ, hay quá

@@ -1,0 +1,576 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question_text": "<ruby>今<rt>いま</rt></ruby> (ima) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Ngày mai",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Bây giờ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Hôm qua",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Tuần sau",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question_text": "ゴールデンウィーク (gooruden wiiku) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Tuần lễ vàng",
+                    "is_correct": true
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Ngày lễ tình nhân",
+                    "is_correct": false
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Ngày quốc tế lao động",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Ngày của mẹ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question_text": "<ruby>午前<rt>ごぜん</rt></ruby> (gozen) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Buổi chiều",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Buổi sáng",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Buổi tối",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Ban đêm",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question_text": "<ruby>午後<rt>ごご</rt></ruby> (gogo) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Buổi sáng",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Buổi chiều",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Buổi tối",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Ban đêm",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question_text": "<ruby>誕生日<rt>たんじょうび</rt></ruby> (tanjoubi) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Ngày cưới",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Sinh nhật",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Ngày kỷ niệm",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Ngày lễ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "question_text": "<ruby>日<rt>ひ</rt></ruby> (hi) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Năm",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Ngày",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Tháng",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Giờ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question_text": "もう〜 (mou~) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Sắp",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đã ~",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Vẫn chưa",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Có thể",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "question_text": "<ruby>銀行<rt>ぎんこう</rt></ruby> (ginkou) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Bưu điện",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Ngân hàng",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Thư viện",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Sở thú",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "question_text": "<ruby>図書館<rt>としょかん</rt></ruby> (toshokan) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Ngân hàng",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Thư viện",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Bưu điện",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Sở thú",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "question_text": "<ruby>動物園<rt>どうぶつえん</rt></ruby> (doubutsuen) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Thư viện",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Sở thú",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Ngân hàng",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Bưu điện",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "question_text": "<ruby>郵便局<rt>ゆうびんきょく</rt></ruby> (yuubinkyoku) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Sở thú",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Bưu điện",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Thư viện",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Ngân hàng",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "question_text": "<ruby>美容院<rt>びよういん</rt></ruby> (biyouin) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Bưu điện",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Thẩm mỹ viện, tiệm làm đẹp",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Sở thú",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Thư viện",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "question_text": "<ruby>会議<rt>かいぎ</rt></ruby> (kaigi) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Kỳ thi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Cuộc họp",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nghỉ, ngày nghỉ",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Sinh nhật",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "question_text": "<ruby>試験<rt>しけん</rt></ruby> (shiken) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Cuộc họp",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Kỳ thi",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nghỉ, ngày nghỉ",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Sinh nhật",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "question_text": "<ruby>休み<rt>やすみ</rt></ruby> (yasumi) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Kỳ thi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nghỉ, ngày nghỉ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Cuộc họp",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Sinh nhật",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "question_text": "<ruby>日曜日<rt>にちようび</rt></ruby> (nichiyoubi) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Thứ 2",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Chủ nhật",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Thứ 7",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Thứ 6",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "question_text": "<ruby>月曜日<rt>げつようび</rt></ruby> (getsuyoubi) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Chủ nhật",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Thứ 2",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Thứ 3",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Thứ 4",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "question_text": "<ruby>火曜日<rt>かようび</rt></ruby> (kayoubi) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Thứ 2",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Thứ 3",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Thứ 4",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Thứ 5",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "question_text": "<ruby>水曜日<rt>すいようび</rt></ruby> (suiyoubi) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Thứ 3",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Thứ 4",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Thứ 5",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Thứ 6",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "question_text": "<ruby>木曜日<rt>もくようび</rt></ruby> (mokuyoubi) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Thứ 4",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Thứ 5",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Thứ 6",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Thứ 7",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "question_text": "<ruby>金曜日<rt>きんようび</rt></ruby> (kinyoubi) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Thứ 5",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Thứ 6",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Thứ 7",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Chủ nhật",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "question_text": "<ruby>土曜日<rt>どようび</rt></ruby> (doyoubi) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Thứ 6",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Thứ 7",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Chủ nhật",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Thứ 2",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

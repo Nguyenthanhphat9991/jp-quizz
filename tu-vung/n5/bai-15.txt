@@ -1,0 +1,25 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Động từ,ほしい (hoshii),欲しい (hoshii),Muốn
+Động từ,あそびます (asobimasu),遊びます (asobimasu),Chơi
+Động từ,あびます (abimasu),浴びます (abimasu),Tắm
+Động từ,けっこんします (kekkon shimasu),結婚します (kekkon shimasu),Kết hôn
+Động từ,むかえます (mukaemasu),迎えます (mukaemasu),Đón
+Động từ,しょくじします (shokuji shimasu),食事します (shokuji shimasu),Dùng bữa
+Động từ,じゅぎょう (jugyou),授業 (jugyou),Giờ học
+Danh từ,さいふ (saifu),財布 (saifu),Ví
+Danh từ,シャワー (shawaa),,Vòi hoa sen
+Danh từ,スキー (sukii),,Trượt tuyết
+Danh từ,テニス (tenisu),,Tennis
+Danh từ,つり (tsuri),釣り (tsuri),Câu cá
+Danh từ,ぶんか (bunka),文化 (bunka),Văn hóa
+Danh từ,せいかつ (seikatsu),生活 (seikatsu),Cuộc sống
+Danh từ,デート (deeto),,Hẹn hò
+Danh từ,つぎ (tsugi),次 (tsugi),Tiếp theo
+Danh từ,あまい (amai),甘い (amai),Ngọt
+Danh từ,やきそば (yakisoba),焼きそば (yakisoba),Mỳ soba xào
+Hội thoại,つかれました (tsukaremashita),疲れました (tsukaremashita),Tôi mệt rồi.
+Hội thoại,のどがかわきました (nodo ga kawakimashita),喉が渇きました (nodo ga kawakimashita),Tôi khát.
+Hội thoại,おなかがすきました (onaka ga sukimashita),お腹が空きました (onaka ga sukimashita),Tôi đói.
+Hội thoại,おなかがいっぱいです (onaka ga ippai desu),お腹がいっぱいです (onaka ga ippai desu),Tôi no rồi.
+Hội thoại,ちょっと (chotto),,Một chút
+Hội thoại,またこんどね (mata kondo ne),また今度ね (mata kondo ne),Hẹn gặp lại lần sau.

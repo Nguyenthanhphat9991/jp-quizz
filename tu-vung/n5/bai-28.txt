@@ -1,0 +1,17 @@
+Loại,Tiếng Nhật (Hiragana/Katakana),Kanji,Tiếng Việt
+Động từ,(ドアが)あきます ((doa ga) akimasu),(ドアが)開きます ((doa ga) akimasu),(Cửa) mở
+Động từ,(でんきが)つきます ((denki ga) tsukimasu),(電気が)点きます ((denki ga) tsukimasu),(Đèn) sáng
+Động từ,としをとります (toshi o torimasu),年を取ります (toshi o torimasu),Già đi, lớn tuổi
+Động từ,まわします (mawashimasu),回します (mawashimasu),Vặn, xoay
+Động từ,ふとります (futorimasu),太ります (futorimasu),Béo
+Động từ,やせます (yasemasu),痩せます (yasemasu),Gầy
+Động từ,もどります (modorimasu),戻ります (modorimasu),Quay lại, trở lại
+Động từ,かんがえます (kangaemasu),考えます (kangaemasu),Suy nghĩ
+Động từ,あんしんします (anshin shimasu),安心します (anshin shimasu),An tâm
+Danh từ,じんじゃ (jinja),神社 (jinja),Miếu, đền
+Danh từ,こうくうびん (koukuubin),航空便 (koukuubin),Đường hàng không
+Danh từ,チャンス/きかい (chansu/kikai),チャンス/機会 (chansu/kikai),Cơ hội
+Danh từ,おと (oto),音 (oto),Âm thanh
+Danh từ,つまみ (tsumami),,Vòi vặn, vòi xoay
+Phó từ,すぐ (sugu),,Ngay lập tức
+Phó từ,ひとくち (hitokuchi),一口 (hitokuchi),Một miếng, một ngụm

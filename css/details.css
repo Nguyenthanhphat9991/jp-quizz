@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    text-align: center;
+    padding: 20px;
+}
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    max-width: 1000px;
+    margin: auto;
+}
+.wrong-list { text-align: left; margin-top: 10px; }
+.wrong-item { 
+    margin-bottom: 15px; 
+    padding: 10px; 
+    border: 1px solid #ddd; 
+    border-radius: 5px; 
+    background: #fff3cd; 
+}
+.retry-button {
+    background: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+    display: block;
+    width: 100%;
+}
+.retry-button:hover { background: #0056b3; }
