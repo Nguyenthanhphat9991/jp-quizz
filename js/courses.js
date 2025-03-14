@@ -2,6 +2,11 @@ document.addEventListener("DOMContentLoaded", () => {
     const urlParams = new URLSearchParams(window.location.search);
     const courseId = urlParams.get("courseId");
 
+    if (courseId == 2) {
+        window.location.href = `quiz.html?courseId=${courseId}`;
+        return;
+    }
+
     fetch('./data/courses.json')
         .then(response => response.json())
         .then(data => {

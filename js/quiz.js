@@ -3,7 +3,11 @@ const QUESTION_COUNT = 25;
 const lessonId = urlParams.get("lessonId");
 const courseId = urlParams.get("courseId");
 
-const dataFile = `./data/questions/question-${courseId}-${lessonId}.json`;
+let dataFile = "";
+if (courseId == 1)
+    dataFile = `./data/questions/question-${courseId}-${lessonId}.json`;
+else if (courseId == 2)
+    dataFile = `./data/questions/dong-tu.json`;
 
 fetch(dataFile)
     .then(response => response.json())

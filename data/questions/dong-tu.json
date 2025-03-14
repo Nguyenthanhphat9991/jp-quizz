@@ -1,0 +1,2890 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question_text": "<ruby>起きます<rt>おきます</rt></ruby> (okimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Ngủ",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Thức dậy",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Ăn",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Uống",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question_text": "<ruby>寝ます<rt>ねます</rt></ruby> (nemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Thức dậy",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Ngủ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đến",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question_text": "<ruby>終わります<rt>おわります</rt></ruby> (owarimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Bắt đầu",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Kết thúc",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Tiếp tục",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Tạm dừng",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question_text": "<ruby>買い物します<rt>かいものします</rt></ruby> (kaimonoshimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đi dạo",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Mua sắm",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Làm việc",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Học",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question_text": "<ruby>散歩します<rt>さんぽします</rt></ruby> (sanposhimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mua sắm",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đi dạo, tản bộ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Giặt giũ",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Dọn dẹp",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "question_text": "<ruby>洗濯します<rt>せんたくします</rt></ruby> (sentakushimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Dọn dẹp",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Giặt giũ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Làm việc",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Học",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question_text": "<ruby>掃除します<rt>そうじします</rt></ruby> (soujishimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Giặt giũ",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Dọn dẹp, vệ sinh",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nghỉ ngơi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đi chơi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "question_text": "<ruby>働きます<rt>はたらきます</rt></ruby> (hatarakimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Học",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Làm việc",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nghỉ ngơi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Ăn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "question_text": "<ruby>勉強します<rt>べんきょうします</rt></ruby> (benkyoushimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Làm việc",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Học",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nghỉ ngơi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Chơi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "question_text": "<ruby>休みます<rt>やすみます</rt></ruby> (yasumimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Làm việc",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nghỉ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Học",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Chơi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "question_text": "<ruby>お祭り<rt>おまつり</rt></ruby> (omatsuri) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Buổi hòa nhạc",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Lễ hội",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Buổi tiệc",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Cuộc họp",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "question_text": "<ruby>行きます<rt>いきます</rt></ruby> (ikimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đến",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đi",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Về",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Chờ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "question_text": "<ruby>来ます<rt>きます</rt></ruby> (kimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đến",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Về",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Ngồi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "question_text": "<ruby>帰ります<rt>かえります</rt></ruby> (kaerimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đến",
+                    "is_correct": false
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Trở về",
+                    "is_correct": true
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đứng",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "question_text": "<ruby>食べます<rt>たべます</rt></ruby> (tabemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Uống",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Ăn",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nhìn",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Nghe",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "question_text": "<ruby>飲みます<rt>のみます</rt></ruby> (nomimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Ăn",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Uống",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đọc",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Viết",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "question_text": "<ruby>見ます<rt>みます</rt></ruby> (mimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nghe",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nhìn",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đọc",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Viết",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "question_text": "<ruby>聞きます<rt>ききます</rt></ruby> (kikimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nhìn",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nghe",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đọc",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Viết",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "question_text": "<ruby>読みます<rt>よみます</rt></ruby> (yomimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nghe",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nhìn",
+                    "is_correct": false
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đọc",
+                    "is_correct": true
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Viết",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "question_text": "<ruby>書きます<rt>かきます</rt></ruby> (kakimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đọc",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Viết",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Mua",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Cắt",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "question_text": "<ruby>買います<rt>かいます</rt></ruby> (kaimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Viết",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Mua",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Cắt",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Chụp",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "question_text": "<ruby>切ります<rt>きります</rt></ruby> (kirimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mua",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Cắt",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Chụp",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Nộp",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "question_text": "<ruby>撮ります<rt>とります</rt></ruby> (torimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Cắt",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Chụp (ảnh)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nộp",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Phân loại",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "question_text": "<ruby>出します<rt>だします</rt></ruby> (dashimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Chụp",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nộp (bài), đổ (rác)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Phân loại",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Làm",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "question_text": "<ruby>分けます<rt>わけます</rt></ruby> (wakemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nộp",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Phân loại, phân chia",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Làm",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đến muộn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "question_text": "<ruby>します<rt>します</rt></ruby> (shimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Phân loại",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Làm",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đến muộn",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Làm, nấu",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "question_text": "<ruby>遅れます<rt>おくます</rt></ruby> (okuremasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Làm",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đến muộn",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Làm, nấu",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Hiểu",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "question_text": "<ruby>作ります<rt>つくります</rt></ruby> (tsukurimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đến muộn",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Làm, nấu...",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Hiểu",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Mệt",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "question_text": "<ruby>分かります<rt>わかります</rt></ruby> (wakarimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Làm, nấu",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Hiểu, biết",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Mệt",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đi ra ngoài",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "question_text": "<ruby>方<rt>かた</rt></ruby> (kata) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Hiểu, biết",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Cách - (cách đọc, cách làm)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đi ra ngoài",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Leo",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "question_text": "<ruby>疲れます<rt>つかれます</rt></ruby> (tsukaremasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Cách",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Mệt",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Leo",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Gặp",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "question_text": "<ruby>出かけます<rt>でかけます</rt></ruby> (dekakemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mệt",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đi ra ngoài",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Gặp",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Du lịch",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "question_text": "<ruby>登ります<rt>のぼります</rt></ruby> (noborimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đi ra ngoài",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Leo",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Du lịch",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Bơi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "question_text": "<ruby>会います<rt>あいます</rt></ruby> (aimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Leo",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Gặp",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Bơi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Muốn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "question_text": "<ruby>旅行します<rt>りょこうします</rt></ruby> (ryokoushimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Gặp",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Du lịch",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Muốn",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Chơi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "question_text": "<ruby>泳ぎます<rt>およぎます</rt></ruby> (oyogimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Du lịch",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Bơi",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Chơi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Tắm",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "question_text": "<ruby>欲しい<rt>ほしい</rt></ruby> (hoshii) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Bơi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Muốn",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Chơi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Tắm",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "question_text": "<ruby>遊びます<rt>あそびます</rt></ruby> (asobimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Muốn",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Chơi",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Tắm",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Kết hôn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "question_text": "<ruby>浴びます<rt>あびます</rt></ruby> (abimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Chơi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Tắm",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Kết hôn",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đón",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "question_text": "<ruby>結婚します<rt>けっこんします</rt></ruby> (kekkon shimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Tắm",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Kết hôn",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đón",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Dùng bữa",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "question_text": "<ruby>迎えます<rt>むかえます</rt></ruby> (mukaemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Kết hôn",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đón",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Dùng bữa",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Giờ học",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "question_text": "<ruby>食事します<rt>しょくじします</rt></ruby> (shokuji shimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đón",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Dùng bữa",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Giờ học",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Chờ đợi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "question_text": "<ruby>授業<rt>じゅぎょう</rt></ruby> (jugyou) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Dùng bữa",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Giờ học",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Chờ đợi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Hút (thuốc)",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "question_text": "<ruby>待ちます<rt>まちます</rt></ruby> (machimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Giờ học",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Chờ đợi",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Hút (thuốc)",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Mang, cầm",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "question_text": "<ruby>吸います<rt>すいます</rt></ruby> (suimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Chờ đợi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Hút (thuốc)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Mang, cầm",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Biết",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "question_text": "<ruby>持ちます<rt>もちます</rt></ruby> (mochimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Hút (thuốc)",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Mang, cầm",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Biết",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Sống",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "question_text": "<ruby>知ります<rt>しります</rt></ruby> (shirimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mang, cầm",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Biết",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Sống",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đánh (đàn)",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "question_text": "<ruby>住みます<rt>すみます</rt></ruby> (sumimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Biết",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Sống",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đánh (đàn)",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "(Mưa) rơi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "question_text": "<ruby>弾きます<rt>ひきます</rt></ruby> (hikimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Sống",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đánh (đàn)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "(Mưa) rơi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Xuống (xe)",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "question_text": "<ruby>降ります<rt>ふります</rt></ruby> (furimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đánh (đàn)",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "(Mưa) rơi",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Xuống (xe)",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Nói chuyện",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "question_text": "<ruby>降ります<rt>おります</rt></ruby> (orimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "(Mưa) rơi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Xuống (xe)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nói chuyện",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Copy, phô tô",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "question_text": "<ruby>話します<rt>はなします</rt></ruby> (hanashimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Xuống (xe)",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nói chuyện",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Copy, phô tô",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đứng",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "question_text": "<ruby>コピーします<rt>コピーします</rt></ruby> (kopii shimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nói chuyện",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Copy, phô tô",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đứng",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Ngồi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "question_text": "<ruby>立ちます<rt>たちます</rt></ruby> (tachimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Copy, phô tô",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đứng",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Ngồi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Tìm",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "question_text": "<ruby>座ります<rt>すわります</rt></ruby> (suwarimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đứng",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Ngồi",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Tìm",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Gọi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "question_text": "<ruby>探します<rt>さがします</rt></ruby> (sagashimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Ngồi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Tìm",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Gọi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Sử dụng",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "question_text": "<ruby>呼びます<rt>よびます</rt></ruby> (yobimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Tìm",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Gọi, kêu",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Sử dụng",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Cho vào",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "question_text": "<ruby>使います<rt>つかいます</rt></ruby> (tsukaimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Gọi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Sử dụng",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Cho vào",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đặt, để",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "question_text": "<ruby>入れます<rt>いれます</rt></ruby> (iremasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Sử dụng",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Cho vào",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đặt, để",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Nuôi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "question_text": "<ruby>置きます<rt>おきます</rt></ruby> (okimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Cho vào",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đặt, để",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nuôi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Giúp",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "question_text": "<ruby>飼います<rt>かいます</rt></ruby> (kaimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đặt, để",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nuôi",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Giúp",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Lái",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "question_text": "<ruby>手伝います<rt>てつだいます</rt></ruby> (tetsudaimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nuôi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Giúp",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Lái",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Chạm",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "question_text": "<ruby>運転します<rt>うんてんします</rt></ruby> (unten shimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Giúp",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Lái",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Chạm",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Vội",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "question_text": "<ruby>触ります<rt>さわります</rt></ruby> (sawarimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Lái",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Chạm",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Vội",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Vào",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "question_text": "<ruby>急ぎます<rt>いそぎます</rt></ruby> (isogimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Chạm",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Vội",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Vào",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Ra",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "question_text": "<ruby>入ります<rt>はいります</rt></ruby> (hairimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Vội",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Vào",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Ra",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Chạy",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "question_text": "<ruby>出ます<rt>でます</rt></ruby> (demasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Vào",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Ra",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Chạy",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Quẹo, rẽ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "question_text": "<ruby>走ります<rt>はしります</rt></ruby> (hashirimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Ra",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Chạy",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Quẹo, rẽ",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Dừng lại",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "question_text": "<ruby>曲がります<rt>まがります</rt></ruby> (magarimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Chạy",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Quẹo, rẽ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Dừng lại",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Lấy",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "question_text": "<ruby>止めます<rt>とめます</rt></ruby> (tomemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Quẹo, rẽ",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Dừng lại",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Lấy",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Mở",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "question_text": "<ruby>取ります<rt>とります</rt></ruby> (torimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Dừng lại",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Lấy",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Mở",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đóng",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "question_text": "<ruby>開けます<rt>あけます</rt></ruby> (akemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Lấy",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Mở",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đóng",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Tắt",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "question_text": "<ruby>閉めます<rt>しめます</rt></ruby> (shimemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mở",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đóng",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Tắt",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Bật",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 74,
+            "question_text": "<ruby>消します<rt>けします</rt></ruby> (keshimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đóng",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Tắt, xóa",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Bật",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Rửa",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 75,
+            "question_text": "<ruby>つけます<rt>つけます</rt></ruby> (tsukemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Tắt",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Bật",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Rửa",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Ấn, nhấn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "question_text": "<ruby>洗います<rt>あらいます</rt></ruby> (araimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Bật",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Rửa",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Ấn, nhấn",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Tắm bồn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "question_text": "<ruby>押します<rt>おします</rt></ruby> (oshimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Rửa",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Ấn, nhấn",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Tắm bồn",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Mặc (đồ)",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "question_text": "<ruby>お風呂に入ります<rt>おふろにはいります</rt></ruby> (ofuro ni hairimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Ấn, nhấn",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Tắm bồn",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Mặc (đồ)",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đưa đi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "question_text": "<ruby>着ます<rt>きます</rt></ruby> (kimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Tắm bồn",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Mặc (đồ)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đưa đi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đưa đến",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "question_text": "<ruby>連れて行きます<rt>つれていきます</rt></ruby> (tsurete ikimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mặc (đồ)",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đưa đi",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đưa đến",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Sắp xếp",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "question_text": "<ruby>連れて来ます<rt>つれてきます</rt></ruby> (tsurete kimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đưa đi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đưa đến",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Sắp xếp",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Lên (xe)",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "question_text": "<ruby>並べます<rt>ならべます</rt></ruby> (narabemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đưa đến",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Sắp xếp",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Lên (xe)",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Trả tiền",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 83,
+            "question_text": "<ruby>乗ります<rt>のります</rt></ruby> (norimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Sắp xếp",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Lên (xe)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Trả tiền",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đánh, chải",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "question_text": "<ruby>払います<rt>はらいます</rt></ruby> (haraimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Lên (xe)",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Trả tiền",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đánh, chải",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "(Nước) ra, xuất hiện",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "question_text": "<ruby>磨きます<rt>みがきます</rt></ruby> (migakimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Trả tiền",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đánh, chải",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "(Nước) ra, xuất hiện",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đặt trước",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 86,
+            "question_text": "<ruby>出ます<rt>でます</rt></ruby> (demasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đánh, chải",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "(Nước) ra, xuất hiện",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đặt trước",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Băng qua",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "question_text": "<ruby>予約します<rt>よやくします</rt></ruby> (yoyaku shimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "(Nước) ra, xuất hiện",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đặt trước",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Băng qua",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Nghỉ (việc)",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 88,
+            "question_text": "<ruby>渡ります<rt>わたります</rt></ruby> (watarimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đặt trước",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Băng qua",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nghỉ (việc)",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "(Hoa) nở",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 89,
+            "question_text": "<ruby>辞めます<rt>やめます</rt></ruby> (yamemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Băng qua",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nghỉ (việc)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "(Hoa) nở",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Chuẩn bị",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "question_text": "<ruby>咲きます<rt>さきます</rt></ruby> (sakimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nghỉ (việc)",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "(Hoa) nở",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Chuẩn bị",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Luyện tập",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "question_text": "<ruby>準備します<rt>じゅんびします</rt></ruby> (junbi shimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "(Hoa) nở",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Chuẩn bị",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Luyện tập",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Tốt nghiệp",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "question_text": "<ruby>練習します<rt>れんしゅうします</rt></ruby> (renshuu shimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Chuẩn bị",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Luyện tập",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Tốt nghiệp",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Vận động",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "question_text": "<ruby>卒業します<rt>そつぎょうします</rt></ruby> (sotsugyou shimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Luyện tập",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Tốt nghiệp",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Vận động",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Mang đến",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "question_text": "<ruby>運動します<rt>うんどうします</rt></ruby> (undou shimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Tốt nghiệp",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Vận động",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Mang đến",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Mang đi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "question_text": "<ruby>持って来ます<rt>もってきます</rt></ruby> (motte kimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Vận động",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Mang đến",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Mang đi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Bắt đầu",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "question_text": "<ruby>持って行きます<rt>もっていきます</rt></ruby> (motte ikimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mang đến",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Mang đi",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Bắt đầu",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Trở nên, trở thành",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "question_text": "<ruby>始めます<rt>はじめます</rt></ruby> (hajimemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mang đi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Bắt đầu",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Trở nên, trở thành",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Sưu tập, thu thập",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 98,
+            "question_text": "<ruby>なります<rt>なります</rt></ruby> (narimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Bắt đầu",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Trở nên, trở thành",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Sưu tập, thu thập",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Hát",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 99,
+            "question_text": "<ruby>集めます<rt>あつめます</rt></ruby> (atsumemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Trở nên, trở thành",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Sưu tập, thu thập",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Hát",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Bẻ, gấp",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 100,
+            "question_text": "<ruby>歌います<rt>うたいます</rt></ruby> (utaimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Sưu tập, thu thập",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Hát",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Bẻ, gấp",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Tham gia",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "question_text": "<ruby>折ります<rt>おります</rt></ruby> (orimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Hát",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Bẻ, gấp",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Tham gia",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Tìm kiếm, tra cứu",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 102,
+            "question_text": "<ruby>参加します<rt>さんかします</rt></ruby> (sanka shimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Bẻ, gấp",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Tham gia",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Tìm kiếm, tra cứu",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Gọi điện thoại",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 103,
+            "question_text": "<ruby>調べます<rt>しらべます</rt></ruby> (shirabemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Tham gia",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Tìm kiếm, tra cứu",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Gọi điện thoại",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Có thể",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "question_text": "<ruby>電話します<rt>でんわします</rt></ruby> (denwa shimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Tìm kiếm, tra cứu",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Gọi điện thoại",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Có thể",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Nói",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "question_text": "<ruby>出来ます<rt>できます</rt></ruby> (dekimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Gọi điện thoại",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Có thể",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nói",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Lo lắng",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 106,
+            "question_text": "<ruby>言います<rt>いいます</rt></ruby> (iimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Có thể",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nói",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Lo lắng",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Vứt",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 107,
+            "question_text": "<ruby>心配します<rt>しんぱいします</rt></ruby> (shinpai shimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nói",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Lo lắng",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Vứt",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Làm mất",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 108,
+            "question_text": "<ruby>捨てます<rt>すてます</rt></ruby> (sutemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Lo lắng",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Vứt",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Làm mất",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Làm ồn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 109,
+            "question_text": "<ruby>無くします<rt>なくします</rt></ruby> (nakushimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Vứt",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Làm mất",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Làm ồn",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Quên",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 110,
+            "question_text": "<ruby>騒ぎます<rt>さわぎます</rt></ruby> (sawagimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Làm mất",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Làm ồn",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Quên",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Học",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 111,
+            "question_text": "<ruby>忘れます<rt>わすれます</rt></ruby> (wasuremasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Làm ồn",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Quên",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Học",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Làm việc",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

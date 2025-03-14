@@ -1,0 +1,113 @@
+Động từ,おきます (okimasu),起き (oki),Thức dậy
+Động từ,ねます (nemasu),寝 (ne),Ngủ
+Động từ,おわります (owarimasu),終わ (owa),Kết thúc
+Động từ,かいものします (kaimonoshimasu),買い物 (kaimono),Mua sắm
+Động từ,さんぽします (sanposhimasu),散歩 (sanpo),Đi dạo, tản bộ
+Động từ,せんたくします (sentakushimasu),洗濯 (sentaku),Giặt giũ
+Động từ,そうじします (soujishimasu),掃除 (souji),Dọn dẹp, vệ sinh
+Động từ,はたらきます (hatarakimasu),働き (hataraki),Làm việc
+Động từ,べんきょうします (benkyoushimasu),勉強 (benkyou),Học
+Động từ,やすみます (yasumimasu),休み (yasumi),Nghỉ
+Động từ,おまつり (omatsuri),お祭り (omatsuri),Lễ hội
+Động từ,いきます (ikimasu),行き (iki),Đi
+Động từ,きます (kimasu),来 (ki),Đến
+Động từ,かえります (kaerimasu),帰り (kaeri),Trở về
+Động từ,たべます (tabemasu),食べます (tabemasu),Ăn
+Động từ,のみます (nomimasu),飲みます (nomimasu),Uống
+Động từ,みます (mimasu),見ます (mimasu),Nhìn
+Động từ,ききます (kikimasu),聞きます (kikimasu),Nghe
+Động từ,よみます (yomimasu),読みます (yomimasu),Đọc
+Động từ,かきます (kakimasu),書きます (kakimasu),Viết
+Động từ,かいます (kaimasu),買います (kaimasu),Mua
+Động từ,きります (kirimasu),切ります (kirimasu),Cắt
+Động từ,とります (torimasu),撮ります (torimasu),Chụp (ảnh)
+Động từ,だします (dashimasu),出します (dashimasu),Nộp (bài), đổ (rác)
+Động từ,わけます (wakemasu),分けます (wakemasu),Phân loại, phân chia
+Động từ,します (shimasu),,Làm
+Động từ,おくれます (okuremasu),遅れます (okuremasu),Đến muộn
+Động từ,つくります (tsukurimasu),作ります (tsukurimasu),Làm, nấu...
+Động từ,わかります (wakarimasu),分かります (wakarimasu),Hiểu, biết
+Động từ,~かた (~kata)/(よみかた (yomikata), つくりかた (tsukurikata)),方 (kata)/(読み方 (yomikata), 作り方 (tsukurikata)),Cách - (cách đọc, cách làm)
+Động từ,つかれます (tsukaremasu),疲れます (tsukaremasu),Mệt
+Động từ,でかけます (dekakemasu),出かけます (dekakemasu),Đi ra ngoài
+Động từ,のぼります (noborimasu),登ります (noborimasu),Leo
+Động từ,あいます (aimasu),会います (aimasu),Gặp
+Động từ,りょこうします (ryokou shimasu),旅行します (ryokou shimasu),Du lịch
+Động từ,およぎます (oyogimasu),泳ぎます (oyogimasu),Bơi
+Động từ,ほしい (hoshii),欲しい (hoshii),Muốn
+Động từ,あそびます (asobimasu),遊びます (asobimasu),Chơi
+Động từ,あびます (abimasu),浴びます (abimasu),Tắm
+Động từ,けっこんします (kekkon shimasu),結婚します (kekkon shimasu),Kết hôn
+Động từ,むかえます (mukaemasu),迎えます (mukaemasu),Đón
+Động từ,しょくじします (shokuji shimasu),食事します (shokuji shimasu),Dùng bữa
+Động từ,じゅぎょう (jugyou),授業 (jugyou),Giờ học
+Động từ,まちます (machimasu),待ちます (machimasu),Chờ đợi
+Động từ,すいます (suimasu),吸います (suimasu),Hút (thuốc)
+Động từ,もちます (mochimasu),持ちます (mochimasu),Mang, cầm
+Động từ,しります (shirimasu),知ります (shirimasu),Biết
+Động từ,すみます (sumimasu),住みます (sumimasu),Sống
+Động từ,ひきます (hikimasu),弾きます (hikimasu),Đánh (đàn)
+Động từ,ふります (furimasu)/(あめがふります (ame ga furimasu)),降ります (furimasu)/(雨が降ります (ame ga furimasu)),(Mưa) rơi
+Động từ,おります (orimasu),降ります (orimasu),Xuống (xe)
+Động từ,はなします (hanashimasu),話します (hanashimasu),Nói chuyện
+Động từ,コピーします (kopii shimasu),,Copy, phô tô
+Động từ,たちます (tachimasu),立ちます (tachimasu),Đứng
+Động từ,すわります (suwarimasu),座ります (suwarimasu),Ngồi
+Động từ,さがします (sagashimasu),探します (sagashimasu),Tìm
+Động từ,よびます (yobimasu),呼びます (yobimasu),Gọi, kêu
+Động từ,つかいます (tsukaimasu),使います (tsukaimasu),Sử dụng
+Động từ,いれます (iremasu),入れます (iremasu),Cho vào
+Động từ,おきます (okimasu),置きます (okimasu),Đặt, để
+Động từ,かいます (kaimasu),飼います (kaimasu),Nuôi
+Động từ,てつだいます (tetsudaimasu),手伝います (tetsudaimasu),Giúp
+Động từ,うんてんします (unten shimasu),運転します (unten shimasu),Lái
+Động từ,さわります (sawarimasu),触ります (sawarimasu),Chạm
+Động từ,いそぎます (isogimasu),急ぎます (isogimasu),Vội
+Động từ,はいります (hairimasu),入ります (hairimasu),Vào
+Động từ,でます (demasu),出ます (demasu),Ra
+Động từ,はしります (hashirimasu),走ります (hashirimasu),Chạy
+Động từ,まがります (magarimasu),曲がります (magarimasu),Quẹo, rẽ
+Động từ,とめます (tomemasu),止めます (tomemasu),Dừng lại
+Động từ,とります (torimasu),取ります (torimasu),Lấy
+Động từ,あけます (akemasu),開けます (akemasu),Mở
+Động từ,しめます (shimemasu),閉めます (shimemasu),Đóng
+Động từ,けします (keshimasu),消します (keshimasu),Tắt, xóa
+Động từ,つけます (tsukemasu),つけます (tsukemasu),Bật
+Động từ,あらいます (araimasu),洗います (araimasu),Rửa
+Động từ,おします (oshimasu),押します (oshimasu),Ấn, nhấn
+Động từ,おふろにはいります (ofuro ni hairimasu),お風呂に入ります (ofuro ni hairimasu),Tắm bồn
+Động từ,きます (kimasu),着ます (kimasu),Mặc (đồ)
+Động từ,つれていきます (tsurete ikimasu),連れて行きます (tsurete ikimasu),Đưa đi
+Động từ,つれてきます (tsurete kimasu),連れて来ます (tsurete kimasu),Đưa đến
+Động từ,ならべます (narabemasu),並べます (narabemasu),Sắp xếp
+Động từ,のります (norimasu),乗ります (norimasu),Lên (xe)
+Động từ,はらいます (haraimasu),払います (haraimasu),Trả tiền
+Động từ,みがきます (migakimasu),磨きます (migakimasu),Đánh, chải
+Động từ,(みずが)でます ((mizu ga) demasu),(水が)出ます ((mizu ga) demasu),(Nước) ra, xuất hiện
+Động từ,よやくします (yoyaku shimasu),予約します (yoyaku shimasu),Đặt trước
+Động từ,わたります (watarimasu),渡ります (watarimasu),Băng qua
+Động từ,(かいしゃを)やめます ((kaisha o) yamemasu),(会社を)辞めます ((kaisha o) yamemasu),Nghĩ (việc)
+Động từ,(はなが)さきます ((hana ga) sakimasu),(花が)咲きます ((hana ga) sakimasu),(Hoa) nở
+Động từ,じゅんびします (junbi shimasu),準備します (junbi shimasu),Chuẩn bị
+Động từ,れんしゅうします (renshuu shimasu),練習します (renshuu shimasu),Luyện tập
+Động từ,そつぎょうします (sotsugyou shimasu),卒業します (sotsugyou shimasu),Tốt nghiệp
+Động từ,うんどうします (undou shimasu),運動します (undou shimasu),Vận động
+Động từ,もってきます (motte kimasu),持って来ます (motte kimasu),Mang đến
+Động từ,もっていきます (motte ikimasu),持って行きます (motte ikimasu),Mang đi
+Động từ,はじめます (hajimemasu),始めます (hajimemasu),Bắt đầu
+Động từ,なります (narimasu),なります (narimasu),Trở nên, trở thành
+Động từ,(きってを)あつめます ((kitte o) atsumemasu),(切手を)集めます ((kitte o) atsumemasu),Sưu tập, thu thập
+Động từ,(うたを)うたいます ((uta o) utaimasu),(歌を)歌います ((uta o) utaimasu),Hát
+Động từ,(おりがみを)おります ((origami o) orimasu),(折り紙を)折ります ((origami o) orimasu),Bẻ, gấp
+Động từ,さんかします (sanka shimasu),参加します (sanka shimasu),Tham gia
+Động từ,(インターネットで)しらべます ((intaanetto de) shirabemasu),(インターネットで)調べます ((intaanetto de) shirabemasu),Tìm kiếm, tra cứu
+Động từ,でんわします (denwa shimasu),電話します (denwa shimasu),Gọi điện thoại
+Động từ,できます (dekimasu),出来ます (dekimasu),Có thể
+Động từ,いいます (iimasu),言います (iimasu),Nói
+Động từ,しんぱいします (shinpai shimasu),心配します (shinpai shimasu),Lo lắng
+Động từ,すてます (sutemasu),捨てます (sutemasu),Vứt
+Động từ,なくします (nakushimasu),無くします (nakushimasu),Làm mất
+Động từ,さわぎます (sawagimasu),騒ぎます (sawagimasu),Làm ồn
+Động từ,わすれます (wasuremasu),忘れます (wasuremasu),Quên
+
+22 - trở về sau chưa add vào
