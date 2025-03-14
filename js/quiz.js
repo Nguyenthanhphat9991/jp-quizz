@@ -2,18 +2,24 @@ const urlParams = new URLSearchParams(window.location.search);
 const QUESTION_COUNT = 25;
 const lessonId = urlParams.get("lessonId");
 const courseId = urlParams.get("courseId");
+const categoryId = urlParams.get("categoryId");
 
 let dataFile = "";
-if (courseId == 1)
-    dataFile = `./data/questions/question-${courseId}-${lessonId}.json`;
-else if (courseId == 2)
+let title = "";
+if (categoryId == 1) {
+    dataFile = `./data/questions/question-${categoryId}-${lessonId}.json`;
+    title = 'Bài ' + lessonId;
+}
+else if (categoryId == 2) {
     dataFile = `./data/questions/dong-tu.json`;
+    title = 'Chúc mọi người ôn động từ vui vẻ!';
+}
 
 fetch(dataFile)
     .then(response => response.json())
     .then(data => {
 
-        document.getElementById("lesson-title").innerText = 'Bài ' + lessonId;
+        document.getElementById("lesson-title").innerText = title;
 
         let questions = data.questions.sort(() => Math.random() - 0.5).slice(0, ((data.questions.length > QUESTION_COUNT) ? QUESTION_COUNT : data.questions.length));
         let currentQuestionIndex = 0;
