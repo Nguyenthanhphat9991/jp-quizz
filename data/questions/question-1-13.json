@@ -1,0 +1,862 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question_text": "<ruby>辛い<rt>からい</rt></ruby> (karai) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đông, nhiều",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Cay",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Rảnh",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Bất tiện",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question_text": "<ruby>多い<rt>おおい</rt></ruby> (ooi) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Cay",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đông, nhiều",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Bất tiện",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Phức tạp",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question_text": "ひま (hima) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đông, nhiều",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Rảnh",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Phức tạp",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Ngắm hoa",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question_text": "<ruby>不便<rt>ふべん</rt></ruby> (fuben) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Rảnh",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Bất tiện",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Ngắm hoa",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Trận đấu",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question_text": "<ruby>複雑<rt>ふくざつ</rt></ruby> (fukuzatsu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Bất tiện",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Phức tạp",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Trận đấu",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Cuối tuần",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "question_text": "<ruby>お花見<rt>おはなみ</rt></ruby> (ohanami) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Phức tạp",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Ngắm hoa",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Cuối tuần",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Lần đầu tiên",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question_text": "<ruby>試合<rt>しあい</rt></ruby> (shiai) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Ngắm hoa",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Trận đấu",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Lần đầu tiên",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Vừa nãy",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "question_text": "<ruby>週末<rt>しゅうまつ</rt></ruby> (shuumatsu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Trận đấu",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Cuối tuần",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Vừa nãy",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Nắng",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "question_text": "<ruby>初めて<rt>はじめて</rt></ruby> (hajimete) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Cuối tuần",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Lần đầu tiên",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nắng",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Âm u, nhiều mây",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "question_text": "さっき (sakki) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Lần đầu tiên",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Vừa nãy",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Âm u, nhiều mây",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Việc làm thêm",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "question_text": "<ruby>晴れ<rt>はれ</rt></ruby> (hare) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Vừa nãy",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nắng",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Việc làm thêm",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Lễ hội pháo hoa",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "question_text": "<ruby>曇り<rt>くもり</rt></ruby> (kumori) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nắng",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Âm u, nhiều mây",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Lễ hội pháo hoa",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Sự kiện",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "question_text": "アルバイト (arubaito) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Âm u, nhiều mây",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Việc làm thêm",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Sự kiện",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Biển",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "question_text": "<ruby>花火大会<rt>はなびたいかい</rt></ruby> (hanabi taikai) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Việc làm thêm",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Lễ hội pháo hoa",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Biển",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Hồ bơi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "question_text": "イベント (ibento) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Lễ hội pháo hoa",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Sự kiện",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Hồ bơi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Mệt",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "question_text": "<ruby>海<rt>うみ</rt></ruby> (umi) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Sự kiện",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Biển",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Mệt",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đi ra ngoài",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "question_text": "プール (puuru) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Biển",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Hồ bơi",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đi ra ngoài",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Leo",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "question_text": "<ruby>疲れます<rt>つかれます</rt></ruby> (tsukaremasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Hồ bơi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Mệt",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Leo",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Gặp",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "question_text": "<ruby>出かけます<rt>でかけます</rt></ruby> (dekakemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mệt",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đi ra ngoài",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Gặp",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Du lịch",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "question_text": "<ruby>登ります<rt>のぼります</rt></ruby> (noborimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đi ra ngoài",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Leo",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Du lịch",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Bơi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "question_text": "<ruby>会います<rt>あいます</rt></ruby> (aimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Leo",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Gặp",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Bơi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Cái gì đó",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "question_text": "<ruby>旅行します<rt>りょこうします</rt></ruby> (ryokou shimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Gặp",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Du lịch",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Cái gì đó",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đâu đó",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "question_text": "<ruby>泳ぎます<rt>およぎます</rt></ruby> (oyogimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Du lịch",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Bơi",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đâu đó",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Cùng nhau -",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "question_text": "<ruby>何か<rt>なにか</rt></ruby> (nanika) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Bơi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Cái gì đó",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Cùng nhau -",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Có (sự kiện/ sự việc) ở (địa điểm)",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "question_text": "どこか (dokoka) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Cái gì đó",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đâu đó",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Có (sự kiện/ sự việc) ở (địa điểm)",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đi xem",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "question_text": "いっしょに (issho ni) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đâu đó",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Cùng nhau -",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đi xem",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Hẹn lần sau",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "question_text": "(place)で(event)があります ((place) de (event) ga arimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Cùng nhau -",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Có (sự kiện/ sự việc) ở (địa điểm)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Hẹn lần sau",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đáng tiếc",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "question_text": "<ruby>見に行きます<rt>みにいきます</rt></ruby> (mi ni ikimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Có (sự kiện/ sự việc) ở (địa điểm)",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đi xem",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đáng tiếc",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Không được rồi... (từ chối)",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "question_text": "<ruby>また今度<rt>またこんど</rt></ruby> (mata kondo) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đi xem",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Hẹn lần sau",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Không được rồi... (từ chối)",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Không được",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "question_text": "ざんねん (zannen) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Hẹn lần sau",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đáng tiếc",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Không được",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Có lẽ là ổn.",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "question_text": "ちょっと... (chotto...) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đáng tiếc",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Không được rồi... (từ chối)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Có lẽ là ổn.",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Cay",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "question_text": "だめ (dame) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Không được rồi... (từ chối)",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Không được",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Cay",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đông, nhiều",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "question_text": "<ruby>多分大丈夫です<rt>たぶんだいじょうぶです</rt></ruby> (tabun daijoubu desu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Không được",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Có lẽ là ổn.",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đông, nhiều",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Rảnh",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

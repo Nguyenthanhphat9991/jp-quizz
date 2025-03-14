@@ -1,0 +1,940 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question_text": "<ruby>洗います<rt>あらいます</rt></ruby> (araimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Ấn, nhấn",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Rửa",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Tắm bồn",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Mặc (đồ)",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question_text": "<ruby>押します<rt>おします</rt></ruby> (oshimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Rửa",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Ấn, nhấn",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Mặc (đồ)",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đưa đi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question_text": "<ruby>お風呂に入ります<rt>おふろにはいります</rt></ruby> (ofuro ni hairimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Ấn, nhấn",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Tắm bồn",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đưa đi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đưa đến",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question_text": "<ruby>着ます<rt>きます</rt></ruby> (kimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Tắm bồn",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Mặc (đồ)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đưa đến",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Sắp xếp",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question_text": "<ruby>連れて行きます<rt>つれていきます</rt></ruby> (tsurete ikimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mặc (đồ)",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đưa đi",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Sắp xếp",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Lên (xe)",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "question_text": "<ruby>連れて来ます<rt>つれてきます</rt></ruby> (tsurete kimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đưa đi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đưa đến",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Lên (xe)",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Trả tiền",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question_text": "<ruby>並べます<rt>ならべます</rt></ruby> (narabemasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đưa đến",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Sắp xếp",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Trả tiền",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đánh, chải",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "question_text": "<ruby>乗ります<rt>のります</rt></ruby> (norimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Sắp xếp",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Lên (xe)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đánh, chải",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "(Nước) ra, xuất hiện",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "question_text": "<ruby>払います<rt>はらいます</rt></ruby> (haraimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Lên (xe)",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Trả tiền",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "(Nước) ra, xuất hiện",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đặt trước",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "question_text": "<ruby>磨きます<rt>みがきます</rt></ruby> (migakimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Trả tiền",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đánh, chải",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đặt trước",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Băng qua",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "question_text": "<ruby>水が出ます<rt>みずがでます</rt></ruby> ((mizu ga) demasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đánh, chải",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "(Nước) ra, xuất hiện",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Băng qua",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Mật khẩu",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "question_text": "<ruby>予約します<rt>よやくします</rt></ruby> (yoyaku shimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "(Nước) ra, xuất hiện",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đặt trước",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Mật khẩu",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Ngã rẽ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "question_text": "<ruby>渡ります<rt>わたります</rt></ruby> (watarimasu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đặt trước",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Băng qua",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Mật khẩu",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Tiền lương",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "question_text": "<ruby>暗証番号<rt>あんしょうばんごう</rt></ruby> (anshou bangou) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Băng qua",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Mật khẩu",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Tiền lương",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Game",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "question_text": "<ruby>角<rt>かど</rt></ruby> (kado) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mật khẩu",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Ngã rẽ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Game",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Giao lộ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "question_text": "<ruby>給料<rt>きゅうりょう</rt></ruby> (kyuuryou) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Ngã rẽ",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Tiền lương",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Giao lộ",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Kí túc xá",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "question_text": "ゲーム (geemu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Tiền lương",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Game",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Kí túc xá",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Nút",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "question_text": "<ruby>交差点<rt>こうさてん</rt></ruby> (kousaten) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Game",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Giao lộ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nút",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Số tiền",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "question_text": "<ruby>寮<rt>りょう</rt></ruby> (ryou) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Giao lộ",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Kí túc xá",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Số tiền",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Bảng",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "question_text": "ボタン (botan) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Kí túc xá",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nút",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Bảng",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Khuôn mặt",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "question_text": "<ruby>金額<rt>きんがく</rt></ruby> (kingaku) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nút",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Số tiền",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Khuôn mặt",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Chai",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "question_text": "<ruby>黒板<rt>こくばん</rt></ruby> (kokuban) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Số tiền",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Bảng",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Chai",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Nhẹ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "question_text": "<ruby>顔<rt>かお</rt></ruby> (kao) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Bảng",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Khuôn mặt",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nhẹ",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Tươi sáng, sáng sủa",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "question_text": "ボトル (botoru) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Khuôn mặt",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Chai",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Tươi sáng, sáng sủa",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đẹp, ngầu",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "question_text": "<ruby>軽い<rt>かるい</rt></ruby> (karui) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Chai",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nhẹ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đẹp, ngầu",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Nhiệt tình",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "question_text": "<ruby>明るい<rt>あかるい</rt></ruby> (akarui) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nhẹ",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Tươi sáng, sáng sủa",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đáng yêu",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Nhiệt tình",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "question_text": "かっこいい (kakkoii) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Tươi sáng, sáng sủa",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đẹp, ngầu",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nhiệt tình",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Nghiêm túc, chăm chỉ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "question_text": "<ruby>若い<rt>わかい</rt></ruby> (wakai) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đẹp, ngầu",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Trẻ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nghiêm túc, chăm chỉ",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Thẳng",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "question_text": "<ruby>可愛い<rt>かわいい</rt></ruby> (kawaii) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Trẻ",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đáng yêu",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Thẳng",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đầu tiên",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "question_text": "<ruby>熱心<rt>ねっしん</rt></ruby> (nesshin) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đáng yêu",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nhiệt tình",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đầu tiên",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Như thế nào?",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "question_text": "<ruby>真面目<rt>まじめ</rt></ruby> (majime) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nhiệt tình",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nghiêm túc, chăm chỉ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Như thế nào?",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "~ thứ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "question_text": "まっすぐ (massugu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nghiêm túc, chăm chỉ",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Thẳng",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "~ thứ",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Tôi muốn đi đến ~",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "question_text": "まず (mazu) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Thẳng",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đầu tiên",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Tôi muốn đi đến ~",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Rửa",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "question_text": "どうやって (dou yatte) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đầu tiên",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Như thế nào?",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Rửa",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Ấn, nhấn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "question_text": "〜め (~me) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Như thế nào?",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "~ thứ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Ấn, nhấn",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Tắm bồn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "question_text": "〜に いきたいんですが (~ni ikitain desu ga) có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "~ thứ",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Tôi muốn đi đến ~",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Tắm bồn",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Mặc (đồ)",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}
