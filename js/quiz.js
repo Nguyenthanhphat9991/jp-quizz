@@ -14,6 +14,10 @@ else if (categoryId == 2) {
     dataFile = `./data/questions/dong-tu.json`;
     title = 'Chúc mọi người ôn động từ vui vẻ!';
 }
+else if (categoryId == 3) {
+    dataFile = `./data/questions/tinh-tu.json`;
+    title = 'Chúc mọi người ôn tính từ vui vẻ!';
+}
 
 fetch(dataFile)
     .then(response => response.json())

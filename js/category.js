@@ -8,6 +8,11 @@ document.addEventListener("DOMContentLoaded", () => {
         return;
     }
 
+    if (categoryId == 3) {
+        window.location.href = `quiz.html?categoryId=${categoryId}`;
+        return;
+    }
+
     fetch('./data/courses.json')
         .then(response => response.json())
         .then(data => {

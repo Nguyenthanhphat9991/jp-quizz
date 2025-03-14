@@ -1,13 +1,13 @@
-Tính từ,すき (suki),好き (suki),Thích
-Tính từ,きらい (kirai),嫌い (kirai),Ghét
-Tính từ,すてき (suteki),素敵 (suteki),Tuyệt vời
-Tính từ,じょうず (jouzu),上手 (jouzu),Giỏi
-Tính từ,へた (heta),下手 (heta),Kém
-Tính từ,とくい (tokui),得意 (tokui),Giỏi, điểm mạnh
-Tính từ,にがて (nigate),苦手 (nigate),Kém, điểm yếu
+Tính từ,すき (suki),好き (suki),Thích (な)
+Tính từ,きらい (kirai),嫌い (kirai),Ghét (な)
+Tính từ,すてき (suteki),素敵 (suteki),Tuyệt vời (な)
+Tính từ,じょうず (jouzu),上手 (jouzu),Giỏi (な)
+Tính từ,へた (heta),下手 (heta),Kém (な)
+Tính từ,とくい (tokui),得意 (tokui),Giỏi, điểm mạnh (な)
+Tính từ,にがて (nigate),苦手 (nigate),Kém, điểm yếu (な)
 Tính từ,おそい (osoi),遅い (osoi),Muộn, chậm
 Tính từ,はやい (hayai),早い (hayai),Nhanh, lẹ
-Tính từ,たいせつ (taisetsu),大切 (taisetsu),Quan trọng
+Tính từ,たいせつ (taisetsu),大切 (taisetsu),Quan trọng (な)
 Tính từ,ながい (nagai),長い (nagai),Dài
 Tính từ,みじかい (mijikai),短い (mijikai),Ngắn
 Tính từ,かるい (karui),軽い (karui),Nhẹ
@@ -15,9 +15,9 @@ Tính từ,あかるい (akarui),明るい (akarui),Tươi sáng, sáng sủa
 Tính từ,かっこいい (kakkoii),,Đẹp, ngầu
 Tính từ,わかい (wakai),若い (wakai),Trẻ
 Tính từ,かわいい (kawaii),可愛い (kawaii),Đáng yêu
-Tính từ,ねっしん (nesshin),熱心 (nesshin),Nhiệt tình
-Tính từ,まじめ (majime),真面目 (majime),Nghiêm túc, chăm chỉ
-Tính từ,なかがいい (naka ga ii),仲がいい (naka ga ii),Quan hệ tốt
+Tính từ,ねっしん (nesshin),熱心 (nesshin),Nhiệt tình (な)
+Tính từ,まじめ (majime),真面目 (majime),Nghiêm túc, chăm chỉ (な)
+Tính từ,なかがいい (naka ga ii),仲がいい (naka ga ii),Quan hệ tốt (な)
 Tính từ,あたたかい (atatakai),暖かい (atatakai),Ấm áp
 Tính từ,すずしい (suzushii),涼しい (suzushii),Mát mẻ
 Tính từ,ねむい (nemui),眠い (nemui),Buồn ngủ
