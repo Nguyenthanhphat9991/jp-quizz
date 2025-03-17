@@ -158,7 +158,7 @@
         },
         {
             "id": 7,
-            "question_text": "出来ます (dekimasu) có nghĩa là gì?",
+            "question_text": "出来ます có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -184,7 +184,7 @@
         },
         {
             "id": 8,
-            "question_text": "<ruby>折り紙<rt>おりがみ</rt></ruby> (origami) có nghĩa là gì?",
+            "question_text": "<ruby>折り紙<rt>おりがみ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -210,7 +210,7 @@
         },
         {
             "id": 9,
-            "question_text": "ブラジル (burajiru) có nghĩa là gì?",
+            "question_text": "ブラジル có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -236,7 +236,7 @@
         },
         {
             "id": 10,
-            "question_text": "<ruby>外国語<rt>がいこくご</rt></ruby> (gaikokugo) có nghĩa là gì?",
+            "question_text": "<ruby>外国語<rt>がいこくご</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -262,7 +262,7 @@
         },
         {
             "id": 11,
-            "question_text": "インターネット (intaanetto) có nghĩa là gì?",
+            "question_text": "インターネット có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -288,7 +288,7 @@
         },
         {
             "id": 12,
-            "question_text": "<ruby>漢字<rt>かんじ</rt></ruby> (kanji) có nghĩa là gì?",
+            "question_text": "<ruby>漢字<rt>かんじ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -314,7 +314,7 @@
         },
         {
             "id": 13,
-            "question_text": "<ruby>切手<rt>きって</rt></ruby> (kitte) có nghĩa là gì?",
+            "question_text": "<ruby>切手<rt>きって</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -340,7 +340,7 @@
         },
         {
             "id": 14,
-            "question_text": "<ruby>着物<rt>きもの</rt></ruby> (kimono) có nghĩa là gì?",
+            "question_text": "<ruby>着物<rt>きもの</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -366,7 +366,7 @@
         },
         {
             "id": 15,
-            "question_text": "ギター (gitaa) có nghĩa là gì?",
+            "question_text": "ギター có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -392,7 +392,7 @@
         },
         {
             "id": 16,
-            "question_text": "<ruby>事故<rt>じこ</rt></ruby> (jiko) có nghĩa là gì?",
+            "question_text": "<ruby>事故<rt>じこ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -418,7 +418,7 @@
         },
         {
             "id": 17,
-            "question_text": "<ruby>地震<rt>じしん</rt></ruby> (jishin) có nghĩa là gì?",
+            "question_text": "<ruby>地震<rt>じしん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -444,7 +444,7 @@
         },
         {
             "id": 18,
-            "question_text": "<ruby>趣味<rt>しゅみ</rt></ruby> (shumi) có nghĩa là gì?",
+            "question_text": "<ruby>趣味<rt>しゅみ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -470,7 +470,7 @@
         },
         {
             "id": 19,
-            "question_text": "<ruby>鶴<rt>つる</rt></ruby> (tsuru) có nghĩa là gì?",
+            "question_text": "<ruby>鶴<rt>つる</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -496,7 +496,7 @@
         },
         {
             "id": 20,
-            "question_text": "<ruby>履歴書<rt>りれきしょ</rt></ruby> (rirekisho) có nghĩa là gì?",
+            "question_text": "<ruby>履歴書<rt>りれきしょ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -522,7 +522,7 @@
         },
         {
             "id": 21,
-            "question_text": "ホテル (hoteru) có nghĩa là gì?",
+            "question_text": "ホテル có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -548,7 +548,7 @@
         },
         {
             "id": 22,
-            "question_text": "<ruby>読書<rt>どくしょ</rt></ruby> (dokusho) có nghĩa là gì?",
+            "question_text": "<ruby>読書<rt>どくしょ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -574,7 +574,7 @@
         },
         {
             "id": 23,
-            "question_text": "メートル (meetoru) có nghĩa là gì?",
+            "question_text": "メートル có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -600,7 +600,7 @@
         },
         {
             "id": 24,
-            "question_text": "<ruby>特に<rt>とくに</rt></ruby> (tokuni) có nghĩa là gì?",
+            "question_text": "<ruby>特に<rt>とくに</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -652,7 +652,7 @@
         },
         {
             "id": 26,
-            "question_text": "<ruby>頑張ります<rt>がんばります</rt></ruby> (ganbarimasu) có nghĩa là gì?",
+            "question_text": "<ruby>頑張ります<rt>がんばります</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -704,7 +704,7 @@
         },
         {
             "id": 13,
-            "question_text": "<ruby>楽器<rt>がっき</rt></ruby> (gakki) có nghĩa là gì?",
+            "question_text": "<ruby>楽器<rt>がっき</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

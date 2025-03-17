@@ -2,7 +2,7 @@
     "questions": [
         {
             "id": 1,
-            "question_text": "おととい (ototoi) có nghĩa là gì?",
+            "question_text": "おととい có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -28,7 +28,7 @@
         },
         {
             "id": 2,
-            "question_text": "<ruby>昨日<rt>きのう</rt></ruby> (kinou) có nghĩa là gì?",
+            "question_text": "<ruby>昨日<rt>きのう</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -54,7 +54,7 @@
         },
         {
             "id": 3,
-            "question_text": "<ruby>今日<rt>きょう</rt></ruby> (kyou) có nghĩa là gì?",
+            "question_text": "<ruby>今日<rt>きょう</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -80,7 +80,7 @@
         },
         {
             "id": 4,
-            "question_text": "<ruby>毎日<rt>まいにち</rt></ruby> (mainichi) có nghĩa là gì?",
+            "question_text": "<ruby>毎日<rt>まいにち</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -106,7 +106,7 @@
         },
         {
             "id": 5,
-            "question_text": "<ruby>今朝<rt>けさ</rt></ruby> (kesa) có nghĩa là gì?",
+            "question_text": "<ruby>今朝<rt>けさ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -132,7 +132,7 @@
         },
         {
             "id": 6,
-            "question_text": "<ruby>毎朝<rt>まいあさ</rt></ruby> (maiasa) có nghĩa là gì?",
+            "question_text": "<ruby>毎朝<rt>まいあさ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -158,7 +158,7 @@
         },
         {
             "id": 7,
-            "question_text": "<ruby>昼<rt>ひる</rt></ruby> (hiru) có nghĩa là gì?",
+            "question_text": "<ruby>昼<rt>ひる</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -184,7 +184,7 @@
         },
         {
             "id": 8,
-            "question_text": "<ruby>晩<rt>ばん</rt></ruby> (ban) có nghĩa là gì?",
+            "question_text": "<ruby>晩<rt>ばん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -210,7 +210,7 @@
         },
         {
             "id": 9,
-            "question_text": "<ruby>今晩<rt>こんばん</rt></ruby> (konban) có nghĩa là gì?",
+            "question_text": "<ruby>今晩<rt>こんばん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -236,7 +236,7 @@
         },
         {
             "id": 10,
-            "question_text": "<ruby>毎晩<rt>まいばん</rt></ruby> (maiban) có nghĩa là gì?",
+            "question_text": "<ruby>毎晩<rt>まいばん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -262,7 +262,7 @@
         },
         {
             "id": 11,
-            "question_text": "<ruby>時間<rt>じかん</rt></ruby> (jikan) có nghĩa là gì?",
+            "question_text": "<ruby>時間<rt>じかん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -288,7 +288,7 @@
         },
         {
             "id": 12,
-            "question_text": "どのぐらい (donogurai) có nghĩa là gì?",
+            "question_text": "どのぐらい có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -314,7 +314,7 @@
         },
         {
             "id": 13,
-            "question_text": "<ruby>起き<rt>おき</rt></ruby>ます (okimasu) có nghĩa là gì?",
+            "question_text": "<ruby>起き<rt>おき</rt></ruby>ます có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -340,7 +340,7 @@
         },
         {
             "id": 14,
-            "question_text": "<ruby>寝<rt>ね</rt></ruby>ます (nemasu) có nghĩa là gì?",
+            "question_text": "<ruby>寝<rt>ね</rt></ruby>ます có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -366,7 +366,7 @@
         },
         {
             "id": 15,
-            "question_text": "<ruby>終わ<rt>おわ</rt></ruby>ります (owarimasu) có nghĩa là gì?",
+            "question_text": "<ruby>終わ<rt>おわ</rt></ruby>ります có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -392,7 +392,7 @@
         },
         {
             "id": 16,
-            "question_text": "<ruby>買い物<rt>かいもの</rt></ruby>します (kaimonoshimasu) có nghĩa là gì?",
+            "question_text": "<ruby>買い物<rt>かいもの</rt></ruby>します có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -418,7 +418,7 @@
         },
         {
             "id": 17,
-            "question_text": "<ruby>散歩<rt>さんぽ</rt></ruby>します (sanposhimasu) có nghĩa là gì?",
+            "question_text": "<ruby>散歩<rt>さんぽ</rt></ruby>します có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -444,7 +444,7 @@
         },
         {
             "id": 18,
-            "question_text": "<ruby>洗濯<rt>せんたく</rt></ruby>します (sentakushimasu) có nghĩa là gì?",
+            "question_text": "<ruby>洗濯<rt>せんたく</rt></ruby>します có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -470,7 +470,7 @@
         },
         {
             "id": 19,
-            "question_text": "<ruby>掃除<rt>そうじ</rt></ruby>します (soujishimasu) có nghĩa là gì?",
+            "question_text": "<ruby>掃除<rt>そうじ</rt></ruby>します có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -496,7 +496,7 @@
         },
         {
             "id": 20,
-            "question_text": "<ruby>働き<rt>はたらき</rt></ruby>ます (hatarakimasu) có nghĩa là gì?",
+            "question_text": "<ruby>働き<rt>はたらき</rt></ruby>ます có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -522,7 +522,7 @@
         },
         {
             "id": 21,
-            "question_text": "<ruby>勉強<rt>べんきょう</rt></ruby>します (benkyoushimasu) có nghĩa là gì?",
+            "question_text": "<ruby>勉強<rt>べんきょう</rt></ruby>します có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -548,7 +548,7 @@
         },
         {
             "id": 22,
-            "question_text": "<ruby>休み<rt>やすみ</rt></ruby>ます (yasumimasu) có nghĩa là gì?",
+            "question_text": "<ruby>休み<rt>やすみ</rt></ruby>ます có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -574,7 +574,7 @@
         },
         {
             "id": 23,
-            "question_text": "<ruby>お祭り<rt>おまつり</rt></ruby> (omatsuri) (động từ) có nghĩa là gì?",
+            "question_text": "<ruby>お祭り<rt>おまつり</rt></ruby> (động từ) có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -600,7 +600,7 @@
         },
         {
             "id": 24,
-            "question_text": "<ruby>お祭り<rt>おまつり</rt></ruby> (omatsuri) (danh từ) có nghĩa là gì?",
+            "question_text": "<ruby>お祭り<rt>おまつり</rt></ruby> (danh từ) có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -626,7 +626,7 @@
         },
         {
             "id": 25,
-            "question_text": "コンサート (konsaato) có nghĩa là gì?",
+            "question_text": "コンサート có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -652,7 +652,7 @@
         },
         {
             "id": 26,
-            "question_text": "<ruby>映画<rt>えいが</rt></ruby> (eiga) có nghĩa là gì?",
+            "question_text": "<ruby>映画<rt>えいが</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -704,7 +704,7 @@
         },
         {
             "id": 28,
-            "question_text": "ええ (ee) có nghĩa là gì?",
+            "question_text": "ええ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -782,7 +782,7 @@
         },
         {
             "id": 31,
-            "question_text": "<ruby>昼<rt>ひる</rt></ruby> (hiru) (bài tập ôn tập) có nghĩa là gì?",
+            "question_text": "<ruby>昼<rt>ひる</rt></ruby> (bài tập ôn tập) có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -808,7 +808,7 @@
         },
         {
             "id": 32,
-            "question_text": "<ruby>夜<rt>よる</rt></ruby> (yoru) (bài tập ôn tập) có nghĩa là gì?",
+            "question_text": "<ruby>夜<rt>よる</rt></ruby> (bài tập ôn tập) có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -834,7 +834,7 @@
         },
         {
             "id": 33,
-            "question_text": "<ruby>朝<rt>あさ</rt></ruby> (asa) (bài tập ôn tập) có nghĩa là gì?",
+            "question_text": "<ruby>朝<rt>あさ</rt></ruby> (bài tập ôn tập) có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -860,7 +860,7 @@
         },
         {
             "id": 34,
-            "question_text": "<ruby>夜<rt>よる</rt></ruby> (yoru) có nghĩa là gì?",
+            "question_text": "<ruby>夜<rt>よる</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -886,7 +886,7 @@
         },
         {
             "id": 35,
-            "question_text": "どのくらい (donokurai) có nghĩa là gì?",
+            "question_text": "どのくらい có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

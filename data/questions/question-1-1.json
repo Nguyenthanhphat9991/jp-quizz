@@ -2,7 +2,7 @@
     "questions": [
         {
             "id": 1,
-            "question_text": "あなた (anata) có nghĩa là gì?",
+            "question_text": "あなた có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -28,7 +28,7 @@
         },
         {
             "id": 2,
-            "question_text": "<ruby>私<rt>わたし</rt></ruby> (watashi) có nghĩa là gì?",
+            "question_text": "<ruby>私<rt>わたし</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -54,7 +54,7 @@
         },
         {
             "id": 3,
-            "question_text": "かのじょ (kanojo) có nghĩa là gì?",
+            "question_text": "かのじょ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -80,7 +80,7 @@
         },
         {
             "id": 4,
-            "question_text": "かれ (kare) có nghĩa là gì?",
+            "question_text": "かれ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -106,7 +106,7 @@
         },
         {
             "id": 5,
-            "question_text": "<ruby>人<rt>ひと</rt></ruby> (hito) có nghĩa là gì?",
+            "question_text": "<ruby>人<rt>ひと</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -158,7 +158,7 @@
         },
         {
             "id": 7,
-            "question_text": "<ruby>誰<rt>だれ</rt></ruby> (dare) có nghĩa là gì?",
+            "question_text": "<ruby>誰<rt>だれ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -184,7 +184,7 @@
         },
         {
             "id": 8,
-            "question_text": "<ruby>医者<rt>いしゃ</rt></ruby> (isha) có nghĩa là gì?",
+            "question_text": "<ruby>医者<rt>いしゃ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -210,7 +210,7 @@
         },
         {
             "id": 9,
-            "question_text": "<ruby>歌手<rt>かしゅ</rt></ruby> (kashu) có nghĩa là gì?",
+            "question_text": "<ruby>歌手<rt>かしゅ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -236,7 +236,7 @@
         },
         {
             "id": 10,
-            "question_text": "<ruby>学生<rt>がくせい</rt></ruby> (gakusei) có nghĩa là gì?",
+            "question_text": "<ruby>学生<rt>がくせい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -262,7 +262,7 @@
         },
         {
             "id": 11,
-            "question_text": "<ruby>先生<rt>せんせい</rt></ruby> (sensei) có nghĩa là gì?",
+            "question_text": "<ruby>先生<rt>せんせい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -288,7 +288,7 @@
         },
         {
             "id": 12,
-            "question_text": "<ruby>教師<rt>きょうし</rt></ruby> (kyoushi) có nghĩa là gì?",
+            "question_text": "<ruby>教師<rt>きょうし</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -314,7 +314,7 @@
         },
         {
             "id": 13,
-            "question_text": "<ruby>銀行員<rt>ぎんこういん</rt></ruby> (ginkouin) có nghĩa là gì?",
+            "question_text": "<ruby>銀行員<rt>ぎんこういん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -340,7 +340,7 @@
         },
         {
             "id": 14,
-            "question_text": "<ruby>警察官<rt>けいさつかん</rt></ruby> (keisatsukan) có nghĩa là gì?",
+            "question_text": "<ruby>警察官<rt>けいさつかん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -366,7 +366,7 @@
         },
         {
             "id": 15,
-            "question_text": "<ruby>会社員<rt>かいしゃいん</rt></ruby> (kaishain) có nghĩa là gì?",
+            "question_text": "<ruby>会社員<rt>かいしゃいん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -392,7 +392,7 @@
         },
         {
             "id": 16,
-            "question_text": "<ruby>社員<rt>しゃいん</rt></ruby> (shain) có nghĩa là gì?",
+            "question_text": "<ruby>社員<rt>しゃいん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -418,7 +418,7 @@
         },
         {
             "id": 17,
-            "question_text": "<ruby>留学生<rt>りゅうがくせい</rt></ruby> (ryuugakusei) có nghĩa là gì?",
+            "question_text": "<ruby>留学生<rt>りゅうがくせい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -444,7 +444,7 @@
         },
         {
             "id": 18,
-            "question_text": "ベトナム (betonamu) có nghĩa là gì?",
+            "question_text": "ベトナム có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -470,7 +470,7 @@
         },
         {
             "id": 19,
-            "question_text": "<ruby>日本<rt>にほん</rt></ruby> (nihon) có nghĩa là gì?",
+            "question_text": "<ruby>日本<rt>にほん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -496,7 +496,7 @@
         },
         {
             "id": 20,
-            "question_text": "<ruby>中国<rt>ちゅうごく</rt></ruby> (chuugoku) có nghĩa là gì?",
+            "question_text": "<ruby>中国<rt>ちゅうごく</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -522,7 +522,7 @@
         },
         {
             "id": 21,
-            "question_text": "<ruby>韓国<rt>かんこく</rt></ruby> (kankoku) có nghĩa là gì?",
+            "question_text": "<ruby>韓国<rt>かんこく</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -548,7 +548,7 @@
         },
         {
             "id": 22,
-            "question_text": "アメリカ (amerika) có nghĩa là gì?",
+            "question_text": "アメリカ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -574,7 +574,7 @@
         },
         {
             "id": 23,
-            "question_text": "<ruby>国<rt>くに</rt></ruby> (kuni) có nghĩa là gì?",
+            "question_text": "<ruby>国<rt>くに</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -600,7 +600,7 @@
         },
         {
             "id": 24,
-            "question_text": "<ruby>人<rt>じん</rt></ruby> (jin) có nghĩa là gì?",
+            "question_text": "<ruby>人<rt>じん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -626,7 +626,7 @@
         },
         {
             "id": 25,
-            "question_text": "<ruby>会社<rt>かいしゃ</rt></ruby> (kaisha) có nghĩa là gì?",
+            "question_text": "<ruby>会社<rt>かいしゃ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -652,7 +652,7 @@
         },
         {
             "id": 26,
-            "question_text": "<ruby>学校<rt>がっこう</rt></ruby> (gakkou) có nghĩa là gì?",
+            "question_text": "<ruby>学校<rt>がっこう</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -678,7 +678,7 @@
         },
         {
             "id": 27,
-            "question_text": "<ruby>大学<rt>だいがく</rt></ruby> (daigaku) có nghĩa là gì?",
+            "question_text": "<ruby>大学<rt>だいがく</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -704,7 +704,7 @@
         },
         {
             "id": 28,
-            "question_text": "<ruby>病院<rt>びょういん</rt></ruby> (byouin) có nghĩa là gì?",
+            "question_text": "<ruby>病院<rt>びょういん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -730,7 +730,7 @@
         },
         {
             "id": 29,
-            "question_text": "はじめまして (hajimemashite) có nghĩa là gì?",
+            "question_text": "はじめまして có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -938,7 +938,7 @@
         },
         {
             "id": 37,
-            "question_text": "<ruby>方<rt>かた</rt></ruby> (kata) có nghĩa là gì?",
+            "question_text": "<ruby>方<rt>かた</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -964,7 +964,7 @@
         },
         {
             "id": 38,
-            "question_text": "どなた (donata) có nghĩa là gì?",
+            "question_text": "どなた có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

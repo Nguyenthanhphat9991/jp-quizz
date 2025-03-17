@@ -2,7 +2,7 @@
     "questions": [
         {
             "id": 1,
-            "question_text": "<ruby>欲しい<rt>ほしい</rt></ruby> (hoshii) có nghĩa là gì?",
+            "question_text": "<ruby>欲しい<rt>ほしい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -28,7 +28,7 @@
         },
         {
             "id": 2,
-            "question_text": "<ruby>遊びます<rt>あそびます</rt></ruby> (asobimasu) có nghĩa là gì?",
+            "question_text": "<ruby>遊びます<rt>あそびます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -54,7 +54,7 @@
         },
         {
             "id": 3,
-            "question_text": "<ruby>浴びます<rt>あびます</rt></ruby> (abimasu) có nghĩa là gì?",
+            "question_text": "<ruby>浴びます<rt>あびます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -106,7 +106,7 @@
         },
         {
             "id": 5,
-            "question_text": "<ruby>迎えます<rt>むかえます</rt></ruby> (mukaemasu) có nghĩa là gì?",
+            "question_text": "<ruby>迎えます<rt>むかえます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -158,7 +158,7 @@
         },
         {
             "id": 7,
-            "question_text": "<ruby>授業<rt>じゅぎょう</rt></ruby> (jugyou) có nghĩa là gì?",
+            "question_text": "<ruby>授業<rt>じゅぎょう</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -184,7 +184,7 @@
         },
         {
             "id": 8,
-            "question_text": "<ruby>財布<rt>さいふ</rt></ruby> (saifu) có nghĩa là gì?",
+            "question_text": "<ruby>財布<rt>さいふ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -210,7 +210,7 @@
         },
         {
             "id": 9,
-            "question_text": "シャワー (shawaa) có nghĩa là gì?",
+            "question_text": "シャワー có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -236,7 +236,7 @@
         },
         {
             "id": 10,
-            "question_text": "スキー (sukii) có nghĩa là gì?",
+            "question_text": "スキー có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -262,7 +262,7 @@
         },
         {
             "id": 11,
-            "question_text": "テニス (tenisu) có nghĩa là gì?",
+            "question_text": "テニス có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -288,7 +288,7 @@
         },
         {
             "id": 12,
-            "question_text": "<ruby>釣り<rt>つり</rt></ruby> (tsuri) có nghĩa là gì?",
+            "question_text": "<ruby>釣り<rt>つり</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -314,7 +314,7 @@
         },
         {
             "id": 13,
-            "question_text": "<ruby>文化<rt>ぶんか</rt></ruby> (bunka) có nghĩa là gì?",
+            "question_text": "<ruby>文化<rt>ぶんか</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -340,7 +340,7 @@
         },
         {
             "id": 14,
-            "question_text": "<ruby>生活<rt>せいかつ</rt></ruby> (seikatsu) có nghĩa là gì?",
+            "question_text": "<ruby>生活<rt>せいかつ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -366,7 +366,7 @@
         },
         {
             "id": 15,
-            "question_text": "デート (deeto) có nghĩa là gì?",
+            "question_text": "デート có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -392,7 +392,7 @@
         },
         {
             "id": 16,
-            "question_text": "<ruby>次<rt>つぎ</rt></ruby> (tsugi) có nghĩa là gì?",
+            "question_text": "<ruby>次<rt>つぎ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -418,7 +418,7 @@
         },
         {
             "id": 17,
-            "question_text": "<ruby>甘い<rt>あまい</rt></ruby> (amai) có nghĩa là gì?",
+            "question_text": "<ruby>甘い<rt>あまい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -444,7 +444,7 @@
         },
         {
             "id": 18,
-            "question_text": "<ruby>焼きそば<rt>やきそば</rt></ruby> (yakisoba) có nghĩa là gì?",
+            "question_text": "<ruby>焼きそば<rt>やきそば</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -470,7 +470,7 @@
         },
         {
             "id": 19,
-            "question_text": "<ruby>疲れました<rt>つかれました</rt></ruby> (tsukaremashita) có nghĩa là gì?",
+            "question_text": "<ruby>疲れました<rt>つかれました</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -574,7 +574,7 @@
         },
         {
             "id": 23,
-            "question_text": "ちょっと (chotto) có nghĩa là gì?",
+            "question_text": "ちょっと có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

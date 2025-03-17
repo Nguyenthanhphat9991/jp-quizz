@@ -2,7 +2,7 @@
     "questions": [
         {
             "id": 1,
-            "question_text": "<ruby>遅い<rt>おそい</rt></ruby> (osoi) có nghĩa là gì?",
+            "question_text": "<ruby>遅い<rt>おそい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -28,7 +28,7 @@
         },
         {
             "id": 2,
-            "question_text": "<ruby>早い<rt>はやい</rt></ruby> (hayai) có nghĩa là gì?",
+            "question_text": "<ruby>早い<rt>はやい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -54,7 +54,7 @@
         },
         {
             "id": 3,
-            "question_text": "<ruby>大切<rt>たいせつ</rt></ruby> (taisetsu) có nghĩa là gì?",
+            "question_text": "<ruby>大切<rt>たいせつ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -80,7 +80,7 @@
         },
         {
             "id": 4,
-            "question_text": "<ruby>長い<rt>ながい</rt></ruby> (nagai) có nghĩa là gì?",
+            "question_text": "<ruby>長い<rt>ながい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -106,7 +106,7 @@
         },
         {
             "id": 5,
-            "question_text": "<ruby>短い<rt>みじかい</rt></ruby> (mijikai) có nghĩa là gì?",
+            "question_text": "<ruby>短い<rt>みじかい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -132,7 +132,7 @@
         },
         {
             "id": 6,
-            "question_text": "<ruby>頭<rt>あたま</rt></ruby> (atama) có nghĩa là gì?",
+            "question_text": "<ruby>頭<rt>あたま</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -158,7 +158,7 @@
         },
         {
             "id": 7,
-            "question_text": "<ruby>髪<rt>かみ</rt></ruby> (kami) có nghĩa là gì?",
+            "question_text": "<ruby>髪<rt>かみ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -184,7 +184,7 @@
         },
         {
             "id": 8,
-            "question_text": "<ruby>口<rt>くち</rt></ruby> (kuchi) có nghĩa là gì?",
+            "question_text": "<ruby>口<rt>くち</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -210,7 +210,7 @@
         },
         {
             "id": 9,
-            "question_text": "<ruby>鼻<rt>はな</rt></ruby> (hana) có nghĩa là gì?",
+            "question_text": "<ruby>鼻<rt>はな</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -236,7 +236,7 @@
         },
         {
             "id": 10,
-            "question_text": "<ruby>耳<rt>みみ</rt></ruby> (mimi) có nghĩa là gì?",
+            "question_text": "<ruby>耳<rt>みみ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -262,7 +262,7 @@
         },
         {
             "id": 11,
-            "question_text": "<ruby>足<rt>あし</rt></ruby> (ashi) có nghĩa là gì?",
+            "question_text": "<ruby>足<rt>あし</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -288,7 +288,7 @@
         },
         {
             "id": 12,
-            "question_text": "<ruby>手<rt>て</rt></ruby> (te) có nghĩa là gì?",
+            "question_text": "<ruby>手<rt>て</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -314,7 +314,7 @@
         },
         {
             "id": 13,
-            "question_text": "<ruby>背<rt>せ</rt></ruby> (se) có nghĩa là gì?",
+            "question_text": "<ruby>背<rt>せ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -340,7 +340,7 @@
         },
         {
             "id": 14,
-            "question_text": "<ruby>季節<rt>きせつ</rt></ruby> (kisetsu) có nghĩa là gì?",
+            "question_text": "<ruby>季節<rt>きせつ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -366,7 +366,7 @@
         },
         {
             "id": 15,
-            "question_text": "<ruby>春<rt>はる</rt></ruby> (haru) có nghĩa là gì?",
+            "question_text": "<ruby>春<rt>はる</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -392,7 +392,7 @@
         },
         {
             "id": 16,
-            "question_text": "<ruby>夏<rt>なつ</rt></ruby> (natsu) có nghĩa là gì?",
+            "question_text": "<ruby>夏<rt>なつ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -418,7 +418,7 @@
         },
         {
             "id": 17,
-            "question_text": "<ruby>秋<rt>あき</rt></ruby> (aki) có nghĩa là gì?",
+            "question_text": "<ruby>秋<rt>あき</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -444,7 +444,7 @@
         },
         {
             "id": 18,
-            "question_text": "<ruby>冬<rt>ふゆ</rt></ruby> (fuyu) có nghĩa là gì?",
+            "question_text": "<ruby>冬<rt>ふゆ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -470,7 +470,7 @@
         },
         {
             "id": 19,
-            "question_text": "サル (saru) có nghĩa là gì?",
+            "question_text": "サル có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -496,7 +496,7 @@
         },
         {
             "id": 20,
-            "question_text": "ゾウ (zou) có nghĩa là gì?",
+            "question_text": "ゾウ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -522,7 +522,7 @@
         },
         {
             "id": 21,
-            "question_text": "<ruby>山<rt>やま</rt></ruby> (yama) có nghĩa là gì?",
+            "question_text": "<ruby>山<rt>やま</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -548,7 +548,7 @@
         },
         {
             "id": 22,
-            "question_text": "エベレスト (eberesuto) có nghĩa là gì?",
+            "question_text": "エベレスト có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -574,7 +574,7 @@
         },
         {
             "id": 23,
-            "question_text": "<ruby>言葉<rt>ことば</rt></ruby> (kotoba) có nghĩa là gì?",
+            "question_text": "<ruby>言葉<rt>ことば</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -600,7 +600,7 @@
         },
         {
             "id": 24,
-            "question_text": "<ruby>外国<rt>がいこく</rt></ruby> (gaikoku) có nghĩa là gì?",
+            "question_text": "<ruby>外国<rt>がいこく</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -626,7 +626,7 @@
         },
         {
             "id": 25,
-            "question_text": "<ruby>物<rt>もの</rt></ruby> (mono) có nghĩa là gì?",
+            "question_text": "<ruby>物<rt>もの</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -652,7 +652,7 @@
         },
         {
             "id": 26,
-            "question_text": "<ruby>名字<rt>みょうじ</rt></ruby> (myouji) có nghĩa là gì?",
+            "question_text": "<ruby>名字<rt>みょうじ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -678,7 +678,7 @@
         },
         {
             "id": 27,
-            "question_text": "<ruby>一番<rt>いちばん</rt></ruby> (ichiban) có nghĩa là gì?",
+            "question_text": "<ruby>一番<rt>いちばん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -704,7 +704,7 @@
         },
         {
             "id": 28,
-            "question_text": "<ruby>空気<rt>くうき</rt></ruby> (kuuki) có nghĩa là gì?",
+            "question_text": "<ruby>空気<rt>くうき</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -730,7 +730,7 @@
         },
         {
             "id": 29,
-            "question_text": "<ruby>牛肉<rt>ぎゅうにく</rt></ruby> (gyuuniku) có nghĩa là gì?",
+            "question_text": "<ruby>牛肉<rt>ぎゅうにく</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -756,7 +756,7 @@
         },
         {
             "id": 30,
-            "question_text": "<ruby>鶏肉<rt>とりにく</rt></ruby> (toriniku) có nghĩa là gì?",
+            "question_text": "<ruby>鶏肉<rt>とりにく</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -782,7 +782,7 @@
         },
         {
             "id": 31,
-            "question_text": "<ruby>世界<rt>せかい</rt></ruby> (sekai) có nghĩa là gì?",
+            "question_text": "<ruby>世界<rt>せかい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -808,7 +808,7 @@
         },
         {
             "id": 32,
-            "question_text": "<ruby>都合<rt>つごう</rt></ruby> (tsugou) có nghĩa là gì?",
+            "question_text": "<ruby>都合<rt>つごう</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -834,7 +834,7 @@
         },
         {
             "id": 33,
-            "question_text": "<ruby>値段<rt>ねだん</rt></ruby> (nedan) có nghĩa là gì?",
+            "question_text": "<ruby>値段<rt>ねだん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -860,7 +860,7 @@
         },
         {
             "id": 34,
-            "question_text": "<ruby>物価<rt>ぶっか</rt></ruby> (bukka) có nghĩa là gì?",
+            "question_text": "<ruby>物価<rt>ぶっか</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -886,7 +886,7 @@
         },
         {
             "id": 35,
-            "question_text": "<ruby>服<rt>ふく</rt></ruby> (fuku) có nghĩa là gì?",
+            "question_text": "<ruby>服<rt>ふく</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -938,7 +938,7 @@
         },
         {
             "id": 37,
-            "question_text": "ずっと (zutto) có nghĩa là gì?",
+            "question_text": "ずっと có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -964,7 +964,7 @@
         },
         {
             "id": 38,
-            "question_text": "どちら (dochira) có nghĩa là gì?",
+            "question_text": "どちら có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

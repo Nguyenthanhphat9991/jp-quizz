@@ -2,7 +2,7 @@
     "questions": [
         {
             "id": 1,
-            "question_text": "<ruby>食べます<rt>たべます</rt></ruby> (tabemasu) có nghĩa là gì?",
+            "question_text": "<ruby>食べます<rt>たべます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -28,7 +28,7 @@
         },
         {
             "id": 2,
-            "question_text": "<ruby>飲みます<rt>のみます</rt></ruby> (nomimasu) có nghĩa là gì?",
+            "question_text": "<ruby>飲みます<rt>のみます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -54,7 +54,7 @@
         },
         {
             "id": 3,
-            "question_text": "<ruby>見ます<rt>みます</rt></ruby> (mimasu) có nghĩa là gì?",
+            "question_text": "<ruby>見ます<rt>みます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -80,7 +80,7 @@
         },
         {
             "id": 4,
-            "question_text": "<ruby>聞きます<rt>ききます</rt></ruby> (kikimasu) có nghĩa là gì?",
+            "question_text": "<ruby>聞きます<rt>ききます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -106,7 +106,7 @@
         },
         {
             "id": 5,
-            "question_text": "<ruby>読みます<rt>よみます</rt></ruby> (yomimasu) có nghĩa là gì?",
+            "question_text": "<ruby>読みます<rt>よみます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -132,7 +132,7 @@
         },
         {
             "id": 6,
-            "question_text": "<ruby>書きます<rt>かきます</rt></ruby> (kakimasu) có nghĩa là gì?",
+            "question_text": "<ruby>書きます<rt>かきます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -158,7 +158,7 @@
         },
         {
             "id": 7,
-            "question_text": "<ruby>買います<rt>かいます</rt></ruby> (kaimasu) có nghĩa là gì?",
+            "question_text": "<ruby>買います<rt>かいます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -184,7 +184,7 @@
         },
         {
             "id": 8,
-            "question_text": "<ruby>切ります<rt>きります</rt></ruby> (kirimasu) có nghĩa là gì?",
+            "question_text": "<ruby>切ります<rt>きります</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -210,7 +210,7 @@
         },
         {
             "id": 9,
-            "question_text": "<ruby>撮ります<rt>とります</rt></ruby> (torimasu) có nghĩa là gì?",
+            "question_text": "<ruby>撮ります<rt>とります</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -236,7 +236,7 @@
         },
         {
             "id": 10,
-            "question_text": "<ruby>出します<rt>だします</rt></ruby> (dashimasu) có nghĩa là gì?",
+            "question_text": "<ruby>出します<rt>だします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -262,7 +262,7 @@
         },
         {
             "id": 11,
-            "question_text": "<ruby>分けます<rt>わけます</rt></ruby> (wakemasu) có nghĩa là gì?",
+            "question_text": "<ruby>分けます<rt>わけます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -288,7 +288,7 @@
         },
         {
             "id": 12,
-            "question_text": "します (shimasu) có nghĩa là gì?",
+            "question_text": "します có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -314,7 +314,7 @@
         },
         {
             "id": 13,
-            "question_text": "<ruby>魚<rt>さかな</rt></ruby> (sakana) có nghĩa là gì?",
+            "question_text": "<ruby>魚<rt>さかな</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -340,7 +340,7 @@
         },
         {
             "id": 14,
-            "question_text": "<ruby>卵<rt>たまご</rt></ruby> (tamago) có nghĩa là gì?",
+            "question_text": "<ruby>卵<rt>たまご</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -366,7 +366,7 @@
         },
         {
             "id": 15,
-            "question_text": "<ruby>ご飯<rt>ごはん</rt></ruby> (gohan) có nghĩa là gì?",
+            "question_text": "<ruby>ご飯<rt>ごはん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -392,7 +392,7 @@
         },
         {
             "id": 16,
-            "question_text": "<ruby>肉<rt>にく</rt></ruby> (niku) có nghĩa là gì?",
+            "question_text": "<ruby>肉<rt>にく</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -418,7 +418,7 @@
         },
         {
             "id": 17,
-            "question_text": "<ruby>果物<rt>くだもの</rt></ruby> (kudamono) có nghĩa là gì?",
+            "question_text": "<ruby>果物<rt>くだもの</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -444,7 +444,7 @@
         },
         {
             "id": 18,
-            "question_text": "<ruby>野菜<rt>やさい</rt></ruby> (yasai) có nghĩa là gì?",
+            "question_text": "<ruby>野菜<rt>やさい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -470,7 +470,7 @@
         },
         {
             "id": 19,
-            "question_text": "<ruby>お茶<rt>おちゃ</rt></ruby> (ocha) có nghĩa là gì?",
+            "question_text": "<ruby>お茶<rt>おちゃ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -496,7 +496,7 @@
         },
         {
             "id": 20,
-            "question_text": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby> (gyuunyuu) có nghĩa là gì?",
+            "question_text": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -522,7 +522,7 @@
         },
         {
             "id": 21,
-            "question_text": "ジュース (juusu) có nghĩa là gì?",
+            "question_text": "ジュース có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -548,7 +548,7 @@
         },
         {
             "id": 22,
-            "question_text": "ビール (biiru) có nghĩa là gì?",
+            "question_text": "ビール có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -574,7 +574,7 @@
         },
         {
             "id": 23,
-            "question_text": "<ruby>水<rt>みず</rt></ruby> (mizu) có nghĩa là gì?",
+            "question_text": "<ruby>水<rt>みず</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -600,7 +600,7 @@
         },
         {
             "id": 24,
-            "question_text": "<ruby>音楽<rt>おんがく</rt></ruby> (ongaku) có nghĩa là gì?",
+            "question_text": "<ruby>音楽<rt>おんがく</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -626,7 +626,7 @@
         },
         {
             "id": 25,
-            "question_text": "<ruby>写真<rt>しゃしん</rt></ruby> (shashin) có nghĩa là gì?",
+            "question_text": "<ruby>写真<rt>しゃしん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -652,7 +652,7 @@
         },
         {
             "id": 26,
-            "question_text": "サッカー (sakkaa) có nghĩa là gì?",
+            "question_text": "サッカー có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -678,7 +678,7 @@
         },
         {
             "id": 27,
-            "question_text": "テレビ (terebi) có nghĩa là gì?",
+            "question_text": "テレビ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -704,7 +704,7 @@
         },
         {
             "id": 28,
-            "question_text": "メール (meeru) có nghĩa là gì?",
+            "question_text": "メール có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -730,7 +730,7 @@
         },
         {
             "id": 29,
-            "question_text": "メッセージ (messeji) có nghĩa là gì?",
+            "question_text": "メッセージ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -756,7 +756,7 @@
         },
         {
             "id": 30,
-            "question_text": "<ruby>紙<rt>かみ</rt></ruby> (kami) có nghĩa là gì?",
+            "question_text": "<ruby>紙<rt>かみ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -782,7 +782,7 @@
         },
         {
             "id": 31,
-            "question_text": "<ruby>宿題<rt>しゅくだい</rt></ruby> (shukudai) có nghĩa là gì?",
+            "question_text": "<ruby>宿題<rt>しゅくだい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -808,7 +808,7 @@
         },
         {
             "id": 32,
-            "question_text": "ゴミ (gomi) có nghĩa là gì?",
+            "question_text": "ゴミ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -834,7 +834,7 @@
         },
         {
             "id": 33,
-            "question_text": "パーティー (paatii) có nghĩa là gì?",
+            "question_text": "パーティー có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -860,7 +860,7 @@
         },
         {
             "id": 34,
-            "question_text": "レポート (repooto) có nghĩa là gì?",
+            "question_text": "レポート có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -886,7 +886,7 @@
         },
         {
             "id": 35,
-            "question_text": "ナイフ (naifu) có nghĩa là gì?",
+            "question_text": "ナイフ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -912,7 +912,7 @@
         },
         {
             "id": 36,
-            "question_text": "スプーン (supuun) có nghĩa là gì?",
+            "question_text": "スプーン có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -938,7 +938,7 @@
         },
         {
             "id": 37,
-            "question_text": "はし (hashi) có nghĩa là gì?",
+            "question_text": "はし có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -964,7 +964,7 @@
         },
         {
             "id": 38,
-            "question_text": "<ruby>鋏<rt>はさみ</rt></ruby> (hasami) có nghĩa là gì?",
+            "question_text": "<ruby>鋏<rt>はさみ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -990,7 +990,7 @@
         },
         {
             "id": 39,
-            "question_text": "ミルク (miruku) có nghĩa là gì?",
+            "question_text": "ミルク có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

@@ -2,7 +2,7 @@
     "questions": [
         {
             "id": 1,
-            "question_text": "<ruby>待ちます<rt>まちます</rt></ruby> (machimasu) có nghĩa là gì?",
+            "question_text": "<ruby>待ちます<rt>まちます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -28,7 +28,7 @@
         },
         {
             "id": 2,
-            "question_text": "<ruby>吸います<rt>すいます</rt></ruby> (suimasu) có nghĩa là gì?",
+            "question_text": "<ruby>吸います<rt>すいます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -54,7 +54,7 @@
         },
         {
             "id": 3,
-            "question_text": "<ruby>持ちます<rt>もちます</rt></ruby> (mochimasu) có nghĩa là gì?",
+            "question_text": "<ruby>持ちます<rt>もちます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -80,7 +80,7 @@
         },
         {
             "id": 4,
-            "question_text": "<ruby>知ります<rt>しります</rt></ruby> (shirimasu) có nghĩa là gì?",
+            "question_text": "<ruby>知ります<rt>しります</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -106,7 +106,7 @@
         },
         {
             "id": 5,
-            "question_text": "<ruby>住みます<rt>すみます</rt></ruby> (sumimasu) có nghĩa là gì?",
+            "question_text": "<ruby>住みます<rt>すみます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -132,7 +132,7 @@
         },
         {
             "id": 6,
-            "question_text": "<ruby>弾きます<rt>ひきます</rt></ruby> (hikimasu) có nghĩa là gì?",
+            "question_text": "<ruby>弾きます<rt>ひきます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -184,7 +184,7 @@
         },
         {
             "id": 8,
-            "question_text": "<ruby>降ります<rt>おります</rt></ruby> (orimasu) có nghĩa là gì?",
+            "question_text": "<ruby>降ります<rt>おります</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -210,7 +210,7 @@
         },
         {
             "id": 9,
-            "question_text": "<ruby>話します<rt>はなします</rt></ruby> (hanashimasu) có nghĩa là gì?",
+            "question_text": "<ruby>話します<rt>はなします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -262,7 +262,7 @@
         },
         {
             "id": 11,
-            "question_text": "<ruby>立ちます<rt>たちます</rt></ruby> (tachimasu) có nghĩa là gì?",
+            "question_text": "<ruby>立ちます<rt>たちます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -288,7 +288,7 @@
         },
         {
             "id": 12,
-            "question_text": "<ruby>座ります<rt>すわります</rt></ruby> (suwarimasu) có nghĩa là gì?",
+            "question_text": "<ruby>座ります<rt>すわります</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -314,7 +314,7 @@
         },
         {
             "id": 13,
-            "question_text": "<ruby>探します<rt>さがします</rt></ruby> (sagashimasu) có nghĩa là gì?",
+            "question_text": "<ruby>探します<rt>さがします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -340,7 +340,7 @@
         },
         {
             "id": 14,
-            "question_text": "<ruby>呼びます<rt>よびます</rt></ruby> (yobimasu) có nghĩa là gì?",
+            "question_text": "<ruby>呼びます<rt>よびます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -366,7 +366,7 @@
         },
         {
             "id": 15,
-            "question_text": "<ruby>使います<rt>つかいます</rt></ruby> (tsukaimasu) có nghĩa là gì?",
+            "question_text": "<ruby>使います<rt>つかいます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -392,7 +392,7 @@
         },
         {
             "id": 16,
-            "question_text": "<ruby>独身<rt>どくしん</rt></ruby> (dokushin) có nghĩa là gì?",
+            "question_text": "<ruby>独身<rt>どくしん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -418,7 +418,7 @@
         },
         {
             "id": 17,
-            "question_text": "たばこ (tabako) có nghĩa là gì?",
+            "question_text": "たばこ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -444,7 +444,7 @@
         },
         {
             "id": 18,
-            "question_text": "ピアノ (piano) có nghĩa là gì?",
+            "question_text": "ピアノ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -470,7 +470,7 @@
         },
         {
             "id": 19,
-            "question_text": "ジョギング (jogingu) có nghĩa là gì?",
+            "question_text": "ジョギング có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -496,7 +496,7 @@
         },
         {
             "id": 20,
-            "question_text": "<ruby>住所<rt>じゅうしょ</rt></ruby> (juusho) có nghĩa là gì?",
+            "question_text": "<ruby>住所<rt>じゅうしょ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -522,7 +522,7 @@
         },
         {
             "id": 21,
-            "question_text": "クラブ (kurabu) có nghĩa là gì?",
+            "question_text": "クラブ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -548,7 +548,7 @@
         },
         {
             "id": 22,
-            "question_text": "<ruby>両親<rt>りょうしん</rt></ruby> (ryoushin) có nghĩa là gì?",
+            "question_text": "<ruby>両親<rt>りょうしん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -574,7 +574,7 @@
         },
         {
             "id": 23,
-            "question_text": "おにぎり (onigiri) có nghĩa là gì?",
+            "question_text": "おにぎり có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -600,7 +600,7 @@
         },
         {
             "id": 24,
-            "question_text": "<ruby>市役所<rt>しやくしょ</rt></ruby> (shiyakusho) có nghĩa là gì?",
+            "question_text": "<ruby>市役所<rt>しやくしょ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -652,7 +652,7 @@
         },
         {
             "id": 26,
-            "question_text": "<ruby>平日<rt>へいじつ</rt></ruby> (heijitsu) có nghĩa là gì?",
+            "question_text": "<ruby>平日<rt>へいじつ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -678,7 +678,7 @@
         },
         {
             "id": 27,
-            "question_text": "<ruby>他<rt>ほか</rt></ruby> (hoka) có nghĩa là gì?",
+            "question_text": "<ruby>他<rt>ほか</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

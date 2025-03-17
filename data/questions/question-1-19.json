@@ -210,7 +210,7 @@
         },
         {
             "id": 9,
-            "question_text": "<ruby>始めます<rt>はじめます</rt></ruby> (hajimemasu) có nghĩa là gì?",
+            "question_text": "<ruby>始めます<rt>はじめます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -236,7 +236,7 @@
         },
         {
             "id": 10,
-            "question_text": "なります (narimasu) có nghĩa là gì?",
+            "question_text": "なります có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -314,7 +314,7 @@
         },
         {
             "id": 13,
-            "question_text": "<ruby>将来<rt>しょうらい</rt></ruby> (shourai) có nghĩa là gì?",
+            "question_text": "<ruby>将来<rt>しょうらい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -340,7 +340,7 @@
         },
         {
             "id": 14,
-            "question_text": "<ruby>満点<rt>まんてん</rt></ruby> (manten) có nghĩa là gì?",
+            "question_text": "<ruby>満点<rt>まんてん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -366,7 +366,7 @@
         },
         {
             "id": 15,
-            "question_text": "<ruby>道<rt>みち</rt></ruby> (michi) có nghĩa là gì?",
+            "question_text": "<ruby>道<rt>みち</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -392,7 +392,7 @@
         },
         {
             "id": 16,
-            "question_text": "<ruby>紅葉<rt>こうよう</rt></ruby> (kouyou) có nghĩa là gì?",
+            "question_text": "<ruby>紅葉<rt>こうよう</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -418,7 +418,7 @@
         },
         {
             "id": 17,
-            "question_text": "<ruby>薬<rt>くすり</rt></ruby> (kusuri) có nghĩa là gì?",
+            "question_text": "<ruby>薬<rt>くすり</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -444,7 +444,7 @@
         },
         {
             "id": 18,
-            "question_text": "だんだん (dandan) có nghĩa là gì?",
+            "question_text": "だんだん có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -470,7 +470,7 @@
         },
         {
             "id": 19,
-            "question_text": "もうすぐ (mousugu) có nghĩa là gì?",
+            "question_text": "もうすぐ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -496,7 +496,7 @@
         },
         {
             "id": 20,
-            "question_text": "ずいぶん (zuibun) có nghĩa là gì?",
+            "question_text": "ずいぶん có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -548,7 +548,7 @@
         },
         {
             "id": 22,
-            "question_text": "<ruby>暖かい<rt>あたたかい</rt></ruby> (atatakai) có nghĩa là gì?",
+            "question_text": "<ruby>暖かい<rt>あたたかい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -574,7 +574,7 @@
         },
         {
             "id": 23,
-            "question_text": "<ruby>涼しい<rt>すずしい</rt></ruby> (suzushii) có nghĩa là gì?",
+            "question_text": "<ruby>涼しい<rt>すずしい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -600,7 +600,7 @@
         },
         {
             "id": 24,
-            "question_text": "<ruby>眠い<rt>ねむい</rt></ruby> (nemui) có nghĩa là gì?",
+            "question_text": "<ruby>眠い<rt>ねむい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -626,7 +626,7 @@
         },
         {
             "id": 25,
-            "question_text": "<ruby>痛い<rt>いたい</rt></ruby> (itai) có nghĩa là gì?",
+            "question_text": "<ruby>痛い<rt>いたい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -652,7 +652,7 @@
         },
         {
             "id": 26,
-            "question_text": "<ruby>自分<rt>じぶん</rt></ruby> (jibun) có nghĩa là gì?",
+            "question_text": "<ruby>自分<rt>じぶん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

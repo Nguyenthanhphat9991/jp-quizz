@@ -2,7 +2,7 @@
     "questions": [
         {
             "id": 1,
-            "question_text": "<ruby>兄<rt>あに</rt></ruby> (ani) có nghĩa là gì?",
+            "question_text": "<ruby>兄<rt>あに</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -28,7 +28,7 @@
         },
         {
             "id": 2,
-            "question_text": "<ruby>弟<rt>おとうと</rt></ruby> (otouto) có nghĩa là gì?",
+            "question_text": "<ruby>弟<rt>おとうと</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -54,7 +54,7 @@
         },
         {
             "id": 3,
-            "question_text": "<ruby>姉<rt>あね</rt></ruby> (ane) có nghĩa là gì?",
+            "question_text": "<ruby>姉<rt>あね</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -80,7 +80,7 @@
         },
         {
             "id": 4,
-            "question_text": "<ruby>妹<rt>いもうと</rt></ruby> (imouto) có nghĩa là gì?",
+            "question_text": "<ruby>妹<rt>いもうと</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -106,7 +106,7 @@
         },
         {
             "id": 5,
-            "question_text": "<ruby>兄弟<rt>きょうだい</rt></ruby> (kyoudai) có nghĩa là gì?",
+            "question_text": "<ruby>兄弟<rt>きょうだい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -132,7 +132,7 @@
         },
         {
             "id": 6,
-            "question_text": "<ruby>祖父<rt>そふ</rt></ruby> (sofu) có nghĩa là gì?",
+            "question_text": "<ruby>祖父<rt>そふ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -158,7 +158,7 @@
         },
         {
             "id": 7,
-            "question_text": "<ruby>祖母<rt>そぼ</rt></ruby> (sobo) có nghĩa là gì?",
+            "question_text": "<ruby>祖母<rt>そぼ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -184,7 +184,7 @@
         },
         {
             "id": 8,
-            "question_text": "<ruby>父<rt>ちち</rt></ruby> (chichi) có nghĩa là gì?",
+            "question_text": "<ruby>父<rt>ちち</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -210,7 +210,7 @@
         },
         {
             "id": 9,
-            "question_text": "<ruby>母<rt>はは</rt></ruby> (haha) có nghĩa là gì?",
+            "question_text": "<ruby>母<rt>はは</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -236,7 +236,7 @@
         },
         {
             "id": 10,
-            "question_text": "<ruby>子ども<rt>こども</rt></ruby> (kodomo) có nghĩa là gì?",
+            "question_text": "<ruby>子ども<rt>こども</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -262,7 +262,7 @@
         },
         {
             "id": 11,
-            "question_text": "<ruby>男の子<rt>おとこのこ</rt></ruby> (otokonoko) có nghĩa là gì?",
+            "question_text": "<ruby>男の子<rt>おとこのこ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -288,7 +288,7 @@
         },
         {
             "id": 12,
-            "question_text": "<ruby>女の子<rt>おんなのこ</rt></ruby> (onnanoko) có nghĩa là gì?",
+            "question_text": "<ruby>女の子<rt>おんなのこ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -366,7 +366,7 @@
         },
         {
             "id": 15,
-            "question_text": "<ruby>お客さん<rt>おきゃくさん</rt></ruby> (okyakusan) có nghĩa là gì?",
+            "question_text": "<ruby>お客さん<rt>おきゃくさん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -418,7 +418,7 @@
         },
         {
             "id": 17,
-            "question_text": "<ruby>店<rt>みせ</rt></ruby> (mise) có nghĩa là gì?",
+            "question_text": "<ruby>店<rt>みせ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -444,7 +444,7 @@
         },
         {
             "id": 18,
-            "question_text": "<ruby>店内<rt>てんない</rt></ruby> (tennai) có nghĩa là gì?",
+            "question_text": "<ruby>店内<rt>てんない</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -470,7 +470,7 @@
         },
         {
             "id": 19,
-            "question_text": "<ruby>花瓶<rt>かびん</rt></ruby> (kabin) có nghĩa là gì?",
+            "question_text": "<ruby>花瓶<rt>かびん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -496,7 +496,7 @@
         },
         {
             "id": 20,
-            "question_text": "<ruby>箪笥<rt>たんす</rt></ruby> (tansu) có nghĩa là gì?",
+            "question_text": "<ruby>箪笥<rt>たんす</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -522,7 +522,7 @@
         },
         {
             "id": 21,
-            "question_text": "<ruby>窓<rt>まど</rt></ruby> (mado) có nghĩa là gì?",
+            "question_text": "<ruby>窓<rt>まど</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -548,7 +548,7 @@
         },
         {
             "id": 22,
-            "question_text": "ドア (doa) có nghĩa là gì?",
+            "question_text": "ドア có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -574,7 +574,7 @@
         },
         {
             "id": 23,
-            "question_text": "<ruby>林檎<rt>りんご</rt></ruby> (ringo) có nghĩa là gì?",
+            "question_text": "<ruby>林檎<rt>りんご</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -600,7 +600,7 @@
         },
         {
             "id": 24,
-            "question_text": "コップ (koppu) có nghĩa là gì?",
+            "question_text": "コップ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -626,7 +626,7 @@
         },
         {
             "id": 25,
-            "question_text": "エアコン (eakon) có nghĩa là gì?",
+            "question_text": "エアコン có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -652,7 +652,7 @@
         },
         {
             "id": 26,
-            "question_text": "ひとつ (hitotsu) có nghĩa là gì?",
+            "question_text": "ひとつ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -678,7 +678,7 @@
         },
         {
             "id": 27,
-            "question_text": "ふたつ (futatsu) có nghĩa là gì?",
+            "question_text": "ふたつ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -704,7 +704,7 @@
         },
         {
             "id": 28,
-            "question_text": "みっつ (mittsu) có nghĩa là gì?",
+            "question_text": "みっつ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -730,7 +730,7 @@
         },
         {
             "id": 29,
-            "question_text": "よっつ (yottsu) có nghĩa là gì?",
+            "question_text": "よっつ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -756,7 +756,7 @@
         },
         {
             "id": 30,
-            "question_text": "いつつ (itsutsu) có nghĩa là gì?",
+            "question_text": "いつつ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -782,7 +782,7 @@
         },
         {
             "id": 31,
-            "question_text": "むっつ (muttsu) có nghĩa là gì?",
+            "question_text": "むっつ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -808,7 +808,7 @@
         },
         {
             "id": 32,
-            "question_text": "ななつ (nanatsu) có nghĩa là gì?",
+            "question_text": "ななつ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -834,7 +834,7 @@
         },
         {
             "id": 33,
-            "question_text": "やっつ (yattsu) có nghĩa là gì?",
+            "question_text": "やっつ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -860,7 +860,7 @@
         },
         {
             "id": 34,
-            "question_text": "ここのつ (kokonotsu) có nghĩa là gì?",
+            "question_text": "ここのつ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -886,7 +886,7 @@
         },
         {
             "id": 35,
-            "question_text": "とお (too) có nghĩa là gì?",
+            "question_text": "とお có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -912,7 +912,7 @@
         },
         {
             "id": 36,
-            "question_text": "いくつ (ikutsu) có nghĩa là gì?",
+            "question_text": "いくつ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -938,7 +938,7 @@
         },
         {
             "id": 37,
-            "question_text": "<ruby>一人<rt>ひとり</rt></ruby> (hitori) có nghĩa là gì?",
+            "question_text": "<ruby>一人<rt>ひとり</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -964,7 +964,7 @@
         },
         {
             "id": 38,
-            "question_text": "<ruby>二人<rt>ふたり</rt></ruby> (futari) có nghĩa là gì?",
+            "question_text": "<ruby>二人<rt>ふたり</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -990,7 +990,7 @@
         },
         {
             "id": 39,
-            "question_text": "<ruby>三人<rt>さんにん</rt></ruby> (sannin) có nghĩa là gì?",
+            "question_text": "<ruby>三人<rt>さんにん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -1016,7 +1016,7 @@
         },
         {
             "id": 40,
-            "question_text": "<ruby>四人<rt>よにん</rt></ruby> (yonin) có nghĩa là gì?",
+            "question_text": "<ruby>四人<rt>よにん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -1068,7 +1068,7 @@
         },
         {
             "id": 42,
-            "question_text": "<ruby>何人<rt>なんにん</rt></ruby> (nannin) có nghĩa là gì?",
+            "question_text": "<ruby>何人<rt>なんにん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
