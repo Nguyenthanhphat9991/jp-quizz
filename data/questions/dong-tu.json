@@ -2859,6 +2859,1150 @@
                     "is_correct": false
                 }
             ]
+        },
+        {
+            "id": 112,
+            "question_text": "<ruby>電源を<rt>てんげんを</rt></ruby><ruby>切ります<rt>きります</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Bật (nguồn điện)",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Ngắt, tắt (nguồn điện)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Kết nối (nguồn điện)",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Kiểm tra (nguồn điện)",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "question_text": "<ruby>見せます<rt>みせます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Giấu",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Cho xem",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Tìm kiếm",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Giữ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 114,
+            "question_text": "<ruby>載せます<rt>のせます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Lấy xuống",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Chất lên (xe)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Giao hàng",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Dỡ hàng",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "question_text": "<ruby>脱ぎます<rt>ぬぎます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mặc",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Cởi",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đội",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 116,
+            "question_text": "<ruby>残業します<rt>ざんぎょうします</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nghỉ việc",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Làm thêm giờ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đi làm muộn",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Nghỉ phép",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 117,
+            "question_text": "<ruby>出張します<rt>しゅっちょうします</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nghỉ việc",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đi công tác",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đi du lịch",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đi học",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 118,
+            "question_text": "<ruby>渡します<rt>わたします</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Giữ",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Trao, đưa",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nhận",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Mượn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 119,
+            "question_text": "<ruby>返します<rt>かえします</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mượn",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Trả lại",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Giữ",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Cho mượn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "question_text": "<ruby>シートベルトを<rt>シートベルトを</rt></ruby><ruby>締めます<rt>しめます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Tháo dây an toàn",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Thắt dây an toàn",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Kiểm tra dây an toàn",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Mua dây an toàn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 121,
+            "question_text": "<ruby>聞きます<rt>ききます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nói",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Hỏi",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Trả lời",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Thảo luận",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 122,
+            "question_text": "<ruby>着きます<rt>つきます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đến (nơi)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Rời đi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Quay lại",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "question_text": "<ruby>泊まります<rt>とまります</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Trú, ở",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Rời đi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Quay lại",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 124,
+            "question_text": "<ruby>歩きます<rt>あるきます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Chạy",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đi bộ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Leo",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Bơi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 125,
+            "question_text": "<ruby>眼鏡を<rt>めがねを</rt></ruby>かけます có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mặc quần áo",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đeo (mắt kính)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đội mũ",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Đi giày",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 126,
+            "question_text": "<ruby>見学します<rt>けんがくします</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Học tập",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Tham quan",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Làm việc",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Nghỉ ngơi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 127,
+            "question_text": "<ruby>修理します<rt>しゅうりします</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mua",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Sửa chữa",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Bán",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Thuê",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 128,
+            "question_text": "<ruby>売ります<rt>うります</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mua",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Bán",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Thuê",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Cho mượn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 129,
+            "question_text": "<ruby>思います<rt>おもいます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Nói",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nghĩ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nghe",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Nhìn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 130,
+            "question_text": "<ruby>気を付けます<rt>きをつけます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Quên",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Để ý, chú ý",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Làm mất",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Khóc",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 131,
+            "question_text": "<ruby>頼みます<rt>たのみます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Từ chối",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Nhờ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Mời",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Xin lỗi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 132,
+            "question_text": "<ruby>生まれます<rt>うまれます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Chết",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Được sinh ra",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Lớn lên",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Kết hôn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 133,
+            "question_text": "かぶります có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mặc (áo)",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Đội (nón, mũ)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đi (giày)",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Cởi (quần áo)",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 134,
+            "question_text": "はきます có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Mặc (áo)",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Mặc (quần, váy...)/Đi (tất, giày...)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Đội (nón, mũ)",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Cởi (quần áo)",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 135,
+            "question_text": "<ruby>下ろします<rt>おろします</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Gửi (tiền)",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Rút (tiền)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Vay (tiền)",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Tiết kiệm (tiền)",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 136,
+            "question_text": "<ruby>学びます<rt>まなびます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Dạy",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Học",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Ôn tập",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Kiểm tra",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 137,
+            "question_text": "<ruby>要ります<rt>いります</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Không cần",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Cần",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Muốn",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Thích",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 138,
+            "question_text": "<ruby>役に立ちます<rt>やくにたちます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Vô dụng",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Có ích",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Gây hại",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Khó khăn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 139,
+            "question_text": "<ruby>案内します<rt>あんないします</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Từ chối",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Hướng dẫn",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Mời",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Xin lỗi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 140,
+            "question_text": "<ruby>紹介します<rt>しょうかいします</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Chào hỏi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Giới thiệu",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Làm quen",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Gặp gỡ",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 141,
+            "question_text": "<ruby>風邪をひきます<rt>かぜをひきます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Bị đau bụng",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Bị cảm",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Bị đau đầu",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Bị sốt",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 142,
+            "question_text": "<ruby>直します<rt>なおします</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Hủy bỏ",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Sửa chữa",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Thay đổi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Làm mới",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 143,
+            "question_text": "<ruby>説明します<rt>せつめいします</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Hỏi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Thuyết minh, giải thích",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Trả lời",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Thảo luận",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 144,
+            "question_text": "<ruby>拾います<rt>ひろいます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Vứt bỏ",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Lượm, nhặt",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Tìm kiếm",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Giữ lại",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 145,
+            "question_text": "<ruby>困ります<rt>こまります</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Vui vẻ",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Bối rối, khó khăn",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Hạnh phúc",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Bình tĩnh",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 146,
+            "question_text": "くれます có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Cho (mình cho người khác)",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Tặng, cho (người khác cho mình)",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nhận",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Mượn",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 147,
+            "question_text": "<ruby>ドアが<rt>ドアが</rt></ruby><ruby>開きます<rt>あきます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "(Cửa) đóng",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "(Cửa) mở",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "(Cửa) khóa",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "(Cửa) hỏng",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 148,
+            "question_text": "<ruby>電気が<rt>でんきが</rt></ruby><ruby>点きます<rt>つきます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "(Đèn) tắt",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "(Đèn) sáng",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "(Đèn) hỏng",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "(Đèn) nhấp nháy",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 149,
+            "question_text": "<ruby>年を取ります<rt>としをとります</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Trẻ ra",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Già đi, lớn tuổi",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Khỏe mạnh",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Bệnh tật",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 150,
+            "question_text": "<ruby>回します<rt>まわします</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Dừng lại",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Vặn, xoay",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Ấn",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Kéo",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 151,
+            "question_text": "<ruby>太ります<rt>ふとります</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Gầy đi",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Béo",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Khỏe mạnh",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Yếu đi",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 152,
+            "question_text": "<ruby>痩せます<rt>やせます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Béo lên",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Gầy",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Khỏe mạnh",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Ốm yếu",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 153,
+            "question_text": "<ruby>戻ります<rt>もどります</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Đi tiếp",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Quay lại, trở lại",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Dừng lại",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Tiến lên",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 154,
+            "question_text": "<ruby>考えます<rt>かんがえます</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Quên",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "Suy nghĩ",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Nói",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Nghe",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "id": 155,
+            "question_text": "<ruby>安心します<rt>あんしんします</rt></ruby> có nghĩa là gì?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer_text": "Lo lắng",
+                    "is_correct": false
+                },
+                {
+                    "id": 2,
+                    "answer_text": "An tâm",
+                    "is_correct": true
+                },
+                {
+                    "id": 3,
+                    "answer_text": "Sợ hãi",
+                    "is_correct": false
+                },
+                {
+                    "id": 4,
+                    "answer_text": "Bất an",
+                    "is_correct": false
+                }
+            ]
         }
     ]
 }

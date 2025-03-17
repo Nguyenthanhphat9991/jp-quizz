@@ -24,6 +24,8 @@ if (categoryId == 1) {
         title = 'Ôn tập từ bài 21 - 25';
     } else if(lessonId == "26to28") {
         title = 'Ôn tập từ bài 26 - 28';
+    } else if(lessonId == "1to28") {
+        title = 'Ôn tập từ bài 1 - 28';
     } else {
         title = 'Bài ' + lessonId;
     }
