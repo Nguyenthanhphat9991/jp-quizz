@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", () => {
             // Duyệt danh sách lessons để hiển thị
             category.lessons.forEach(lesson => {
                 const lessonCol = document.createElement("div");
-                lessonCol.classList.add("col-md-3", "mb-4");
+                lessonCol.classList.add("col-md-2", "mb-4");
 
                 lessonCol.innerHTML = `
                     <div class="lesson-card">

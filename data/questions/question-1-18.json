@@ -54,7 +54,7 @@
         },
         {
             "id": 3,
-            "question_text": "<ruby>お風呂に入ります<rt>おふろにはいります</rt></ruby> (ofuro ni hairimasu) có nghĩa là gì?",
+            "question_text": "<ruby>お風呂に入ります<rt>おふろにはいります</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -106,7 +106,7 @@
         },
         {
             "id": 5,
-            "question_text": "<ruby>連れて行きます<rt>つれていきます</rt></ruby> (tsurete ikimasu) có nghĩa là gì?",
+            "question_text": "<ruby>連れて行きます<rt>つれていきます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -132,7 +132,7 @@
         },
         {
             "id": 6,
-            "question_text": "<ruby>連れて来ます<rt>つれてきます</rt></ruby> (tsurete kimasu) có nghĩa là gì?",
+            "question_text": "<ruby>連れて来ます<rt>つれてきます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -262,7 +262,7 @@
         },
         {
             "id": 11,
-            "question_text": "<ruby>水が出ます<rt>みずがでます</rt></ruby> ((mizu ga) demasu) có nghĩa là gì?",
+            "question_text": "<ruby>水が出ます<rt>みずがでます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -288,7 +288,7 @@
         },
         {
             "id": 12,
-            "question_text": "<ruby>予約します<rt>よやくします</rt></ruby> (yoyaku shimasu) có nghĩa là gì?",
+            "question_text": "<ruby>予約します<rt>よやくします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -340,7 +340,7 @@
         },
         {
             "id": 14,
-            "question_text": "<ruby>暗証番号<rt>あんしょうばんごう</rt></ruby> (anshou bangou) có nghĩa là gì?",
+            "question_text": "<ruby>暗証番号<rt>あんしょうばんごう</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -860,7 +860,7 @@
         },
         {
             "id": 34,
-            "question_text": "どうやって (dou yatte) có nghĩa là gì?",
+            "question_text": "どうやって có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -886,7 +886,7 @@
         },
         {
             "id": 35,
-            "question_text": "〜め (~me) có nghĩa là gì?",
+            "question_text": "〜め có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -912,7 +912,7 @@
         },
         {
             "id": 36,
-            "question_text": "〜に いきたいんですが (~ni ikitain desu ga) có nghĩa là gì?",
+            "question_text": "〜に いきたいんですが có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

@@ -80,7 +80,7 @@
         },
         {
             "id": 4,
-            "question_text": "<ruby>結婚します<rt>けっこんします</rt></ruby> (kekkon shimasu) có nghĩa là gì?",
+            "question_text": "<ruby>結婚します<rt>けっこんします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -132,7 +132,7 @@
         },
         {
             "id": 6,
-            "question_text": "<ruby>食事します<rt>しょくじします</rt></ruby> (shokuji shimasu) có nghĩa là gì?",
+            "question_text": "<ruby>食事します<rt>しょくじします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -496,7 +496,7 @@
         },
         {
             "id": 20,
-            "question_text": "<ruby>喉が渇きました<rt>のどがかわきました</rt></ruby> (nodo ga kawakimashita) có nghĩa là gì?",
+            "question_text": "<ruby>喉が渇きました<rt>のどがかわきました</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -522,7 +522,7 @@
         },
         {
             "id": 21,
-            "question_text": "<ruby>お腹が空きました<rt>おなかがすきました</rt></ruby> (onaka ga sukimashita) có nghĩa là gì?",
+            "question_text": "<ruby>お腹が空きました<rt>おなかがすきました</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -548,7 +548,7 @@
         },
         {
             "id": 22,
-            "question_text": "<ruby>お腹がいっぱいです<rt>おなかがいっぱいです</rt></ruby> (onaka ga ippai desu) có nghĩa là gì?",
+            "question_text": "<ruby>お腹がいっぱいです<rt>おなかがいっぱいです</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -600,7 +600,7 @@
         },
         {
             "id": 24,
-            "question_text": "<ruby>また今度ね<rt>またこんどね</rt></ruby> (mata kondo ne) có nghĩa là gì?",
+            "question_text": "<ruby>また今度ね<rt>またこんどね</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

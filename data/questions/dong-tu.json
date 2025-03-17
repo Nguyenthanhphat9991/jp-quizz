@@ -1016,7 +1016,7 @@
         },
         {
             "id": 40,
-            "question_text": "<ruby>結婚します<rt>けっこんします</rt></ruby> (kekkon shimasu) có nghĩa là gì?",
+            "question_text": "<ruby>結婚します<rt>けっこんします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -1068,7 +1068,7 @@
         },
         {
             "id": 42,
-            "question_text": "<ruby>食事します<rt>しょくじします</rt></ruby> (shokuji shimasu) có nghĩa là gì?",
+            "question_text": "<ruby>食事します<rt>しょくじします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -1301,32 +1301,6 @@
             ]
         },
         {
-            "id": 51,
-            "question_text": "<ruby>降ります<rt>おります</rt></ruby> có nghĩa là gì?",
-            "answers": [
-                {
-                    "id": 1,
-                    "answer_text": "(Mưa) rơi",
-                    "is_correct": false
-                },
-                {
-                    "id": 2,
-                    "answer_text": "Xuống (xe)",
-                    "is_correct": true
-                },
-                {
-                    "id": 3,
-                    "answer_text": "Nói chuyện",
-                    "is_correct": false
-                },
-                {
-                    "id": 4,
-                    "answer_text": "Copy, phô tô",
-                    "is_correct": false
-                }
-            ]
-        },
-        {
             "id": 52,
             "question_text": "<ruby>話します<rt>はなします</rt></ruby> có nghĩa là gì?",
             "answers": [
@@ -1354,7 +1328,7 @@
         },
         {
             "id": 53,
-            "question_text": "<ruby>コピーします<rt>コピーします</rt></ruby> (kopii shimasu) có nghĩa là gì?",
+            "question_text": "<ruby>コピーします<rt>コピーします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -1614,7 +1588,7 @@
         },
         {
             "id": 63,
-            "question_text": "<ruby>運転します<rt>うんてんします</rt></ruby> (unten shimasu) có nghĩa là gì?",
+            "question_text": "<ruby>運転します<rt>うんてんします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -2004,7 +1978,7 @@
         },
         {
             "id": 78,
-            "question_text": "<ruby>お風呂に入ります<rt>おふろにはいります</rt></ruby> (ofuro ni hairimasu) có nghĩa là gì?",
+            "question_text": "<ruby>お風呂に入ります<rt>おふろにはいります</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -2056,7 +2030,7 @@
         },
         {
             "id": 80,
-            "question_text": "<ruby>連れて行きます<rt>つれていきます</rt></ruby> (tsurete ikimasu) có nghĩa là gì?",
+            "question_text": "<ruby>連れて行きます<rt>つれていきます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -2082,7 +2056,7 @@
         },
         {
             "id": 81,
-            "question_text": "<ruby>連れて来ます<rt>つれてきます</rt></ruby> (tsurete kimasu) có nghĩa là gì?",
+            "question_text": "<ruby>連れて来ます<rt>つれてきます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -2238,7 +2212,7 @@
         },
         {
             "id": 87,
-            "question_text": "<ruby>予約します<rt>よやくします</rt></ruby> (yoyaku shimasu) có nghĩa là gì?",
+            "question_text": "<ruby>予約します<rt>よやくします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -2342,7 +2316,7 @@
         },
         {
             "id": 91,
-            "question_text": "<ruby>準備します<rt>じゅんびします</rt></ruby> (junbi shimasu) có nghĩa là gì?",
+            "question_text": "<ruby>準備します<rt>じゅんびします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -2368,7 +2342,7 @@
         },
         {
             "id": 92,
-            "question_text": "<ruby>練習します<rt>れんしゅうします</rt></ruby> (renshuu shimasu) có nghĩa là gì?",
+            "question_text": "<ruby>練習します<rt>れんしゅうします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -2394,7 +2368,7 @@
         },
         {
             "id": 93,
-            "question_text": "<ruby>卒業します<rt>そつぎょうします</rt></ruby> (sotsugyou shimasu) có nghĩa là gì?",
+            "question_text": "<ruby>卒業します<rt>そつぎょうします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -2420,7 +2394,7 @@
         },
         {
             "id": 94,
-            "question_text": "<ruby>運動します<rt>うんどうします</rt></ruby> (undou shimasu) có nghĩa là gì?",
+            "question_text": "<ruby>運動します<rt>うんどうします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -2446,7 +2420,7 @@
         },
         {
             "id": 95,
-            "question_text": "<ruby>持って来ます<rt>もってきます</rt></ruby> (motte kimasu) có nghĩa là gì?",
+            "question_text": "<ruby>持って来ます<rt>もってきます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -2472,7 +2446,7 @@
         },
         {
             "id": 96,
-            "question_text": "<ruby>持って行きます<rt>もっていきます</rt></ruby> (motte ikimasu) có nghĩa là gì?",
+            "question_text": "<ruby>持って行きます<rt>もっていきます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -2628,7 +2602,7 @@
         },
         {
             "id": 102,
-            "question_text": "<ruby>参加します<rt>さんかします</rt></ruby> (sanka shimasu) có nghĩa là gì?",
+            "question_text": "<ruby>参加します<rt>さんかします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -2680,7 +2654,7 @@
         },
         {
             "id": 104,
-            "question_text": "<ruby>電話します<rt>でんわします</rt></ruby> (denwa shimasu) có nghĩa là gì?",
+            "question_text": "<ruby>電話します<rt>でんわします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -2758,7 +2732,7 @@
         },
         {
             "id": 107,
-            "question_text": "<ruby>心配します<rt>しんぱいします</rt></ruby> (shinpai shimasu) có nghĩa là gì?",
+            "question_text": "<ruby>心配します<rt>しんぱいします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

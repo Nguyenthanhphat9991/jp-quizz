@@ -106,7 +106,7 @@
         },
         {
             "id": 5,
-            "question_text": "<ruby>電話<rt>でんわ</rt></ruby>をかけます (denwa o kakemasu) có nghĩa là gì?",
+            "question_text": "<ruby>電話<rt>でんわ</rt></ruby>をかけます có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -626,7 +626,7 @@
         },
         {
             "id": 25,
-            "question_text": "バレンタインデー (barentain dee) có nghĩa là gì?",
+            "question_text": "バレンタインデー có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -652,7 +652,7 @@
         },
         {
             "id": 26,
-            "question_text": "ゲームをしましょう (geemu o shimashou) có nghĩa là gì?",
+            "question_text": "ゲームをしましょう có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -678,7 +678,7 @@
         },
         {
             "id": 27,
-            "question_text": "そうしましょう (sou shimashou) có nghĩa là gì?",
+            "question_text": "そうしましょう có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

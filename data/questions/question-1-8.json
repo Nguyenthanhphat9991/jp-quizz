@@ -314,7 +314,7 @@
         },
         {
             "id": 13,
-            "question_text": "<ruby>男の人<rt>おとこのひと</rt></ruby> (otoko no hito) có nghĩa là gì?",
+            "question_text": "<ruby>男の人<rt>おとこのひと</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -340,7 +340,7 @@
         },
         {
             "id": 14,
-            "question_text": "<ruby>女の人<rt>おんなのひと</rt></ruby> (onna no hito) có nghĩa là gì?",
+            "question_text": "<ruby>女の人<rt>おんなのひと</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -392,7 +392,7 @@
         },
         {
             "id": 16,
-            "question_text": "<ruby>店員<rt>てんいん</rt></ruby> (ten'in) có nghĩa là gì?",
+            "question_text": "<ruby>店員<rt>てんいん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -1042,7 +1042,7 @@
         },
         {
             "id": 41,
-            "question_text": "~<ruby>人<rt>にん</rt></ruby> (~nin) có nghĩa là gì?",
+            "question_text": "~<ruby>人<rt>にん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -1094,7 +1094,7 @@
         },
         {
             "id": 43,
-            "question_text": "すごいひとですね (sugoi hito desu ne) có nghĩa là gì?",
+            "question_text": "すごいひとですね có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -1120,7 +1120,7 @@
         },
         {
             "id": 44,
-            "question_text": "じゃ... (ja...) có nghĩa là gì?",
+            "question_text": "じゃ... có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -1146,7 +1146,7 @@
         },
         {
             "id": 45,
-            "question_text": "いいですね (ii desu ne) có nghĩa là gì?",
+            "question_text": "いいですね có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

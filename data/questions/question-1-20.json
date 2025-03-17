@@ -2,7 +2,7 @@
     "questions": [
         {
             "id": 1,
-            "question_text": "<ruby>切手を集めます<rt>きってをあつめます</rt></ruby> ((kitte o) atsumemasu) có nghĩa là gì?",
+            "question_text": "<ruby>切手を集めます<rt>きってをあつめます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -28,7 +28,7 @@
         },
         {
             "id": 2,
-            "question_text": "<ruby>歌を歌います<rt>うたをうたいます</rt></ruby> ((uta o) utaimasu) có nghĩa là gì?",
+            "question_text": "<ruby>歌を歌います<rt>うたをうたいます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -54,7 +54,7 @@
         },
         {
             "id": 3,
-            "question_text": "<ruby>折り紙を折ります<rt>おりがみをおります</rt></ruby> ((origami o) orimasu) có nghĩa là gì?",
+            "question_text": "<ruby>折り紙を折ります<rt>おりがみをおります</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -80,7 +80,7 @@
         },
         {
             "id": 4,
-            "question_text": "参加します (sanka shimasu) có nghĩa là gì?",
+            "question_text": "参加します có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -106,7 +106,7 @@
         },
         {
             "id": 5,
-            "question_text": "<ruby>インターネットで調べます<rt>インターネットでしらべます</rt></ruby> ((intaanetto de) shirabemasu) có nghĩa là gì?",
+            "question_text": "<ruby>インターネットで調べます<rt>インターネットでしらべます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -132,7 +132,7 @@
         },
         {
             "id": 6,
-            "question_text": "電話します (denwa shimasu) có nghĩa là gì?",
+            "question_text": "電話します có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -626,7 +626,7 @@
         },
         {
             "id": 25,
-            "question_text": "もちろんです (mochiron desu) có nghĩa là gì?",
+            "question_text": "もちろんです có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -678,7 +678,7 @@
         },
         {
             "id": 27,
-            "question_text": "よければ、~ (yokereba, ~) có nghĩa là gì?",
+            "question_text": "よければ、~ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

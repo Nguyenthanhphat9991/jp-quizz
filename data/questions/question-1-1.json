@@ -132,7 +132,7 @@
         },
         {
             "id": 6,
-            "question_text": "~さん (~san) là gì?",
+            "question_text": "~さん là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -756,7 +756,7 @@
         },
         {
             "id": 30,
-            "question_text": "~からきました (~kara kimashita) có nghĩa là gì?",
+            "question_text": "~からきました có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -782,7 +782,7 @@
         },
         {
             "id": 31,
-            "question_text": "(どうぞ) よろしくおねがいします ((douzo) yoroshiku onegaishimasu) có nghĩa là gì?",
+            "question_text": "(どうぞ) よろしくおねがいします có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -808,7 +808,7 @@
         },
         {
             "id": 32,
-            "question_text": "しつれいですが、･･･ (shitsurei desu ga,...) có nghĩa là gì?",
+            "question_text": "しつれいですが có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -834,7 +834,7 @@
         },
         {
             "id": 33,
-            "question_text": "おなまえは (onamae wa) có nghĩa là gì?",
+            "question_text": "おなまえは có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -860,7 +860,7 @@
         },
         {
             "id": 34,
-            "question_text": "おしごとは (oshigoto wa) có nghĩa là gì?",
+            "question_text": "おしごとは có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -886,7 +886,7 @@
         },
         {
             "id": 35,
-            "question_text": "はい、そうです (hai, sou desu) có nghĩa là gì?",
+            "question_text": "はい、そうです có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -912,7 +912,7 @@
         },
         {
             "id": 36,
-            "question_text": "いいえ、ちがいます (iie, chigaimasu) có nghĩa là gì?",
+            "question_text": "いいえ、ちがいます có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

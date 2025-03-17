@@ -340,7 +340,7 @@
         },
         {
             "id": 14,
-            "question_text": "<ruby>花火大会<rt>はなびたいかい</rt></ruby> (hanabi taikai) có nghĩa là gì?",
+            "question_text": "<ruby>花火大会<rt>はなびたいかい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -548,7 +548,7 @@
         },
         {
             "id": 22,
-            "question_text": "<ruby>旅行します<rt>りょこうします</rt></ruby> (ryokou shimasu) có nghĩa là gì?",
+            "question_text": "<ruby>旅行します<rt>りょこうします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -652,7 +652,7 @@
         },
         {
             "id": 26,
-            "question_text": "いっしょに (issho ni) có nghĩa là gì?",
+            "question_text": "いっしょに có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -678,7 +678,7 @@
         },
         {
             "id": 27,
-            "question_text": "(place)で(event)があります ((place) de ga arimasu) có nghĩa là gì?",
+            "question_text": "(place)で(event)があります có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -704,7 +704,7 @@
         },
         {
             "id": 28,
-            "question_text": "<ruby>見に行きます<rt>みにいきます</rt></ruby> (mi ni ikimasu) có nghĩa là gì?",
+            "question_text": "<ruby>見に行きます<rt>みにいきます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -730,7 +730,7 @@
         },
         {
             "id": 29,
-            "question_text": "<ruby>また今度<rt>またこんど</rt></ruby> (mata kondo) có nghĩa là gì?",
+            "question_text": "<ruby>また今度<rt>またこんど</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -782,7 +782,7 @@
         },
         {
             "id": 31,
-            "question_text": "ちょっと... (chotto...) có nghĩa là gì?",
+            "question_text": "ちょっと... có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -834,7 +834,7 @@
         },
         {
             "id": 33,
-            "question_text": "<ruby>多分大丈夫です<rt>たぶんだいじょうぶです</rt></ruby> (tabun daijoubu desu) có nghĩa là gì?",
+            "question_text": "<ruby>多分大丈夫です<rt>たぶんだいじょうぶです</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

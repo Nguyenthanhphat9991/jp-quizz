@@ -157,32 +157,6 @@
             ]
         },
         {
-            "id": 7,
-            "question_text": "<ruby>降ります<rt>ふります</rt></ruby>/<ruby>雨が降ります<rt>あめがふります</rt></ruby> (furimasu)/(ame ga furimasu) có nghĩa là gì?",
-            "answers": [
-                {
-                    "id": 1,
-                    "answer_text": "Đánh (đàn)",
-                    "is_correct": false
-                },
-                {
-                    "id": 2,
-                    "answer_text": "(Mưa) rơi",
-                    "is_correct": true
-                },
-                {
-                    "id": 3,
-                    "answer_text": "Nói chuyện",
-                    "is_correct": false
-                },
-                {
-                    "id": 4,
-                    "answer_text": "Copy, phô tô",
-                    "is_correct": false
-                }
-            ]
-        },
-        {
             "id": 8,
             "question_text": "<ruby>降ります<rt>おります</rt></ruby> có nghĩa là gì?",
             "answers": [
@@ -236,7 +210,7 @@
         },
         {
             "id": 10,
-            "question_text": "コピーします (kopii shimasu) có nghĩa là gì?",
+            "question_text": "コピーします có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -626,7 +600,7 @@
         }, 
         {
             "id": 25,
-            "question_text": "<ruby>電話番号<rt>でんわばんごう</rt></ruby> (denwa bangou) có nghĩa là gì?",
+            "question_text": "<ruby>電話番号<rt>でんわばんごう</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -704,7 +678,7 @@
         },
         {
             "id": 28,
-            "question_text": "<ruby>大丈夫ですか<rt>だいじょうぶですか</rt></ruby> (daijoubu desu ka) có nghĩa là gì?",
+            "question_text": "<ruby>大丈夫ですか<rt>だいじょうぶですか</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

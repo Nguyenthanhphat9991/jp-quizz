@@ -184,7 +184,7 @@
         },
         {
             "id": 8,
-            "question_text": "<ruby>甘い物<rt>あまいもの</rt></ruby> (amai mono) có nghĩa là gì?",
+            "question_text": "<ruby>甘い物<rt>あまいもの</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -574,7 +574,7 @@
         },
         {
             "id": 23,
-            "question_text": "<ruby>~方<rt>~かた</rt></ruby> (~kata)/(よみかた (yomikata), つくりかた (tsukurikata)) có nghĩa là gì?",
+            "question_text": "<ruby>~方<rt>~かた</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -678,7 +678,7 @@
         },
         {
             "id": 27,
-            "question_text": "<ruby>全然<rt>ぜんぜん</rt></ruby> (~ない) (zenzen (~nai)) có nghĩa là gì?",
+            "question_text": "<ruby>全然<rt>ぜんぜん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -808,7 +808,7 @@
         },
         {
             "id": 32,
-            "question_text": "~から (~kara) có nghĩa là gì?",
+            "question_text": "~から có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -860,7 +860,7 @@
         },
         {
             "id": 34,
-            "question_text": "えっと〜 (etto~) có nghĩa là gì?",
+            "question_text": "えっと〜 có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -912,7 +912,7 @@
         },
         {
             "id": 36,
-            "question_text": "<ruby>お待たせしました<rt>おまたせしました</rt></ruby> (omatase shimashita) có nghĩa là gì?",
+            "question_text": "<ruby>お待たせしました<rt>おまたせしました</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -938,7 +938,7 @@
         },
         {
             "id": 37,
-            "question_text": "それはよかったです (sore wa yokatta desu) có nghĩa là gì?",
+            "question_text": "それはよかったです có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

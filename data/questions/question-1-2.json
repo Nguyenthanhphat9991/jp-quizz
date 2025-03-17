@@ -886,7 +886,7 @@
         },
         {
             "id": 35,
-            "question_text": "つまらないものですが、~ (tsumaranai mono desu ga,~) có nghĩa là gì?",
+            "question_text": "つまらないものですが、~ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -912,7 +912,7 @@
         },
         {
             "id": 36,
-            "question_text": "これから〜 (kore kara~) có nghĩa là gì?",
+            "question_text": "これから〜 có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -938,7 +938,7 @@
         },
         {
             "id": 37,
-            "question_text": "おせわになります (osewa ni narimasu) có nghĩa là gì?",
+            "question_text": "おせわになります có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -990,7 +990,7 @@
         },
         {
             "id": 39,
-            "question_text": "(どうも) ありがとうございます ((doumo) arigatou gozaimasu) có nghĩa là gì?",
+            "question_text": "(どうも) ありがとうございます có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -1016,7 +1016,7 @@
         },
         {
             "id": 40,
-            "question_text": "こちら〜 (kochira~) có nghĩa là gì?",
+            "question_text": "こちら〜 có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -1042,7 +1042,7 @@
         },
         {
             "id": 41,
-            "question_text": "あのー (ano-) có nghĩa là gì?",
+            "question_text": "あのー có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -1094,7 +1094,7 @@
         },
         {
             "id": 43,
-            "question_text": "ケータイ・<ruby>電話<rt>でんわ</rt></ruby> (keitai denwa) có nghĩa là gì?",
+            "question_text": "ケータイ・<ruby>電話<rt>でんわ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
