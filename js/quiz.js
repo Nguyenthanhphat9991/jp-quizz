@@ -109,8 +109,11 @@ fetch(dataFile)
                 'wrongQuestions': wrongQuestions
             }));
             localStorage.setItem("lessonId", JSON.stringify(lessonId));
-
-            window.location.href = `details.html?courseId=${courseId}&lessonId=${lessonId}`;
+            if (categoryId === "1") {
+                window.location.href = `details.html?courseId=${courseId}&categoryId=${categoryId}&lessonId=${lessonId}`;
+            } else {
+                window.location.href = `details.html?courseId=${courseId}&categoryId=${categoryId}`;
+            }
         }
 
         loadQuestion();

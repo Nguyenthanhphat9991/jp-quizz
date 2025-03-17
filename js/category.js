@@ -4,12 +4,12 @@ document.addEventListener("DOMContentLoaded", () => {
     const categoryId = urlParams.get("categoryId"); // Nên đồng nhất: categoryId
 
     if (categoryId == 2) {
-        window.location.href = `quiz.html?categoryId=${categoryId}`;
+        window.location.href = `quiz.html?courseId=${courseId}&categoryId=${categoryId}`;
         return;
     }
 
     if (categoryId == 3) {
-        window.location.href = `quiz.html?categoryId=${categoryId}`;
+        window.location.href = `quiz.html?courseId=${courseId}&categoryId=${categoryId}`;
         return;
     }
 
@@ -36,13 +36,13 @@ document.addEventListener("DOMContentLoaded", () => {
             // Cập nhật breadcrumb
             breadcrumb.innerHTML = `
                 <i class="fa fa-book"></i> <a href="./index.html">Khóa học</a> <span>/</span> 
-                <a href="category.html?courseId=${courseId}">${course.title}</a> <span>/</span> 
+                <a href="/courses.html?courseId=${courseId}">${course.title}</a> <span>/</span> 
                 <a href="#">${category.title}</a>
             `;
 
             // Kiểm tra lessons có tồn tại không
             if (!category.lessons || category.lessons.length === 0) {
-                categoryContainer.innerHTML = `<p style="color: red;">Không có bài học nào!</p>`;
+                categoryContainer.innerHTML = `<p style="color: red;">Chưa cập nhật</p>`;
                 return;
             }
 
