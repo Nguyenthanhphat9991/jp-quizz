@@ -2,7 +2,7 @@
     "questions": [
         {
             "id": 1,
-            "question_text": "<ruby>上げます<rt>あげます</rt></ruby> (agemasu) có nghĩa là gì?",
+            "question_text": "<ruby>上げます<rt>あげます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -28,7 +28,7 @@
         },
         {
             "id": 2,
-            "question_text": "<ruby>貰います<rt>もらいます</rt></ruby> (moraimasu) có nghĩa là gì?",
+            "question_text": "<ruby>貰います<rt>もらいます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -54,7 +54,7 @@
         },
         {
             "id": 3,
-            "question_text": "<ruby>教えます<rt>おしえます</rt></ruby> (oshiemasu) có nghĩa là gì?",
+            "question_text": "<ruby>教えます<rt>おしえます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -80,7 +80,7 @@
         },
         {
             "id": 4,
-            "question_text": "<ruby>習います<rt>ならいます</rt></ruby> (naraimasu) có nghĩa là gì?",
+            "question_text": "<ruby>習います<rt>ならいます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -106,7 +106,7 @@
         },
         {
             "id": 5,
-            "question_text": "<ruby>電話<rt>でんわ</rt></ruby>をかけます (denwa o kakemasu) có nghĩa là gì?",
+            "question_text": "<ruby>電話<rt>でんわ</rt></ruby>をかけます có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -132,7 +132,7 @@
         },
         {
             "id": 6,
-            "question_text": "<ruby>送ります<rt>おくります</rt></ruby> (okurimasu) có nghĩa là gì?",
+            "question_text": "<ruby>送ります<rt>おくります</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -158,7 +158,7 @@
         },
         {
             "id": 7,
-            "question_text": "<ruby>貸します<rt>かします</rt></ruby> (kashimasu) có nghĩa là gì?",
+            "question_text": "<ruby>貸します<rt>かします</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -184,7 +184,7 @@
         },
         {
             "id": 8,
-            "question_text": "<ruby>借ります<rt>かります</rt></ruby> (karimasu) có nghĩa là gì?",
+            "question_text": "<ruby>借ります<rt>かります</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -210,7 +210,7 @@
         },
         {
             "id": 9,
-            "question_text": "<ruby>お菓子<rt>おかし</rt></ruby> (okashi) có nghĩa là gì?",
+            "question_text": "<ruby>お菓子<rt>おかし</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -236,7 +236,7 @@
         },
         {
             "id": 10,
-            "question_text": "<ruby>お年玉<rt>おとしだま</rt></ruby> (otoshidama) có nghĩa là gì?",
+            "question_text": "<ruby>お年玉<rt>おとしだま</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -262,7 +262,7 @@
         },
         {
             "id": 11,
-            "question_text": "<ruby>お土産<rt>おみやげ</rt></ruby> (omiyage) có nghĩa là gì?",
+            "question_text": "<ruby>お土産<rt>おみやげ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -288,7 +288,7 @@
         },
         {
             "id": 12,
-            "question_text": "<ruby>手紙<rt>てがみ</rt></ruby> (tegami) có nghĩa là gì?",
+            "question_text": "<ruby>手紙<rt>てがみ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -314,7 +314,7 @@
         },
         {
             "id": 13,
-            "question_text": "ボール (booru) có nghĩa là gì?",
+            "question_text": "ボール có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -340,7 +340,7 @@
         },
         {
             "id": 14,
-            "question_text": "<ruby>花<rt>はな</rt></ruby> (hana) có nghĩa là gì?",
+            "question_text": "<ruby>花<rt>はな</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -366,7 +366,7 @@
         },
         {
             "id": 15,
-            "question_text": "<ruby>帽子<rt>ぼうし</rt></ruby> (boushi) có nghĩa là gì?",
+            "question_text": "<ruby>帽子<rt>ぼうし</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -392,7 +392,7 @@
         },
         {
             "id": 16,
-            "question_text": "<ruby>料理<rt>りょうり</rt></ruby> (ryouri) có nghĩa là gì?",
+            "question_text": "<ruby>料理<rt>りょうり</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -418,7 +418,7 @@
         },
         {
             "id": 17,
-            "question_text": "カメラ (kamera) có nghĩa là gì?",
+            "question_text": "カメラ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -444,7 +444,7 @@
         },
         {
             "id": 18,
-            "question_text": "ネックレス (nekkuresu) có nghĩa là gì?",
+            "question_text": "ネックレス có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -470,7 +470,7 @@
         },
         {
             "id": 19,
-            "question_text": "プレゼント (purezento) có nghĩa là gì?",
+            "question_text": "プレゼント có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -496,7 +496,7 @@
         },
         {
             "id": 20,
-            "question_text": "<ruby>祝い<rt>いわい</rt></ruby> (iwai) có nghĩa là gì?",
+            "question_text": "<ruby>祝い<rt>いわい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -522,7 +522,7 @@
         },
         {
             "id": 21,
-            "question_text": "<ruby>お見舞い<rt>おみまい</rt></ruby> (omimai) có nghĩa là gì?",
+            "question_text": "<ruby>お見舞い<rt>おみまい</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -548,7 +548,7 @@
         },
         {
             "id": 22,
-            "question_text": "<ruby>お正月<rt>おしょうがつ</rt></ruby> (oshougatsu) có nghĩa là gì?",
+            "question_text": "<ruby>お正月<rt>おしょうがつ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -574,7 +574,7 @@
         },
         {
             "id": 23,
-            "question_text": "<ruby>結婚式<rt>けっこんしき</rt></ruby> (kekkonshiki) có nghĩa là gì?",
+            "question_text": "<ruby>結婚式<rt>けっこんしき</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -600,7 +600,7 @@
         },
         {
             "id": 24,
-            "question_text": "クリスマス (kurisumasu) có nghĩa là gì?",
+            "question_text": "クリスマス có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -626,7 +626,7 @@
         },
         {
             "id": 25,
-            "question_text": "バレンタインデー (barentain dee) có nghĩa là gì?",
+            "question_text": "バレンタインデー có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -652,7 +652,7 @@
         },
         {
             "id": 26,
-            "question_text": "ゲームをしましょう (geemu o shimashou) có nghĩa là gì?",
+            "question_text": "ゲームをしましょう có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -678,7 +678,7 @@
         },
         {
             "id": 27,
-            "question_text": "そうしましょう (sou shimashou) có nghĩa là gì?",
+            "question_text": "そうしましょう có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
@@ -704,7 +704,7 @@
         },
         {
             "id": 28,
-            "question_text": "<ruby>電話<rt>でんわ</rt></ruby> (denwa) có nghĩa là gì?",
+            "question_text": "<ruby>電話<rt>でんわ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,

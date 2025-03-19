@@ -109,5 +109,47 @@
 Động từ,なくします (nakushimasu),無くします (nakushimasu),Làm mất
 Động từ,さわぎます (sawagimasu),騒ぎます (sawagimasu),Làm ồn
 Động từ,わすれます (wasuremasu),忘れます (wasuremasu),Quên
-
-22 - trở về sau chưa add vào
+Động từ,てんげんをきります (tengen o kirimasu),電源を切ります (tengen o kirimasu),Ngắt, tắt (nguồn điện)
+Động từ,みせます (misemasu),見せます (misemasu),Cho xem
+Động từ,のせます (nosemasu),載せます (nosemasu),Chất lên (xe)
+Động từ,ぬぎます (nugimasu),脱ぎます (nugimasu),Cởi
+Động từ,ざんぎょうします (zangyou shimasu),残業します (zangyou shimasu),Làm thêm giờ
+Động từ,しゅっちょうします (shucchou shimasu),出張します (shucchou shimasu),Đi công tác
+Động từ,わたします (watashimasu),渡します (watashimasu),Trao, đưa
+Động từ,かえします (kaeshimasu),返します (kaeshimasu),Trả lại
+Động từ,(シートベルトを)しめます ((shiito beruto o) shimemasu),(シートベルトを)締めます ((shiito beruto o) shimemasu),Thắt dây an toàn
+Động từ,ききます (kikimasu),聞きます (kikimasu),Hỏi
+Động từ,つきます (tsukimasu),着きます (tsukimasu),Đến (nơi)
+Động từ,とまります (tomarimasu),泊まります (tomarimasu),Trú, ở
+Động từ,あるきます (arukimasu),歩きます (arukimasu),Đi bộ
+Động từ,(めがねを)かけます ((megane o) kakemasu),(眼鏡を)かけます ((megane o) kakemasu),Đeo (mắt kính)
+Động từ,けんがくします (kengaku shimasu),見学します (kengaku shimasu),Tham quan
+Động từ,しゅうりします (shuuri shimasu),修理します (shuuri shimasu),Sửa chữa
+Động từ,うります (urimasu),売ります (urimasu),Bán
+Động từ,おもいます (omoimasu),思います (omoimasu),Nghĩ
+Động từ,きをつけます (ki o tsukemasu),気を付けます (ki o tsukemasu),Để ý, chú ý
+Động từ,たのみます (tanomimasu),頼みます (tanomimasu),Nhờ
+Động từ,うまれます (umaremasu),生まれます (umaremasu),Được sinh ra
+Động từ,かぶります (kaburimasu),,Đội (nón, mũ)
+Động từ,はきます (hakimasu),,Mặc (quần, váy...)/Đi (tất, giày...)
+Động từ,おろします (oroshimasu),下ろします (oroshimasu),Rút (tiền)
+Động từ,まなびます (manabimasu),学びます (manabimasu),Học
+Động từ,いります (irimasu),要ります (irimasu),Cần
+Động từ,やくにたちます (yaku ni tachimasu),役に立ちます (yaku ni tachimasu),Có ích
+Động từ,あんないします (annai shimasu),案内します (annai shimasu),Hướng dẫn
+Động từ,しょうかいします (shoukai shimasu),紹介します (shoukai shimasu),Giới thiệu
+Động từ,かぜをひきます (kaze o hikimasu),風邪をひきます (kaze o hikimasu),Bị cảm
+Động từ,なおします (naoshimasu),直します (naoshimasu),Sửa chữa
+Động từ,せつめいします (setsumei shimasu),説明します (setsumei shimasu),Thuyết minh, giải thích
+Động từ,ひろいます (hiroimasu),拾います (hiroimasu),Lượm, nhặt
+Động từ,こまります (komarimasu),困ります (komarimasu),Bối rối, khó khăn
+Động từ,くれます (kuremasu),,Tặng, cho (người khác cho mình)
+Động từ,(ドアが)あきます ((doa ga) akimasu),(ドアが)開きます ((doa ga) akimasu),(Cửa) mở
+Động từ,(でんきが)つきます ((denki ga) tsukimasu),(電気が)点きます ((denki ga) tsukimasu),(Đèn) sáng
+Động từ,としをとります (toshi o torimasu),年を取ります (toshi o torimasu),Già đi, lớn tuổi
+Động từ,まわします (mawashimasu),回します (mawashimasu),Vặn, xoay
+Động từ,ふとります (futorimasu),太ります (futorimasu),Béo
+Động từ,やせます (yasemasu),痩せます (yasemasu),Gầy
+Động từ,もどります (modorimasu),戻ります (modorimasu),Quay lại, trở lại
+Động từ,かんがえます (kangaemasu),考えます (kangaemasu),Suy nghĩ
+Động từ,あんしんします (anshin shimasu),安心します (anshin shimasu),An tâm

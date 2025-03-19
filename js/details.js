@@ -2,6 +2,7 @@
 const urlParams = new URLSearchParams(window.location.search);
 const courseId = urlParams.get("courseId");
 const lessonId = urlParams.get("lessonId");
+const categoryId = urlParams.get("categoryId");
 
 function loadResults() {
     const resultContainer = document.getElementById("result-container");
@@ -47,13 +48,24 @@ function loadResults() {
         });
     }
 }
+// http://127.0.0.1:5501/quiz.html?categoryId=2
+function retryQuiz(choice) {
+    if (choice === "lession") {
+        // Xóa kết quả cũ
+        localStorage.removeItem("quizResults");
+        // Chuyển về trang quiz với đúng courseId & lessonId
+        window.location.href = `./courses.html?courseId=${courseId}`;
+    } else if (choice === "again") {
+        // Xóa kết quả cũ
+        localStorage.removeItem("quizResults");
+        // Chuyển về trang quiz với đúng courseId & lessonId
+        if (categoryId == 1) {
+            window.location.href = `quiz.html?courseId=${courseId}&categoryId=${categoryId}&lessonId=${lessonId}`;
+        } else {
+            window.location.href = `/quiz.html?courseId=${courseId}&categoryId=${categoryId}`;
+        }
 
-function retryQuiz() {
-    // Xóa kết quả cũ
-    localStorage.removeItem("quizResults");
-
-    // Chuyển về trang quiz với đúng courseId & lessonId
-    window.location.href = `quiz.html?courseId=${courseId}&lessonId=${lessonId}`;
+    }
 }
 
 loadResults();

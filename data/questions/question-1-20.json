@@ -2,884 +2,728 @@
     "questions": [
         {
             "id": 1,
-            "question_text": "おととい có nghĩa là gì?",
+            "question_text": "<ruby>切手を集めます<rt>きってをあつめます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Hôm qua",
+                    "answer_text": "Hát",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Hôm kia",
+                    "answer_text": "Sưu tập, thu thập",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Hôm nay",
+                    "answer_text": "Bẻ, gấp",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Ngày mai",
+                    "answer_text": "Tham gia",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 2,
-            "question_text": "<ruby>昨日<rt>きのう</rt></ruby> có nghĩa là gì?",
+            "question_text": "<ruby>歌を歌います<rt>うたをうたいます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Hôm kia",
+                    "answer_text": "Sưu tập, thu thập",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Hôm qua",
+                    "answer_text": "Hát",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Hôm nay",
+                    "answer_text": "Tham gia",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Ngày mai",
+                    "answer_text": "Tìm kiếm, tra cứu",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 3,
-            "question_text": "<ruby>今日<rt>きょう</rt></ruby> có nghĩa là gì?",
+            "question_text": "<ruby>折り紙を折ります<rt>おりがみをおります</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Hôm kia",
+                    "answer_text": "Hát",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Hôm nay",
+                    "answer_text": "Bẻ, gấp",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Hôm qua",
+                    "answer_text": "Tìm kiếm, tra cứu",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Ngày mai",
+                    "answer_text": "Gọi điện thoại",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 4,
-            "question_text": "<ruby>毎日<rt>まいにち</rt></ruby> có nghĩa là gì?",
+            "question_text": "参加します có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Hôm kia",
+                    "answer_text": "Bẻ, gấp",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Mỗi ngày",
+                    "answer_text": "Tham gia",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Hôm qua",
+                    "answer_text": "Gọi điện thoại",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Ngày mai",
+                    "answer_text": "Có thể",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 5,
-            "question_text": "<ruby>今朝<rt>けさ</rt></ruby> có nghĩa là gì?",
+            "question_text": "<ruby>インターネットで調べます<rt>インターネットでしらべます</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Sáng mai",
+                    "answer_text": "Tham gia",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Sáng nay",
+                    "answer_text": "Tìm kiếm, tra cứu",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Tối nay",
+                    "answer_text": "Có thể",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Tối qua",
+                    "answer_text": "Nghệ thuật gấp giấy",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 6,
-            "question_text": "<ruby>毎朝<rt>まいあさ</rt></ruby> có nghĩa là gì?",
+            "question_text": "電話します có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Mỗi tối",
+                    "answer_text": "Tìm kiếm, tra cứu",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Mỗi sáng",
+                    "answer_text": "Gọi điện thoại",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Mỗi trưa",
+                    "answer_text": "Nghệ thuật gấp giấy",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Mỗi đêm",
+                    "answer_text": "Brazil",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 7,
-            "question_text": "<ruby>昼<rt>ひる</rt></ruby> có nghĩa là gì?",
+            "question_text": "出来ます có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Tối",
+                    "answer_text": "Gọi điện thoại",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Trưa",
+                    "answer_text": "Có thể",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Sáng",
+                    "answer_text": "Brazil",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Đêm",
+                    "answer_text": "Tiếng nước ngoài",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 8,
-            "question_text": "<ruby>晩<rt>ばん</rt></ruby> có nghĩa là gì?",
+            "question_text": "<ruby>折り紙<rt>おりがみ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Sáng",
+                    "answer_text": "Có thể",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Tối",
+                    "answer_text": "Nghệ thuật gấp giấy",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Trưa",
+                    "answer_text": "Tiếng nước ngoài",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Chiều",
+                    "answer_text": "Internet",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 9,
-            "question_text": "<ruby>今晩<rt>こんばん</rt></ruby> có nghĩa là gì?",
+            "question_text": "ブラジル có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Sáng nay",
+                    "answer_text": "Nghệ thuật gấp giấy",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Tối nay",
+                    "answer_text": "Brazil",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Trưa nay",
+                    "answer_text": "Internet",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Đêm nay",
+                    "answer_text": "Chữ Hán",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 10,
-            "question_text": "<ruby>毎晩<rt>まいばん</rt></ruby> có nghĩa là gì?",
+            "question_text": "<ruby>外国語<rt>がいこくご</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Mỗi sáng",
+                    "answer_text": "Brazil",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Mỗi tối",
+                    "answer_text": "Tiếng nước ngoài",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Mỗi trưa",
+                    "answer_text": "Chữ Hán",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Mỗi chiều",
+                    "answer_text": "Nhạc cụ",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 11,
-            "question_text": "<ruby>時間<rt>じかん</rt></ruby> có nghĩa là gì?",
+            "question_text": "インターネット có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Địa điểm",
+                    "answer_text": "Tiếng nước ngoài",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Thời gian",
+                    "answer_text": "Internet",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Đồ vật",
+                    "answer_text": "Nhạc cụ",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Con người",
+                    "answer_text": "Tem",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 12,
-            "question_text": "どのぐらい có nghĩa là gì?",
+            "question_text": "<ruby>漢字<rt>かんじ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Khi nào?",
+                    "answer_text": "Internet",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Khoảng bao lâu?",
+                    "answer_text": "Chữ Hán",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Ở đâu?",
+                    "answer_text": "Tem",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Bao nhiêu?",
+                    "answer_text": "Áo kimono",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 13,
-            "question_text": "<ruby>起き<rt>おき</rt></ruby>ます có nghĩa là gì?",
+            "question_text": "<ruby>切手<rt>きって</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Ngủ",
+                    "answer_text": "Chữ Hán",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Thức dậy",
+                    "answer_text": "Tem",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Ăn",
+                    "answer_text": "Áo kimono",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Uống",
+                    "answer_text": "Đàn ghi-ta",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 14,
-            "question_text": "<ruby>寝<rt>ね</rt></ruby>ます có nghĩa là gì?",
+            "question_text": "<ruby>着物<rt>きもの</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Thức dậy",
+                    "answer_text": "Tem",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Ngủ",
+                    "answer_text": "Áo kimono",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Ăn",
+                    "answer_text": "Đàn ghi-ta",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Uống",
+                    "answer_text": "Sự cố, tai nạn",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 15,
-            "question_text": "<ruby>終わ<rt>おわ</rt></ruby>ります có nghĩa là gì?",
+            "question_text": "ギター có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Bắt đầu",
+                    "answer_text": "Áo kimono",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Kết thúc",
+                    "answer_text": "Đàn ghi-ta",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Tiếp tục",
+                    "answer_text": "Sự cố, tai nạn",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Dừng lại",
+                    "answer_text": "Động đất",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 16,
-            "question_text": "<ruby>買い物<rt>かいもの</rt></ruby>します có nghĩa là gì?",
+            "question_text": "<ruby>事故<rt>じこ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Làm việc",
+                    "answer_text": "Đàn ghi-ta",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Mua sắm",
+                    "answer_text": "Sự cố, tai nạn",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Học",
+                    "answer_text": "Động đất",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Nghỉ ngơi",
+                    "answer_text": "Sở thích",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 17,
-            "question_text": "<ruby>散歩<rt>さんぽ</rt></ruby>します có nghĩa là gì?",
+            "question_text": "<ruby>地震<rt>じしん</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Chạy bộ",
+                    "answer_text": "Sự cố, tai nạn",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Đi dạo, tản bộ",
+                    "answer_text": "Động đất",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Bơi lội",
+                    "answer_text": "Sở thích",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Leo núi",
+                    "answer_text": "Con sếu",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 18,
-            "question_text": "<ruby>洗濯<rt>せんたく</rt></ruby>します có nghĩa là gì?",
+            "question_text": "<ruby>趣味<rt>しゅみ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Dọn dẹp",
+                    "answer_text": "Động đất",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Giặt giũ",
+                    "answer_text": "Sở thích",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Nấu ăn",
+                    "answer_text": "Con sếu",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Sửa chữa",
+                    "answer_text": "Bản lý lịch",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 19,
-            "question_text": "<ruby>掃除<rt>そうじ</rt></ruby>します có nghĩa là gì?",
+            "question_text": "<ruby>鶴<rt>つる</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Giặt giũ",
+                    "answer_text": "Sở thích",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Dọn dẹp, vệ sinh",
+                    "answer_text": "Con sếu",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Nấu ăn",
+                    "answer_text": "Bản lý lịch",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Sửa chữa",
+                    "answer_text": "Khách sạn",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 20,
-            "question_text": "<ruby>働き<rt>はたらき</rt></ruby>ます có nghĩa là gì?",
+            "question_text": "<ruby>履歴書<rt>りれきしょ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Học",
+                    "answer_text": "Con sếu",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Làm việc",
+                    "answer_text": "Bản lý lịch",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Nghỉ ngơi",
+                    "answer_text": "Khách sạn",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Chơi",
+                    "answer_text": "Đọc sách",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 21,
-            "question_text": "<ruby>勉強<rt>べんきょう</rt></ruby>します có nghĩa là gì?",
+            "question_text": "ホテル có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Làm việc",
+                    "answer_text": "Bản lý lịch",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Học",
+                    "answer_text": "Khách sạn",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Nghỉ ngơi",
+                    "answer_text": "Đọc sách",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Chơi",
+                    "answer_text": "Mét",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 22,
-            "question_text": "<ruby>休み<rt>やすみ</rt></ruby>ます có nghĩa là gì?",
+            "question_text": "<ruby>読書<rt>どくしょ</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Học",
+                    "answer_text": "Khách sạn",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Nghỉ",
+                    "answer_text": "Đọc sách",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Làm việc",
+                    "answer_text": "Mét",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Chơi",
+                    "answer_text": "Đặc biệt",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 23,
-            "question_text": "<ruby>お祭り<rt>おまつり</rt></ruby> có nghĩa là gì?",
+            "question_text": "メートル có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Đi xem phim",
+                    "answer_text": "Đọc sách",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Lễ hội",
+                    "answer_text": "Mét",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Đi mua sắm",
+                    "answer_text": "Đặc biệt",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Đi du lịch",
+                    "answer_text": "Tất nhiên rồi",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 24,
-            "question_text": "<ruby>お祭り<rt>おまつり</rt></ruby> có nghĩa là gì?",
+            "question_text": "<ruby>特に<rt>とくに</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Buổi hòa nhạc",
+                    "answer_text": "Mét",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Lễ hội",
+                    "answer_text": "Đặc biệt",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Phim",
+                    "answer_text": "Tất nhiên rồi",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Cuộc họp",
+                    "answer_text": "Tôi sẽ cố gắng hết mình",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 25,
-            "question_text": "コンサート có nghĩa là gì?",
+            "question_text": "もちろんです có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Lễ hội",
+                    "answer_text": "Đặc biệt",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Buổi hòa nhạc",
+                    "answer_text": "Tất nhiên rồi",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Phim",
+                    "answer_text": "Tôi sẽ cố gắng hết mình",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Cuộc họp",
+                    "answer_text": "Tôi không biết",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 26,
-            "question_text": "<ruby>映画<rt>えいが</rt></ruby> có nghĩa là gì?",
+            "question_text": "<ruby>頑張ります<rt>がんばります</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Buổi hòa nhạc",
+                    "answer_text": "Đặc biệt",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Phim",
+                    "answer_text": "Tôi sẽ cố gắng hết mình",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Lễ hội",
+                    "answer_text": "Nếu được, ~",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Cuộc họp",
+                    "answer_text": "Sưu tập, thu thập",
                     "is_correct": false
                 }
             ]
         },
         {
             "id": 27,
-            "question_text": "はやいですね có nghĩa là gì?",
+            "question_text": "よければ、~ có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Muộn nhỉ.",
+                    "answer_text": "Tôi sẽ cố gắng hết mình",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Sớm nhỉ.",
+                    "answer_text": "Nếu được, ~",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Tốt nhỉ.",
+                    "answer_text": "Sưu tập, thu thập",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Xấu nhỉ.",
+                    "answer_text": "Hát",
                     "is_correct": false
                 }
             ]
         },
         {
-            "id": 28,
-            "question_text": "ええ có nghĩa là gì?",
+            "id": 13,
+            "question_text": "<ruby>楽器<rt>がっき</rt></ruby> có nghĩa là gì?",
             "answers": [
                 {
                     "id": 1,
-                    "answer_text": "Không.",
+                    "answer_text": "Chữ Hán",
                     "is_correct": false
                 },
                 {
                     "id": 2,
-                    "answer_text": "Vâng.",
+                    "answer_text": "Nhạc cụ",
                     "is_correct": true
                 },
                 {
                     "id": 3,
-                    "answer_text": "Có lẽ.",
+                    "answer_text": "Tem",
                     "is_correct": false
                 },
                 {
                     "id": 4,
-                    "answer_text": "Không biết.",
-                    "is_correct": false
-                }
-            ]
-        },
-        {
-            "id": 29,
-            "question_text": "そうですか có nghĩa là gì?",
-            "answers": [
-                {
-                    "id": 1,
-                    "answer_text": "Thế nào?",
-                    "is_correct": false
-                },
-                {
-                    "id": 2,
-                    "answer_text": "Thế à.",
-                    "is_correct": true
-                },
-                {
-                    "id": 3,
-                    "answer_text": "Tại sao?",
-                    "is_correct": false
-                },
-                {
-                    "id": 4,
-                    "answer_text": "Ở đâu?",
-                    "is_correct": false
-                }
-            ]
-        },
-        {
-            "id": 30,
-            "question_text": "それから có nghĩa là gì?",
-            "answers": [
-                {
-                    "id": 1,
-                    "answer_text": "Trước đó, ...",
-                    "is_correct": false
-                },
-                {
-                    "id": 2,
-                    "answer_text": "Sau đó, ...",
-                    "is_correct": true
-                },
-                {
-                    "id": 3,
-                    "answer_text": "Trong khi đó, ...",
-                    "is_correct": false
-                },
-                {
-                    "id": 4,
-                    "answer_text": "Ngay lập tức, ...",
-                    "is_correct": false
-                }
-            ]
-        },
-        {
-            "id": 32,
-            "question_text": "<ruby>夜<rt>よる</rt></ruby> có nghĩa là gì?",
-            "answers": [
-                {
-                    "id": 1,
-                    "answer_text": "Buổi sáng",
-                    "is_correct": false
-                },
-                {
-                    "id": 2,
-                    "answer_text": "Buổi tối",
-                    "is_correct": true
-                },
-                {
-                    "id": 3,
-                    "answer_text": "Buổi trưa",
-                    "is_correct": false
-                },
-                {
-                    "id": 4,
-                    "answer_text": "Ban đêm",
-                    "is_correct": false
-                }
-            ]
-        },
-        {
-            "id": 33,
-            "question_text": "<ruby>朝<rt>あさ</rt></ruby> có nghĩa là gì?",
-            "answers": [
-                {
-                    "id": 1,
-                    "answer_text": "Buổi tối",
-                    "is_correct": false
-                },
-                {
-                    "id": 2,
-                    "answer_text": "Buổi sáng",
-                    "is_correct": true
-                },
-                {
-                    "id": 3,
-                    "answer_text": "Buổi trưa",
-                    "is_correct": false
-                },
-                {
-                    "id": 4,
-                    "answer_text": "Ban đêm",
-                    "is_correct": false
-                }
-            ]
-        },
-        {
-            "id": 34,
-            "question_text": "<ruby>夜<rt>よる</rt></ruby> có nghĩa là gì?",
-            "answers": [
-                {
-                    "id": 1,
-                    "answer_text": "Sáng",
-                    "is_correct": false
-                },
-                {
-                    "id": 2,
-                    "answer_text": "Tối",
-                    "is_correct": true
-                },
-                {
-                    "id": 3,
-                    "answer_text": "Trưa",
-                    "is_correct": false
-                },
-                {
-                    "id": 4,
-                    "answer_text": "Chiều",
-                    "is_correct": false
-                }
-            ]
-        },
-        {
-            "id": 35,
-            "question_text": "どのくらい có nghĩa là gì?",
-            "answers": [
-                {
-                    "id": 1,
-                    "answer_text": "Khi nào?",
-                    "is_correct": false
-                },
-                {
-                    "id": 2,
-                    "answer_text": "Khoảng bao lâu?",
-                    "is_correct": true
-                },
-                {
-                    "id": 3,
-                    "answer_text": "Ở đâu?",
-                    "is_correct": false
-                },
-                {
-                    "id": 4,
-                    "answer_text": "Bao nhiêu?",
+                    "answer_text": "Áo kimono",
                     "is_correct": false
                 }
             ]
