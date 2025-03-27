@@ -15,10 +15,9 @@ document.addEventListener("DOMContentLoaded", () => {
                 breadcrumb.innerHTML = `<p style="color: red;">Khóa học không tồn tại!</p>`;
                 return;
             }
-
             // Cập nhật breadcrumb với course.title
             breadcrumb.innerHTML = `
-                <i class="fa fa-book"></i> <a href="./index.html">Khóa học</a><span>/</span><a href="#"> ${course.title}</a>
+                <i class="fa fa-book"></i> <a href="./index.html">Khóa học</a><span>/</span><a href="./courses.html?courseId=${course.id}"> ${course.title}</a>
             `;
 
             course.categorys.forEach(category => {

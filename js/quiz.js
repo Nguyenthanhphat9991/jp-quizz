@@ -4,15 +4,41 @@ const lessonId = urlParams.get("lessonId");
 const courseId = urlParams.get("courseId");
 const categoryId = urlParams.get("categoryId");
 
+
+
 let dataFile = "";
 let title = "";
 if (categoryId == 1) {
+
+    if(lessonId == "1to5") {
+        title = 'Ôn tập từ bài 1 - 5';
+    }
+    else if(lessonId == "6to10") {
+        title = 'Ôn tập từ bài 6 - 10';
+    }
+    else if(lessonId == "11to15") {
+        title = 'Ôn tập từ bài 11 - 15';
+    } else if(lessonId == "16to20") {
+        title = 'Ôn tập từ bài 16 - 20';
+    } else if(lessonId == "21to25") {
+        title = 'Ôn tập từ bài 21 - 25';
+    } else if(lessonId == "26to28") {
+        title = 'Ôn tập từ bài 26 - 28';
+    } else if(lessonId == "1to28") {
+        title = 'Ôn tập từ bài 1 - 28';
+    } else {
+        title = 'Bài ' + lessonId;
+    }
     dataFile = `./data/questions/question-${categoryId}-${lessonId}.json`;
-    title = 'Bài ' + lessonId;
+
 }
 else if (categoryId == 2) {
     dataFile = `./data/questions/dong-tu.json`;
     title = 'Chúc mọi người ôn động từ vui vẻ!';
+}
+else if (categoryId == 3) {
+    dataFile = `./data/questions/tinh-tu.json`;
+    title = 'Chúc mọi người ôn tính từ vui vẻ!';
 }
 
 fetch(dataFile)
@@ -83,8 +109,11 @@ fetch(dataFile)
                 'wrongQuestions': wrongQuestions
             }));
             localStorage.setItem("lessonId", JSON.stringify(lessonId));
-
-            window.location.href = `details.html?courseId=${courseId}&lessonId=${lessonId}`;
+            if (categoryId === "1") {
+                window.location.href = `details.html?courseId=${courseId}&categoryId=${categoryId}&lessonId=${lessonId}`;
+            } else {
+                window.location.href = `details.html?courseId=${courseId}&categoryId=${categoryId}`;
+            }
         }
 
         loadQuestion();

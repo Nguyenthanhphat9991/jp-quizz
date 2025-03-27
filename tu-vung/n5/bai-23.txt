@@ -24,4 +24,4 @@ Phó từ,いちども (ichido mo),一度も (ichido mo),Một lần cũng
 Phó từ,ぜひ (zehi),,Nhất định
 Hội thoại,いいなあ (ii naa),,Thật tuyệt.
 Hội thoại,おもいで (omoide),思い出 (omoide),Kỷ niệm.
-Hội thoại,いいおもいでがたくさんできました (ii omoide ga takusan dekimashita),良い思い出がたくさんできました (ii omoide ga takusan dekimashita),Tôi đã có nhiều kỷ niệm đẹp.
+Hội thoại,いいおもいでがたくさんできました ,いい思い出がたくさんできました ,Tôi đã có nhiều kỷ niệm đẹp.
